@@ -1,0 +1,1501 @@
+id_pedido,id_restaurante,nome_restaurante,cidade_restaurante,categoria,id_cliente,data_pedido,valor,status,tempo_preparo_min,tempo_entrega_min,avaliacao,hora_pedido,data
+1488,2,Verde no Pote,Guarulhos,Saudável,194,2025-01-01 10:48:00,102.46,entregue,32,46,1.0,10,2025-01-01
+1409,5,Temaki House,São Paulo,Japonesa,435,2025-01-01 13:26:00,175.27,entregue,42,47,2.0,13,2025-01-01
+1482,4,Burguer Lab,Guarulhos,Hambúrguer,20,2025-01-01 14:32:00,164.81,entregue,42,27,3.0,14,2025-01-01
+901,5,Temaki House,São Paulo,Japonesa,103,2025-01-02 14:21:00,98.93,entregue,44,17,4.0,14,2025-01-02
+1294,1,Sabor da Vila,São Paulo,Brasileira,373,2025-01-02 15:25:00,61.99,em_preparo,49,36,,15,2025-01-02
+1237,4,Burguer Lab,Guarulhos,Hambúrguer,125,2025-01-02 17:16:00,172.1,entregue,22,66,3.0,17,2025-01-02
+773,4,Burguer Lab,Guarulhos,Hambúrguer,265,2025-01-02 18:50:00,80.9,em_preparo,19,73,,18,2025-01-02
+381,5,Temaki House,São Paulo,Japonesa,326,2025-01-02 22:29:00,112.78,em_entrega,25,32,,22,2025-01-02
+846,1,Sabor da Vila,São Paulo,Brasileira,420,2025-01-02 23:33:00,40.04,entregue,26,55,5.0,23,2025-01-02
+845,4,Burguer Lab,Guarulhos,Hambúrguer,312,2025-01-02 23:56:00,116.97,cancelado,21,0,,23,2025-01-02
+465,4,Burguer Lab,Guarulhos,Hambúrguer,464,2025-01-03 09:02:00,115.36,entregue,48,23,1.0,9,2025-01-03
+575,5,Temaki House,São Paulo,Japonesa,218,2025-01-03 13:59:00,47.6,entregue,15,23,5.0,13,2025-01-03
+1190,4,Burguer Lab,Guarulhos,Hambúrguer,339,2025-01-03 16:04:00,35.61,entregue,18,17,4.0,16,2025-01-03
+104,5,Temaki House,São Paulo,Japonesa,44,2025-01-03 16:29:00,87.32,em_preparo,41,20,,16,2025-01-03
+707,3,Forno & Massa,São Paulo,Italiana,265,2025-01-03 20:47:00,62.16,entregue,38,16,3.0,20,2025-01-03
+1279,2,Verde no Pote,Guarulhos,Saudável,429,2025-01-03 23:10:00,40.74,entregue,38,45,1.0,23,2025-01-03
+1175,3,Forno & Massa,São Paulo,Italiana,101,2025-01-04 02:52:00,172.47,entregue,30,21,5.0,2,2025-01-04
+303,4,Burguer Lab,Guarulhos,Hambúrguer,413,2025-01-04 14:51:00,90.99,entregue,19,25,4.0,14,2025-01-04
+1070,2,Verde no Pote,Guarulhos,Saudável,397,2025-01-04 21:58:00,80.54,entregue,18,58,5.0,21,2025-01-04
+801,3,Forno & Massa,São Paulo,Italiana,277,2025-01-05 09:55:00,50.04,entregue,12,66,5.0,9,2025-01-05
+790,5,Temaki House,São Paulo,Japonesa,35,2025-01-05 11:46:00,156.7,entregue,21,60,3.0,11,2025-01-05
+1121,2,Verde no Pote,Guarulhos,Saudável,300,2025-01-06 01:49:00,76.66,entregue,10,46,1.0,1,2025-01-06
+410,1,Sabor da Vila,São Paulo,Brasileira,204,2025-01-06 02:04:00,71.16,entregue,35,71,1.0,2,2025-01-06
+839,3,Forno & Massa,São Paulo,Italiana,354,2025-01-06 07:39:00,76.19,entregue,25,18,4.0,7,2025-01-06
+1038,2,Verde no Pote,Guarulhos,Saudável,217,2025-01-06 08:37:00,119.21,entregue,44,48,4.0,8,2025-01-06
+889,4,Burguer Lab,Guarulhos,Hambúrguer,106,2025-01-06 17:57:00,124.34,entregue,30,21,5.0,17,2025-01-06
+1366,5,Temaki House,São Paulo,Japonesa,152,2025-01-07 10:46:00,53.97,em_preparo,33,40,,10,2025-01-07
+478,5,Temaki House,São Paulo,Japonesa,466,2025-01-07 12:15:00,103.92,entregue,14,36,5.0,12,2025-01-07
+415,4,Burguer Lab,Guarulhos,Hambúrguer,219,2025-01-07 13:20:00,73.7,entregue,41,29,1.0,13,2025-01-07
+233,2,Verde no Pote,Guarulhos,Saudável,118,2025-01-08 03:01:00,19.5,entregue,41,24,2.0,3,2025-01-08
+540,2,Verde no Pote,Guarulhos,Saudável,426,2025-01-08 17:15:00,139.85,entregue,18,23,4.0,17,2025-01-08
+300,4,Burguer Lab,Guarulhos,Hambúrguer,414,2025-01-08 21:19:00,157.62,entregue,32,26,1.0,21,2025-01-08
+1167,1,Sabor da Vila,São Paulo,Brasileira,129,2025-01-09 00:10:00,175.75,entregue,18,50,5.0,0,2025-01-09
+369,4,Burguer Lab,Guarulhos,Hambúrguer,93,2025-01-09 01:43:00,35.45,entregue,47,16,4.0,1,2025-01-09
+170,5,Temaki House,São Paulo,Japonesa,62,2025-01-09 06:57:00,43.27,entregue,27,61,2.0,6,2025-01-09
+272,1,Sabor da Vila,São Paulo,Brasileira,159,2025-01-09 07:45:00,82.47,entregue,41,61,1.0,7,2025-01-09
+821,4,Burguer Lab,Guarulhos,Hambúrguer,95,2025-01-09 17:56:00,43.39,entregue,22,63,4.0,17,2025-01-09
+1180,3,Forno & Massa,São Paulo,Italiana,108,2025-01-10 01:27:00,36.2,entregue,11,32,5.0,1,2025-01-10
+454,3,Forno & Massa,São Paulo,Italiana,178,2025-01-10 01:46:00,44.47,entregue,15,56,1.0,1,2025-01-10
+1399,4,Burguer Lab,Guarulhos,Hambúrguer,344,2025-01-10 03:05:00,30.84,entregue,36,17,4.0,3,2025-01-10
+429,4,Burguer Lab,Guarulhos,Hambúrguer,298,2025-01-10 03:53:00,85.5,entregue,17,56,5.0,3,2025-01-10
+830,2,Verde no Pote,Guarulhos,Saudável,2,2025-01-11 14:02:00,168.9,em_preparo,30,33,,14,2025-01-11
+1493,2,Verde no Pote,Guarulhos,Saudável,147,2025-01-11 16:12:00,146.05,entregue,43,27,5.0,16,2025-01-11
+1300,1,Sabor da Vila,São Paulo,Brasileira,118,2025-01-11 19:21:00,19.66,entregue,27,67,4.0,19,2025-01-11
+138,5,Temaki House,São Paulo,Japonesa,4,2025-01-12 05:57:00,30.15,entregue,30,59,4.0,5,2025-01-12
+385,1,Sabor da Vila,São Paulo,Brasileira,459,2025-01-12 15:32:00,97.44,em_entrega,10,29,,15,2025-01-12
+787,3,Forno & Massa,São Paulo,Italiana,7,2025-01-12 19:38:00,47.64,cancelado,21,0,,19,2025-01-12
+147,4,Burguer Lab,Guarulhos,Hambúrguer,138,2025-01-13 15:54:00,172.77,entregue,40,47,3.0,15,2025-01-13
+663,3,Forno & Massa,São Paulo,Italiana,184,2025-01-13 19:53:00,43.66,cancelado,21,0,,19,2025-01-13
+1446,5,Temaki House,São Paulo,Japonesa,131,2025-01-14 01:58:00,20.3,cancelado,15,0,,1,2025-01-14
+970,5,Temaki House,São Paulo,Japonesa,428,2025-01-14 03:53:00,111.15,cancelado,21,0,,3,2025-01-14
+844,1,Sabor da Vila,São Paulo,Brasileira,360,2025-01-14 04:47:00,60.53,entregue,28,35,4.0,4,2025-01-14
+1266,5,Temaki House,São Paulo,Japonesa,1,2025-01-14 11:51:00,55.09,entregue,32,51,2.0,11,2025-01-14
+117,1,Sabor da Vila,São Paulo,Brasileira,172,2025-01-14 14:25:00,56.34,em_preparo,22,66,,14,2025-01-14
+328,1,Sabor da Vila,São Paulo,Brasileira,32,2025-01-14 15:44:00,18.6,entregue,32,58,2.0,15,2025-01-14
+870,1,Sabor da Vila,São Paulo,Brasileira,420,2025-01-15 15:43:00,109.68,entregue,21,19,5.0,15,2025-01-15
+1240,4,Burguer Lab,Guarulhos,Hambúrguer,394,2025-01-15 22:41:00,132.24,entregue,11,73,3.0,22,2025-01-15
+1452,1,Sabor da Vila,São Paulo,Brasileira,161,2025-01-15 23:51:00,101.49,em_entrega,43,63,,23,2025-01-15
+1099,4,Burguer Lab,Guarulhos,Hambúrguer,172,2025-01-16 01:09:00,37.95,entregue,40,29,2.0,1,2025-01-16
+250,5,Temaki House,São Paulo,Japonesa,177,2025-01-16 04:32:00,117.67,entregue,24,26,5.0,4,2025-01-16
+1019,3,Forno & Massa,São Paulo,Italiana,62,2025-01-16 04:59:00,113.1,entregue,33,43,5.0,4,2025-01-16
+902,5,Temaki House,São Paulo,Japonesa,261,2025-01-16 10:59:00,44.22,entregue,38,57,2.0,10,2025-01-16
+817,2,Verde no Pote,Guarulhos,Saudável,363,2025-01-16 18:35:00,60.68,entregue,32,68,4.0,18,2025-01-16
+562,3,Forno & Massa,São Paulo,Italiana,321,2025-01-16 20:50:00,117.56,em_preparo,35,55,,20,2025-01-16
+56,1,Sabor da Vila,São Paulo,Brasileira,433,2025-01-16 23:43:00,67.19,entregue,18,67,1.0,23,2025-01-16
+811,2,Verde no Pote,Guarulhos,Saudável,28,2025-01-17 02:56:00,77.03,em_entrega,47,64,,2,2025-01-17
+1110,3,Forno & Massa,São Paulo,Italiana,313,2025-01-17 07:07:00,90.81,entregue,14,32,1.0,7,2025-01-17
+397,3,Forno & Massa,São Paulo,Italiana,432,2025-01-17 08:18:00,126.24,entregue,44,49,5.0,8,2025-01-17
+352,5,Temaki House,São Paulo,Japonesa,86,2025-01-17 09:25:00,92.39,entregue,39,17,3.0,9,2025-01-17
+1463,1,Sabor da Vila,São Paulo,Brasileira,375,2025-01-18 08:13:00,48.25,em_preparo,44,27,,8,2025-01-18
+1270,2,Verde no Pote,Guarulhos,Saudável,444,2025-01-18 18:35:00,168.11,entregue,32,50,5.0,18,2025-01-18
+1286,1,Sabor da Vila,São Paulo,Brasileira,333,2025-01-18 20:55:00,53.16,cancelado,35,0,,20,2025-01-18
+574,4,Burguer Lab,Guarulhos,Hambúrguer,291,2025-01-18 23:27:00,31.16,cancelado,42,0,,23,2025-01-18
+699,2,Verde no Pote,Guarulhos,Saudável,59,2025-01-19 07:16:00,154.21,entregue,33,35,3.0,7,2025-01-19
+1464,4,Burguer Lab,Guarulhos,Hambúrguer,497,2025-01-19 14:24:00,44.17,entregue,21,70,4.0,14,2025-01-19
+1453,2,Verde no Pote,Guarulhos,Saudável,272,2025-01-19 16:56:00,20.22,em_preparo,17,67,,16,2025-01-19
+848,4,Burguer Lab,Guarulhos,Hambúrguer,23,2025-01-19 20:31:00,85.33,entregue,29,39,2.0,20,2025-01-19
+584,5,Temaki House,São Paulo,Japonesa,129,2025-01-19 23:11:00,162.49,em_entrega,27,58,,23,2025-01-19
+887,4,Burguer Lab,Guarulhos,Hambúrguer,297,2025-01-20 08:30:00,22.18,entregue,19,68,4.0,8,2025-01-20
+546,3,Forno & Massa,São Paulo,Italiana,214,2025-01-20 11:37:00,146.16,entregue,25,54,2.0,11,2025-01-20
+898,4,Burguer Lab,Guarulhos,Hambúrguer,66,2025-01-20 21:25:00,146.95,cancelado,26,0,,21,2025-01-20
+1267,2,Verde no Pote,Guarulhos,Saudável,105,2025-01-21 02:16:00,38.07,entregue,22,62,2.0,2,2025-01-21
+542,3,Forno & Massa,São Paulo,Italiana,163,2025-01-21 05:15:00,134.15,entregue,16,73,2.0,5,2025-01-21
+1026,2,Verde no Pote,Guarulhos,Saudável,432,2025-01-21 06:46:00,56.93,entregue,14,75,2.0,6,2025-01-21
+1021,2,Verde no Pote,Guarulhos,Saudável,447,2025-01-21 10:05:00,57.96,entregue,27,46,3.0,10,2025-01-21
+858,5,Temaki House,São Paulo,Japonesa,124,2025-01-21 21:21:00,43.17,entregue,40,71,4.0,21,2025-01-21
+1136,1,Sabor da Vila,São Paulo,Brasileira,175,2025-01-22 05:01:00,112.44,entregue,34,44,4.0,5,2025-01-22
+150,4,Burguer Lab,Guarulhos,Hambúrguer,422,2025-01-22 06:43:00,140.8,entregue,20,68,4.0,6,2025-01-22
+1351,1,Sabor da Vila,São Paulo,Brasileira,188,2025-01-23 00:08:00,73.71,entregue,16,62,2.0,0,2025-01-23
+1470,1,Sabor da Vila,São Paulo,Brasileira,112,2025-01-23 02:13:00,166.45,entregue,12,25,5.0,2,2025-01-23
+1411,2,Verde no Pote,Guarulhos,Saudável,24,2025-01-23 03:05:00,23.97,entregue,18,19,2.0,3,2025-01-23
+619,5,Temaki House,São Paulo,Japonesa,307,2025-01-23 07:31:00,126.22,entregue,45,34,3.0,7,2025-01-23
+36,3,Forno & Massa,São Paulo,Italiana,152,2025-01-24 07:02:00,159.97,entregue,30,20,2.0,7,2025-01-24
+279,1,Sabor da Vila,São Paulo,Brasileira,275,2025-01-24 17:01:00,107.04,entregue,14,17,3.0,17,2025-01-24
+1456,5,Temaki House,São Paulo,Japonesa,383,2025-01-24 22:02:00,137.44,entregue,39,30,2.0,22,2025-01-24
+1035,4,Burguer Lab,Guarulhos,Hambúrguer,309,2025-01-25 06:53:00,163.53,entregue,13,66,3.0,6,2025-01-25
+518,3,Forno & Massa,São Paulo,Italiana,420,2025-01-25 07:03:00,139.85,em_entrega,31,49,,7,2025-01-25
+1362,1,Sabor da Vila,São Paulo,Brasileira,262,2025-01-25 12:22:00,39.97,entregue,34,60,2.0,12,2025-01-25
+387,3,Forno & Massa,São Paulo,Italiana,413,2025-01-25 16:33:00,157.27,entregue,38,44,2.0,16,2025-01-25
+45,1,Sabor da Vila,São Paulo,Brasileira,322,2025-01-25 18:58:00,161.14,entregue,28,51,3.0,18,2025-01-25
+899,2,Verde no Pote,Guarulhos,Saudável,403,2025-01-26 14:57:00,122.39,em_preparo,48,72,,14,2025-01-26
+1022,1,Sabor da Vila,São Paulo,Brasileira,462,2025-01-27 07:14:00,101.91,entregue,36,73,5.0,7,2025-01-27
+659,2,Verde no Pote,Guarulhos,Saudável,151,2025-01-27 10:48:00,50.71,em_preparo,15,50,,10,2025-01-27
+1253,1,Sabor da Vila,São Paulo,Brasileira,446,2025-01-28 00:30:00,91.62,em_entrega,14,62,,0,2025-01-28
+1215,1,Sabor da Vila,São Paulo,Brasileira,155,2025-01-28 01:47:00,175.91,entregue,49,30,3.0,1,2025-01-28
+69,5,Temaki House,São Paulo,Japonesa,171,2025-01-28 20:45:00,129.74,entregue,22,24,2.0,20,2025-01-28
+1055,3,Forno & Massa,São Paulo,Italiana,55,2025-01-28 23:06:00,19.64,entregue,32,71,5.0,23,2025-01-28
+1027,1,Sabor da Vila,São Paulo,Brasileira,420,2025-01-29 08:10:00,30.72,entregue,34,29,3.0,8,2025-01-29
+127,1,Sabor da Vila,São Paulo,Brasileira,183,2025-01-29 21:46:00,96.17,entregue,10,25,2.0,21,2025-01-29
+217,4,Burguer Lab,Guarulhos,Hambúrguer,394,2025-01-29 22:15:00,58.65,em_entrega,46,41,,22,2025-01-29
+1096,3,Forno & Massa,São Paulo,Italiana,226,2025-01-30 05:13:00,27.52,entregue,24,75,3.0,5,2025-01-30
+439,2,Verde no Pote,Guarulhos,Saudável,128,2025-01-30 12:25:00,134.9,entregue,22,19,1.0,12,2025-01-30
+1361,2,Verde no Pote,Guarulhos,Saudável,107,2025-01-31 02:00:00,50.1,entregue,31,18,5.0,2,2025-01-31
+280,5,Temaki House,São Paulo,Japonesa,302,2025-01-31 04:42:00,26.99,entregue,12,37,2.0,4,2025-01-31
+1122,2,Verde no Pote,Guarulhos,Saudável,31,2025-01-31 16:51:00,19.37,entregue,11,58,3.0,16,2025-01-31
+431,3,Forno & Massa,São Paulo,Italiana,323,2025-01-31 19:14:00,30.52,entregue,10,66,2.0,19,2025-01-31
+246,3,Forno & Massa,São Paulo,Italiana,4,2025-01-31 19:43:00,156.5,entregue,22,35,1.0,19,2025-01-31
+678,3,Forno & Massa,São Paulo,Italiana,22,2025-01-31 20:09:00,150.97,entregue,28,32,1.0,20,2025-01-31
+1328,5,Temaki House,São Paulo,Japonesa,405,2025-01-31 22:56:00,138.57,entregue,37,56,1.0,22,2025-01-31
+1256,3,Forno & Massa,São Paulo,Italiana,37,2025-01-31 23:01:00,176.2,em_preparo,26,56,,23,2025-01-31
+7,5,Temaki House,São Paulo,Japonesa,439,2025-02-01 08:53:00,37.77,entregue,21,32,1.0,8,2025-02-01
+881,1,Sabor da Vila,São Paulo,Brasileira,443,2025-02-01 09:34:00,40.42,entregue,16,34,2.0,9,2025-02-01
+753,3,Forno & Massa,São Paulo,Italiana,31,2025-02-01 11:37:00,98.78,entregue,39,52,1.0,11,2025-02-01
+196,2,Verde no Pote,Guarulhos,Saudável,113,2025-02-01 23:48:00,63.44,entregue,44,38,4.0,23,2025-02-01
+728,3,Forno & Massa,São Paulo,Italiana,216,2025-02-02 00:19:00,121.85,em_entrega,41,51,,0,2025-02-02
+1,3,Forno & Massa,São Paulo,Italiana,10,2025-02-02 13:50:00,91.71,entregue,38,52,5.0,13,2025-02-02
+172,4,Burguer Lab,Guarulhos,Hambúrguer,138,2025-02-02 20:49:00,87.51,cancelado,38,0,,20,2025-02-02
+695,4,Burguer Lab,Guarulhos,Hambúrguer,422,2025-02-02 21:19:00,31.75,entregue,25,23,1.0,21,2025-02-02
+826,4,Burguer Lab,Guarulhos,Hambúrguer,403,2025-02-03 00:15:00,134.8,entregue,26,46,5.0,0,2025-02-03
+133,1,Sabor da Vila,São Paulo,Brasileira,220,2025-02-03 01:21:00,62.14,em_entrega,21,70,,1,2025-02-03
+359,2,Verde no Pote,Guarulhos,Saudável,188,2025-02-03 04:32:00,24.13,em_entrega,20,17,,4,2025-02-03
+910,5,Temaki House,São Paulo,Japonesa,245,2025-02-03 11:28:00,115.25,entregue,39,75,4.0,11,2025-02-03
+33,1,Sabor da Vila,São Paulo,Brasileira,81,2025-02-03 15:06:00,125.01,entregue,38,61,5.0,15,2025-02-03
+581,4,Burguer Lab,Guarulhos,Hambúrguer,210,2025-02-04 01:29:00,20.49,entregue,22,43,5.0,1,2025-02-04
+951,5,Temaki House,São Paulo,Japonesa,81,2025-02-04 02:15:00,51.64,em_preparo,20,57,,2,2025-02-04
+10,4,Burguer Lab,Guarulhos,Hambúrguer,382,2025-02-04 08:59:00,57.73,entregue,49,20,3.0,8,2025-02-04
+376,1,Sabor da Vila,São Paulo,Brasileira,240,2025-02-04 11:31:00,28.07,entregue,37,67,4.0,11,2025-02-04
+243,2,Verde no Pote,Guarulhos,Saudável,154,2025-02-04 13:31:00,71.91,cancelado,27,0,,13,2025-02-04
+700,3,Forno & Massa,São Paulo,Italiana,265,2025-02-04 16:37:00,27.9,entregue,48,38,5.0,16,2025-02-04
+674,4,Burguer Lab,Guarulhos,Hambúrguer,471,2025-02-04 17:02:00,53.55,entregue,23,47,3.0,17,2025-02-04
+977,5,Temaki House,São Paulo,Japonesa,246,2025-02-04 18:19:00,62.31,entregue,20,63,3.0,18,2025-02-04
+791,1,Sabor da Vila,São Paulo,Brasileira,96,2025-02-04 22:08:00,23.36,cancelado,43,0,,22,2025-02-04
+218,3,Forno & Massa,São Paulo,Italiana,316,2025-02-05 04:23:00,42.91,entregue,50,26,4.0,4,2025-02-05
+87,5,Temaki House,São Paulo,Japonesa,18,2025-02-05 11:42:00,63.56,entregue,18,42,5.0,11,2025-02-05
+588,2,Verde no Pote,Guarulhos,Saudável,258,2025-02-06 04:13:00,164.41,entregue,20,44,5.0,4,2025-02-06
+891,2,Verde no Pote,Guarulhos,Saudável,385,2025-02-06 11:49:00,61.48,entregue,17,24,5.0,11,2025-02-06
+580,1,Sabor da Vila,São Paulo,Brasileira,67,2025-02-07 02:38:00,138.97,entregue,30,41,5.0,2,2025-02-07
+1436,3,Forno & Massa,São Paulo,Italiana,150,2025-02-07 04:35:00,154.14,entregue,21,63,4.0,4,2025-02-07
+1289,5,Temaki House,São Paulo,Japonesa,114,2025-02-07 04:38:00,178.94,entregue,32,41,1.0,4,2025-02-07
+1450,4,Burguer Lab,Guarulhos,Hambúrguer,500,2025-02-07 14:18:00,142.63,entregue,30,65,3.0,14,2025-02-07
+1359,5,Temaki House,São Paulo,Japonesa,346,2025-02-07 14:26:00,133.93,entregue,24,68,2.0,14,2025-02-07
+258,4,Burguer Lab,Guarulhos,Hambúrguer,99,2025-02-07 17:48:00,65.18,entregue,15,57,1.0,17,2025-02-07
+1166,4,Burguer Lab,Guarulhos,Hambúrguer,247,2025-02-08 07:37:00,118.18,entregue,28,39,1.0,7,2025-02-08
+516,4,Burguer Lab,Guarulhos,Hambúrguer,172,2025-02-08 10:14:00,154.31,cancelado,48,0,,10,2025-02-08
+460,3,Forno & Massa,São Paulo,Italiana,74,2025-02-08 15:39:00,75.25,entregue,48,44,4.0,15,2025-02-08
+171,1,Sabor da Vila,São Paulo,Brasileira,440,2025-02-08 17:48:00,86.85,entregue,13,47,1.0,17,2025-02-08
+818,2,Verde no Pote,Guarulhos,Saudável,165,2025-02-08 20:14:00,58.0,entregue,14,45,3.0,20,2025-02-08
+583,1,Sabor da Vila,São Paulo,Brasileira,105,2025-02-08 23:03:00,130.76,entregue,10,52,3.0,23,2025-02-08
+1227,2,Verde no Pote,Guarulhos,Saudável,60,2025-02-09 03:32:00,120.38,entregue,31,15,5.0,3,2025-02-09
+322,3,Forno & Massa,São Paulo,Italiana,160,2025-02-09 07:48:00,168.57,entregue,37,74,3.0,7,2025-02-09
+310,5,Temaki House,São Paulo,Japonesa,27,2025-02-09 15:07:00,100.0,entregue,43,26,2.0,15,2025-02-09
+480,3,Forno & Massa,São Paulo,Italiana,96,2025-02-09 20:06:00,28.29,entregue,34,34,5.0,20,2025-02-09
+1272,3,Forno & Massa,São Paulo,Italiana,43,2025-02-09 21:18:00,55.59,entregue,19,18,5.0,21,2025-02-09
+808,3,Forno & Massa,São Paulo,Italiana,206,2025-02-10 08:45:00,141.55,entregue,40,70,3.0,8,2025-02-10
+1489,1,Sabor da Vila,São Paulo,Brasileira,241,2025-02-10 13:11:00,62.48,entregue,45,15,1.0,13,2025-02-10
+1466,5,Temaki House,São Paulo,Japonesa,417,2025-02-10 17:37:00,122.96,entregue,14,49,4.0,17,2025-02-10
+1484,4,Burguer Lab,Guarulhos,Hambúrguer,107,2025-02-10 21:44:00,47.19,em_entrega,43,26,,21,2025-02-10
+501,5,Temaki House,São Paulo,Japonesa,86,2025-02-11 12:15:00,100.11,entregue,18,22,4.0,12,2025-02-11
+873,1,Sabor da Vila,São Paulo,Brasileira,84,2025-02-11 12:16:00,32.77,cancelado,24,0,,12,2025-02-11
+1216,4,Burguer Lab,Guarulhos,Hambúrguer,121,2025-02-11 15:33:00,135.14,entregue,27,30,2.0,15,2025-02-11
+120,2,Verde no Pote,Guarulhos,Saudável,66,2025-02-11 19:17:00,121.41,entregue,46,31,4.0,19,2025-02-11
+1321,4,Burguer Lab,Guarulhos,Hambúrguer,212,2025-02-11 19:29:00,133.49,cancelado,35,0,,19,2025-02-11
+538,5,Temaki House,São Paulo,Japonesa,163,2025-02-12 03:41:00,38.76,entregue,32,73,1.0,3,2025-02-12
+1020,1,Sabor da Vila,São Paulo,Brasileira,253,2025-02-12 06:54:00,138.34,cancelado,31,0,,6,2025-02-12
+365,2,Verde no Pote,Guarulhos,Saudável,97,2025-02-12 07:59:00,56.21,em_entrega,46,64,,7,2025-02-12
+726,5,Temaki House,São Paulo,Japonesa,174,2025-02-12 17:49:00,91.83,entregue,30,50,4.0,17,2025-02-12
+198,4,Burguer Lab,Guarulhos,Hambúrguer,346,2025-02-13 01:43:00,95.91,cancelado,13,0,,1,2025-02-13
+778,2,Verde no Pote,Guarulhos,Saudável,14,2025-02-13 05:52:00,24.19,entregue,43,41,4.0,5,2025-02-13
+313,4,Burguer Lab,Guarulhos,Hambúrguer,277,2025-02-13 09:20:00,24.78,entregue,31,17,1.0,9,2025-02-13
+497,5,Temaki House,São Paulo,Japonesa,119,2025-02-13 09:30:00,70.39,entregue,40,52,4.0,9,2025-02-13
+946,3,Forno & Massa,São Paulo,Italiana,69,2025-02-13 12:20:00,119.42,entregue,24,48,2.0,12,2025-02-13
+1343,2,Verde no Pote,Guarulhos,Saudável,34,2025-02-13 13:26:00,83.25,entregue,32,66,4.0,13,2025-02-13
+1050,3,Forno & Massa,São Paulo,Italiana,47,2025-02-13 16:19:00,81.84,entregue,40,45,2.0,16,2025-02-13
+724,1,Sabor da Vila,São Paulo,Brasileira,29,2025-02-13 16:51:00,126.12,entregue,43,36,5.0,16,2025-02-13
+1157,1,Sabor da Vila,São Paulo,Brasileira,170,2025-02-13 20:39:00,35.14,entregue,44,59,2.0,20,2025-02-13
+863,3,Forno & Massa,São Paulo,Italiana,255,2025-02-13 21:13:00,36.38,entregue,33,25,4.0,21,2025-02-13
+418,3,Forno & Massa,São Paulo,Italiana,179,2025-02-14 11:15:00,143.65,entregue,21,21,1.0,11,2025-02-14
+784,2,Verde no Pote,Guarulhos,Saudável,244,2025-02-14 12:02:00,54.64,entregue,41,57,3.0,12,2025-02-14
+783,5,Temaki House,São Paulo,Japonesa,167,2025-02-14 19:12:00,158.94,entregue,43,39,1.0,19,2025-02-14
+386,3,Forno & Massa,São Paulo,Italiana,479,2025-02-14 19:21:00,159.79,entregue,18,48,1.0,19,2025-02-14
+436,3,Forno & Massa,São Paulo,Italiana,73,2025-02-15 04:04:00,179.52,cancelado,34,0,,4,2025-02-15
+1238,2,Verde no Pote,Guarulhos,Saudável,281,2025-02-15 05:05:00,22.4,entregue,48,34,1.0,5,2025-02-15
+874,2,Verde no Pote,Guarulhos,Saudável,469,2025-02-15 14:19:00,174.09,entregue,19,35,1.0,14,2025-02-15
+157,5,Temaki House,São Paulo,Japonesa,254,2025-02-16 02:13:00,170.38,entregue,15,20,5.0,2,2025-02-16
+221,2,Verde no Pote,Guarulhos,Saudável,430,2025-02-16 13:34:00,26.64,entregue,33,32,1.0,13,2025-02-16
+759,5,Temaki House,São Paulo,Japonesa,79,2025-02-16 16:35:00,151.37,entregue,37,33,3.0,16,2025-02-16
+18,3,Forno & Massa,São Paulo,Italiana,252,2025-02-16 18:16:00,32.59,entregue,12,19,5.0,18,2025-02-16
+1005,4,Burguer Lab,Guarulhos,Hambúrguer,295,2025-02-16 19:37:00,111.21,entregue,31,38,1.0,19,2025-02-16
+945,5,Temaki House,São Paulo,Japonesa,489,2025-02-17 04:59:00,50.67,entregue,20,63,4.0,4,2025-02-17
+705,3,Forno & Massa,São Paulo,Italiana,147,2025-02-17 05:01:00,39.66,entregue,31,69,3.0,5,2025-02-17
+74,4,Burguer Lab,Guarulhos,Hambúrguer,460,2025-02-17 10:06:00,52.84,entregue,46,52,5.0,10,2025-02-17
+434,2,Verde no Pote,Guarulhos,Saudável,214,2025-02-17 20:03:00,145.02,entregue,43,36,3.0,20,2025-02-17
+414,5,Temaki House,São Paulo,Japonesa,302,2025-02-18 02:45:00,167.24,entregue,34,15,5.0,2,2025-02-18
+670,5,Temaki House,São Paulo,Japonesa,237,2025-02-18 05:13:00,50.15,em_entrega,10,37,,5,2025-02-18
+443,2,Verde no Pote,Guarulhos,Saudável,119,2025-02-18 06:13:00,144.21,em_preparo,44,47,,6,2025-02-18
+948,2,Verde no Pote,Guarulhos,Saudável,301,2025-02-18 22:40:00,140.96,cancelado,26,0,,22,2025-02-18
+1358,3,Forno & Massa,São Paulo,Italiana,408,2025-02-19 01:03:00,29.06,em_entrega,24,31,,1,2025-02-19
+604,5,Temaki House,São Paulo,Japonesa,452,2025-02-19 02:40:00,153.97,entregue,30,34,4.0,2,2025-02-19
+823,2,Verde no Pote,Guarulhos,Saudável,307,2025-02-19 19:57:00,123.33,entregue,38,75,4.0,19,2025-02-19
+1342,2,Verde no Pote,Guarulhos,Saudável,345,2025-02-19 22:33:00,75.81,cancelado,50,0,,22,2025-02-19
+682,2,Verde no Pote,Guarulhos,Saudável,324,2025-02-20 03:41:00,136.98,entregue,41,35,1.0,3,2025-02-20
+721,2,Verde no Pote,Guarulhos,Saudável,347,2025-02-20 18:49:00,114.28,em_entrega,22,67,,18,2025-02-20
+1445,3,Forno & Massa,São Paulo,Italiana,18,2025-02-20 23:29:00,54.33,entregue,20,56,1.0,23,2025-02-20
+100,2,Verde no Pote,Guarulhos,Saudável,263,2025-02-21 00:13:00,143.67,em_entrega,39,30,,0,2025-02-21
+620,1,Sabor da Vila,São Paulo,Brasileira,458,2025-02-21 00:22:00,79.68,entregue,11,19,5.0,0,2025-02-21
+118,5,Temaki House,São Paulo,Japonesa,455,2025-02-21 00:37:00,138.84,cancelado,34,0,,0,2025-02-21
+769,3,Forno & Massa,São Paulo,Italiana,457,2025-02-21 01:46:00,64.1,entregue,38,46,1.0,1,2025-02-21
+241,1,Sabor da Vila,São Paulo,Brasileira,456,2025-02-21 04:21:00,54.28,entregue,20,54,1.0,4,2025-02-21
+306,2,Verde no Pote,Guarulhos,Saudável,86,2025-02-21 04:34:00,117.17,entregue,40,36,4.0,4,2025-02-21
+462,4,Burguer Lab,Guarulhos,Hambúrguer,393,2025-02-21 05:22:00,18.99,cancelado,30,0,,5,2025-02-21
+329,3,Forno & Massa,São Paulo,Italiana,163,2025-02-21 13:27:00,113.5,entregue,47,19,3.0,13,2025-02-21
+1090,4,Burguer Lab,Guarulhos,Hambúrguer,19,2025-02-21 16:22:00,92.09,entregue,44,35,5.0,16,2025-02-21
+1187,2,Verde no Pote,Guarulhos,Saudável,219,2025-02-21 23:28:00,74.72,entregue,41,43,1.0,23,2025-02-21
+834,4,Burguer Lab,Guarulhos,Hambúrguer,302,2025-02-22 04:52:00,92.55,entregue,46,52,1.0,4,2025-02-22
+528,2,Verde no Pote,Guarulhos,Saudável,332,2025-02-22 12:19:00,160.4,entregue,13,44,1.0,12,2025-02-22
+408,4,Burguer Lab,Guarulhos,Hambúrguer,173,2025-02-22 12:32:00,82.16,entregue,42,54,4.0,12,2025-02-22
+1063,4,Burguer Lab,Guarulhos,Hambúrguer,7,2025-02-22 13:56:00,165.39,entregue,42,74,5.0,13,2025-02-22
+256,2,Verde no Pote,Guarulhos,Saudável,118,2025-02-22 18:01:00,104.15,entregue,34,22,5.0,18,2025-02-22
+924,5,Temaki House,São Paulo,Japonesa,478,2025-02-22 23:20:00,135.78,entregue,20,63,2.0,23,2025-02-22
+522,1,Sabor da Vila,São Paulo,Brasileira,300,2025-02-23 08:28:00,115.18,entregue,28,19,2.0,8,2025-02-23
+752,3,Forno & Massa,São Paulo,Italiana,285,2025-02-23 22:34:00,43.34,em_entrega,27,40,,22,2025-02-23
+975,1,Sabor da Vila,São Paulo,Brasileira,342,2025-02-23 23:49:00,141.22,entregue,12,33,5.0,23,2025-02-23
+457,4,Burguer Lab,Guarulhos,Hambúrguer,166,2025-02-24 02:18:00,48.57,entregue,16,33,4.0,2,2025-02-24
+938,5,Temaki House,São Paulo,Japonesa,143,2025-02-24 04:19:00,51.12,entregue,10,33,5.0,4,2025-02-24
+1104,3,Forno & Massa,São Paulo,Italiana,84,2025-02-24 23:53:00,104.12,entregue,30,48,4.0,23,2025-02-24
+1481,3,Forno & Massa,São Paulo,Italiana,242,2025-02-25 07:00:00,110.73,entregue,34,54,5.0,7,2025-02-25
+273,3,Forno & Massa,São Paulo,Italiana,123,2025-02-25 07:07:00,179.82,em_entrega,17,49,,7,2025-02-25
+357,1,Sabor da Vila,São Paulo,Brasileira,482,2025-02-25 07:29:00,165.58,entregue,44,57,1.0,7,2025-02-25
+182,2,Verde no Pote,Guarulhos,Saudável,136,2025-02-25 14:15:00,143.58,entregue,16,68,4.0,14,2025-02-25
+390,4,Burguer Lab,Guarulhos,Hambúrguer,89,2025-02-25 22:46:00,136.49,entregue,29,54,1.0,22,2025-02-25
+961,1,Sabor da Vila,São Paulo,Brasileira,171,2025-02-26 00:10:00,103.51,cancelado,46,0,,0,2025-02-26
+1046,4,Burguer Lab,Guarulhos,Hambúrguer,128,2025-02-26 01:38:00,130.26,entregue,46,21,5.0,1,2025-02-26
+536,1,Sabor da Vila,São Paulo,Brasileira,75,2025-02-26 01:39:00,21.04,em_entrega,19,61,,1,2025-02-26
+1229,2,Verde no Pote,Guarulhos,Saudável,145,2025-02-26 05:09:00,107.11,entregue,27,70,5.0,5,2025-02-26
+58,5,Temaki House,São Paulo,Japonesa,162,2025-02-26 07:34:00,64.46,entregue,45,51,4.0,7,2025-02-26
+884,1,Sabor da Vila,São Paulo,Brasileira,38,2025-02-26 15:39:00,147.77,entregue,25,26,4.0,15,2025-02-26
+1406,2,Verde no Pote,Guarulhos,Saudável,194,2025-02-26 17:40:00,63.37,cancelado,16,0,,17,2025-02-26
+533,5,Temaki House,São Paulo,Japonesa,467,2025-02-26 21:20:00,58.03,entregue,24,45,4.0,21,2025-02-26
+847,5,Temaki House,São Paulo,Japonesa,98,2025-02-27 01:24:00,96.73,entregue,30,21,2.0,1,2025-02-27
+750,1,Sabor da Vila,São Paulo,Brasileira,431,2025-02-27 12:40:00,150.65,entregue,33,45,5.0,12,2025-02-27
+937,2,Verde no Pote,Guarulhos,Saudável,487,2025-02-27 15:24:00,132.02,entregue,26,44,1.0,15,2025-02-27
+83,3,Forno & Massa,São Paulo,Italiana,290,2025-02-28 15:37:00,84.18,entregue,16,29,4.0,15,2025-02-28
+287,2,Verde no Pote,Guarulhos,Saudável,227,2025-02-28 18:31:00,99.93,entregue,33,19,4.0,18,2025-02-28
+178,5,Temaki House,São Paulo,Japonesa,44,2025-02-28 20:44:00,171.83,cancelado,33,0,,20,2025-02-28
+1487,2,Verde no Pote,Guarulhos,Saudável,177,2025-03-01 08:06:00,92.66,entregue,47,64,4.0,8,2025-03-01
+1076,4,Burguer Lab,Guarulhos,Hambúrguer,331,2025-03-01 18:27:00,178.26,entregue,32,51,2.0,18,2025-03-01
+350,4,Burguer Lab,Guarulhos,Hambúrguer,377,2025-03-02 01:57:00,105.95,entregue,46,56,2.0,1,2025-03-02
+623,2,Verde no Pote,Guarulhos,Saudável,341,2025-03-02 06:27:00,28.96,entregue,35,64,4.0,6,2025-03-02
+41,4,Burguer Lab,Guarulhos,Hambúrguer,339,2025-03-02 07:24:00,146.08,entregue,34,39,4.0,7,2025-03-02
+532,4,Burguer Lab,Guarulhos,Hambúrguer,51,2025-03-02 10:03:00,46.3,entregue,44,28,3.0,10,2025-03-02
+1078,2,Verde no Pote,Guarulhos,Saudável,261,2025-03-02 13:20:00,79.06,entregue,48,24,5.0,13,2025-03-02
+467,5,Temaki House,São Paulo,Japonesa,330,2025-03-02 13:54:00,87.16,entregue,19,37,2.0,13,2025-03-02
+187,3,Forno & Massa,São Paulo,Italiana,348,2025-03-02 16:02:00,112.68,em_entrega,48,38,,16,2025-03-02
+168,1,Sabor da Vila,São Paulo,Brasileira,167,2025-03-02 22:40:00,151.9,entregue,15,62,3.0,22,2025-03-02
+703,5,Temaki House,São Paulo,Japonesa,233,2025-03-03 05:13:00,160.78,em_preparo,44,47,,5,2025-03-03
+685,1,Sabor da Vila,São Paulo,Brasileira,65,2025-03-03 19:54:00,49.61,entregue,41,37,3.0,19,2025-03-03
+1193,4,Burguer Lab,Guarulhos,Hambúrguer,469,2025-03-04 03:40:00,173.04,entregue,46,49,5.0,3,2025-03-04
+262,3,Forno & Massa,São Paulo,Italiana,440,2025-03-04 06:23:00,119.98,entregue,44,41,4.0,6,2025-03-04
+1433,3,Forno & Massa,São Paulo,Italiana,93,2025-03-04 11:40:00,32.82,cancelado,23,0,,11,2025-03-04
+704,3,Forno & Massa,São Paulo,Italiana,318,2025-03-04 12:30:00,119.01,em_entrega,37,22,,12,2025-03-04
+1032,1,Sabor da Vila,São Paulo,Brasileira,60,2025-03-05 03:25:00,170.98,cancelado,48,0,,3,2025-03-05
+908,1,Sabor da Vila,São Paulo,Brasileira,346,2025-03-05 04:35:00,99.94,cancelado,43,0,,4,2025-03-05
+411,3,Forno & Massa,São Paulo,Italiana,44,2025-03-05 14:40:00,120.74,entregue,48,66,1.0,14,2025-03-05
+544,2,Verde no Pote,Guarulhos,Saudável,285,2025-03-05 17:51:00,65.73,entregue,33,51,1.0,17,2025-03-05
+259,5,Temaki House,São Paulo,Japonesa,254,2025-03-05 22:37:00,96.85,entregue,28,59,5.0,22,2025-03-05
+761,3,Forno & Massa,São Paulo,Italiana,490,2025-03-06 05:45:00,162.71,entregue,50,17,4.0,5,2025-03-06
+661,3,Forno & Massa,São Paulo,Italiana,348,2025-03-06 12:03:00,154.97,cancelado,25,0,,12,2025-03-06
+230,1,Sabor da Vila,São Paulo,Brasileira,181,2025-03-06 12:31:00,133.77,entregue,37,42,5.0,12,2025-03-06
+1405,4,Burguer Lab,Guarulhos,Hambúrguer,64,2025-03-06 17:55:00,81.92,entregue,17,40,4.0,17,2025-03-06
+1174,4,Burguer Lab,Guarulhos,Hambúrguer,111,2025-03-06 18:57:00,85.64,entregue,36,38,1.0,18,2025-03-06
+392,5,Temaki House,São Paulo,Japonesa,494,2025-03-07 10:23:00,79.3,cancelado,33,0,,10,2025-03-07
+251,2,Verde no Pote,Guarulhos,Saudável,110,2025-03-07 12:02:00,125.39,entregue,11,56,4.0,12,2025-03-07
+349,4,Burguer Lab,Guarulhos,Hambúrguer,222,2025-03-07 22:56:00,73.81,em_preparo,16,44,,22,2025-03-07
+1106,1,Sabor da Vila,São Paulo,Brasileira,78,2025-03-08 00:55:00,156.73,em_entrega,12,35,,0,2025-03-08
+469,3,Forno & Massa,São Paulo,Italiana,415,2025-03-08 05:39:00,51.08,entregue,11,46,1.0,5,2025-03-08
+564,2,Verde no Pote,Guarulhos,Saudável,368,2025-03-08 05:55:00,142.53,entregue,36,17,2.0,5,2025-03-08
+23,1,Sabor da Vila,São Paulo,Brasileira,178,2025-03-08 15:08:00,62.53,entregue,32,34,3.0,15,2025-03-08
+635,4,Burguer Lab,Guarulhos,Hambúrguer,176,2025-03-08 18:20:00,138.9,em_entrega,39,67,,18,2025-03-08
+912,4,Burguer Lab,Guarulhos,Hambúrguer,433,2025-03-08 23:45:00,35.8,entregue,29,62,4.0,23,2025-03-08
+1432,4,Burguer Lab,Guarulhos,Hambúrguer,449,2025-03-09 14:10:00,151.39,em_entrega,32,65,,14,2025-03-09
+1345,2,Verde no Pote,Guarulhos,Saudável,82,2025-03-10 03:24:00,124.73,em_preparo,45,60,,3,2025-03-10
+1326,2,Verde no Pote,Guarulhos,Saudável,280,2025-03-10 11:19:00,137.02,entregue,31,69,4.0,11,2025-03-10
+253,5,Temaki House,São Paulo,Japonesa,22,2025-03-10 16:51:00,89.21,entregue,43,31,2.0,16,2025-03-10
+72,1,Sabor da Vila,São Paulo,Brasileira,237,2025-03-11 03:46:00,24.31,entregue,13,58,5.0,3,2025-03-11
+1178,2,Verde no Pote,Guarulhos,Saudável,70,2025-03-11 22:26:00,72.58,entregue,25,62,3.0,22,2025-03-11
+523,1,Sabor da Vila,São Paulo,Brasileira,276,2025-03-12 04:33:00,64.99,entregue,37,24,5.0,4,2025-03-12
+1113,2,Verde no Pote,Guarulhos,Saudável,212,2025-03-12 06:50:00,81.09,em_entrega,36,72,,6,2025-03-12
+888,1,Sabor da Vila,São Paulo,Brasileira,18,2025-03-12 11:02:00,135.8,em_preparo,50,37,,11,2025-03-12
+1115,1,Sabor da Vila,São Paulo,Brasileira,376,2025-03-12 22:49:00,111.63,entregue,33,47,1.0,22,2025-03-12
+52,4,Burguer Lab,Guarulhos,Hambúrguer,494,2025-03-13 01:02:00,123.58,entregue,11,23,3.0,1,2025-03-13
+543,4,Burguer Lab,Guarulhos,Hambúrguer,359,2025-03-13 02:38:00,172.0,entregue,26,34,5.0,2,2025-03-13
+398,5,Temaki House,São Paulo,Japonesa,382,2025-03-13 16:46:00,112.53,cancelado,33,0,,16,2025-03-13
+993,1,Sabor da Vila,São Paulo,Brasileira,488,2025-03-13 21:29:00,161.94,entregue,17,29,3.0,21,2025-03-13
+838,4,Burguer Lab,Guarulhos,Hambúrguer,213,2025-03-14 08:16:00,178.48,entregue,33,18,3.0,8,2025-03-14
+426,3,Forno & Massa,São Paulo,Italiana,457,2025-03-14 22:02:00,140.01,entregue,13,63,4.0,22,2025-03-14
+102,4,Burguer Lab,Guarulhos,Hambúrguer,172,2025-03-14 23:11:00,78.52,entregue,48,69,1.0,23,2025-03-14
+1085,1,Sabor da Vila,São Paulo,Brasileira,97,2025-03-15 04:12:00,154.85,entregue,28,47,1.0,4,2025-03-15
+9,4,Burguer Lab,Guarulhos,Hambúrguer,216,2025-03-15 12:52:00,66.36,entregue,20,19,4.0,12,2025-03-15
+872,3,Forno & Massa,São Paulo,Italiana,19,2025-03-15 15:36:00,146.25,entregue,40,49,5.0,15,2025-03-15
+1364,4,Burguer Lab,Guarulhos,Hambúrguer,14,2025-03-15 17:20:00,69.73,entregue,18,25,5.0,17,2025-03-15
+653,4,Burguer Lab,Guarulhos,Hambúrguer,255,2025-03-15 20:38:00,135.76,em_entrega,20,71,,20,2025-03-15
+224,1,Sabor da Vila,São Paulo,Brasileira,298,2025-03-15 20:42:00,144.86,em_preparo,12,30,,20,2025-03-15
+664,3,Forno & Massa,São Paulo,Italiana,344,2025-03-15 21:03:00,58.2,em_entrega,44,31,,21,2025-03-15
+339,2,Verde no Pote,Guarulhos,Saudável,97,2025-03-15 23:59:00,18.69,entregue,44,63,4.0,23,2025-03-15
+1474,4,Burguer Lab,Guarulhos,Hambúrguer,322,2025-03-17 13:29:00,77.85,entregue,12,30,4.0,13,2025-03-17
+735,2,Verde no Pote,Guarulhos,Saudável,311,2025-03-18 00:23:00,147.47,entregue,25,35,2.0,0,2025-03-18
+1072,3,Forno & Massa,São Paulo,Italiana,104,2025-03-18 07:20:00,72.92,entregue,38,63,1.0,7,2025-03-18
+142,5,Temaki House,São Paulo,Japonesa,459,2025-03-20 07:45:00,112.82,em_entrega,11,15,,7,2025-03-20
+1395,2,Verde no Pote,Guarulhos,Saudável,288,2025-03-20 16:53:00,48.33,entregue,32,51,3.0,16,2025-03-20
+964,2,Verde no Pote,Guarulhos,Saudável,58,2025-03-21 10:25:00,81.99,em_preparo,22,58,,10,2025-03-21
+903,2,Verde no Pote,Guarulhos,Saudável,362,2025-03-21 23:37:00,32.4,entregue,37,64,1.0,23,2025-03-21
+1355,5,Temaki House,São Paulo,Japonesa,87,2025-03-22 02:44:00,118.98,entregue,26,71,3.0,2,2025-03-22
+1257,3,Forno & Massa,São Paulo,Italiana,3,2025-03-23 00:05:00,134.34,entregue,23,70,4.0,0,2025-03-23
+363,3,Forno & Massa,São Paulo,Italiana,241,2025-03-23 13:08:00,89.65,entregue,46,61,4.0,13,2025-03-23
+976,1,Sabor da Vila,São Paulo,Brasileira,148,2025-03-24 08:11:00,64.11,entregue,31,60,5.0,8,2025-03-24
+78,4,Burguer Lab,Guarulhos,Hambúrguer,209,2025-03-24 19:43:00,158.96,entregue,18,26,2.0,19,2025-03-24
+32,1,Sabor da Vila,São Paulo,Brasileira,138,2025-03-24 22:36:00,149.79,em_preparo,15,58,,22,2025-03-24
+567,5,Temaki House,São Paulo,Japonesa,211,2025-03-25 05:53:00,29.52,entregue,31,21,2.0,5,2025-03-25
+412,5,Temaki House,São Paulo,Japonesa,432,2025-03-25 19:47:00,24.67,entregue,32,40,3.0,19,2025-03-25
+326,1,Sabor da Vila,São Paulo,Brasileira,330,2025-03-26 00:40:00,32.25,entregue,27,23,5.0,0,2025-03-26
+1479,3,Forno & Massa,São Paulo,Italiana,366,2025-03-26 03:37:00,148.73,entregue,18,63,4.0,3,2025-03-26
+626,2,Verde no Pote,Guarulhos,Saudável,19,2025-03-26 21:18:00,79.96,entregue,40,48,1.0,21,2025-03-26
+486,2,Verde no Pote,Guarulhos,Saudável,317,2025-03-26 21:55:00,28.19,entregue,12,71,1.0,21,2025-03-26
+1112,2,Verde no Pote,Guarulhos,Saudável,210,2025-03-26 23:47:00,38.95,em_entrega,20,63,,23,2025-03-26
+1291,4,Burguer Lab,Guarulhos,Hambúrguer,405,2025-03-27 06:48:00,153.9,entregue,40,55,3.0,6,2025-03-27
+148,3,Forno & Massa,São Paulo,Italiana,158,2025-03-27 09:18:00,47.4,entregue,13,59,1.0,9,2025-03-27
+1288,2,Verde no Pote,Guarulhos,Saudável,399,2025-03-27 14:31:00,92.81,entregue,35,25,4.0,14,2025-03-27
+1386,2,Verde no Pote,Guarulhos,Saudável,431,2025-03-27 19:27:00,166.77,entregue,43,20,5.0,19,2025-03-27
+637,5,Temaki House,São Paulo,Japonesa,122,2025-03-27 22:30:00,103.38,entregue,28,20,5.0,22,2025-03-27
+719,1,Sabor da Vila,São Paulo,Brasileira,120,2025-03-28 00:48:00,81.79,entregue,12,25,3.0,0,2025-03-28
+327,5,Temaki House,São Paulo,Japonesa,237,2025-03-28 07:20:00,53.21,entregue,18,18,2.0,7,2025-03-28
+510,3,Forno & Massa,São Paulo,Italiana,73,2025-03-28 09:09:00,110.37,em_entrega,21,17,,9,2025-03-28
+566,2,Verde no Pote,Guarulhos,Saudável,211,2025-03-28 09:53:00,47.12,entregue,38,31,4.0,9,2025-03-28
+1308,4,Burguer Lab,Guarulhos,Hambúrguer,404,2025-03-28 17:53:00,163.21,entregue,50,27,2.0,17,2025-03-28
+1265,4,Burguer Lab,Guarulhos,Hambúrguer,307,2025-03-29 00:13:00,163.75,entregue,22,46,2.0,0,2025-03-29
+854,2,Verde no Pote,Guarulhos,Saudável,198,2025-03-29 01:43:00,64.96,cancelado,29,0,,1,2025-03-29
+189,4,Burguer Lab,Guarulhos,Hambúrguer,111,2025-03-29 03:35:00,128.23,em_preparo,10,22,,3,2025-03-29
+1047,3,Forno & Massa,São Paulo,Italiana,218,2025-03-29 09:19:00,148.14,entregue,16,51,4.0,9,2025-03-29
+97,3,Forno & Massa,São Paulo,Italiana,364,2025-03-29 10:31:00,156.43,entregue,46,56,4.0,10,2025-03-29
+593,5,Temaki House,São Paulo,Japonesa,211,2025-03-29 13:19:00,20.46,entregue,11,37,4.0,13,2025-03-29
+832,5,Temaki House,São Paulo,Japonesa,171,2025-03-29 21:39:00,110.43,entregue,43,29,2.0,21,2025-03-29
+384,4,Burguer Lab,Guarulhos,Hambúrguer,164,2025-03-29 22:54:00,158.92,entregue,16,16,1.0,22,2025-03-29
+1402,1,Sabor da Vila,São Paulo,Brasileira,440,2025-03-30 02:25:00,95.29,entregue,16,68,5.0,2,2025-03-30
+1251,2,Verde no Pote,Guarulhos,Saudável,372,2025-03-30 07:08:00,164.06,cancelado,46,0,,7,2025-03-30
+1124,2,Verde no Pote,Guarulhos,Saudável,306,2025-03-30 22:31:00,103.19,em_entrega,45,45,,22,2025-03-30
+315,4,Burguer Lab,Guarulhos,Hambúrguer,459,2025-03-31 00:19:00,176.21,entregue,40,66,3.0,0,2025-03-31
+1107,5,Temaki House,São Paulo,Japonesa,156,2025-03-31 02:10:00,120.11,entregue,28,24,2.0,2,2025-03-31
+857,2,Verde no Pote,Guarulhos,Saudável,191,2025-03-31 09:10:00,114.99,em_entrega,38,57,,9,2025-03-31
+119,4,Burguer Lab,Guarulhos,Hambúrguer,341,2025-03-31 14:24:00,26.02,entregue,35,45,2.0,14,2025-03-31
+831,1,Sabor da Vila,São Paulo,Brasileira,345,2025-03-31 18:13:00,109.02,em_preparo,33,52,,18,2025-03-31
+1013,1,Sabor da Vila,São Paulo,Brasileira,172,2025-03-31 18:16:00,179.92,entregue,47,60,5.0,18,2025-03-31
+1454,1,Sabor da Vila,São Paulo,Brasileira,480,2025-03-31 19:32:00,111.25,entregue,36,73,3.0,19,2025-03-31
+989,5,Temaki House,São Paulo,Japonesa,396,2025-03-31 21:27:00,86.63,entregue,45,37,3.0,21,2025-03-31
+508,2,Verde no Pote,Guarulhos,Saudável,56,2025-04-01 11:04:00,176.94,cancelado,43,0,,11,2025-04-01
+925,3,Forno & Massa,São Paulo,Italiana,248,2025-04-01 15:00:00,129.59,cancelado,22,0,,15,2025-04-01
+568,5,Temaki House,São Paulo,Japonesa,57,2025-04-02 00:38:00,126.33,entregue,10,20,3.0,0,2025-04-02
+617,1,Sabor da Vila,São Paulo,Brasileira,341,2025-04-02 04:14:00,163.1,entregue,20,43,1.0,4,2025-04-02
+483,2,Verde no Pote,Guarulhos,Saudável,28,2025-04-02 10:29:00,149.18,entregue,17,72,3.0,10,2025-04-02
+1413,5,Temaki House,São Paulo,Japonesa,366,2025-04-02 11:16:00,74.58,entregue,38,55,4.0,11,2025-04-02
+696,1,Sabor da Vila,São Paulo,Brasileira,484,2025-04-03 11:38:00,113.34,entregue,26,50,4.0,11,2025-04-03
+919,2,Verde no Pote,Guarulhos,Saudável,214,2025-04-03 21:15:00,72.59,entregue,32,19,4.0,21,2025-04-03
+1307,4,Burguer Lab,Guarulhos,Hambúrguer,340,2025-04-03 22:44:00,104.08,em_entrega,27,47,,22,2025-04-03
+1425,3,Forno & Massa,São Paulo,Italiana,133,2025-04-04 07:36:00,39.07,entregue,47,73,2.0,7,2025-04-04
+346,4,Burguer Lab,Guarulhos,Hambúrguer,305,2025-04-04 10:15:00,128.42,entregue,41,58,2.0,10,2025-04-04
+933,5,Temaki House,São Paulo,Japonesa,435,2025-04-04 23:38:00,76.16,entregue,23,19,1.0,23,2025-04-04
+1179,4,Burguer Lab,Guarulhos,Hambúrguer,117,2025-04-05 14:18:00,71.15,entregue,35,38,3.0,14,2025-04-05
+211,5,Temaki House,São Paulo,Japonesa,195,2025-04-06 07:35:00,44.07,entregue,21,18,2.0,7,2025-04-06
+380,5,Temaki House,São Paulo,Japonesa,214,2025-04-06 19:09:00,49.43,em_entrega,41,32,,19,2025-04-06
+1297,3,Forno & Massa,São Paulo,Italiana,419,2025-04-06 23:40:00,142.58,entregue,45,31,2.0,23,2025-04-06
+209,2,Verde no Pote,Guarulhos,Saudável,375,2025-04-07 04:28:00,126.2,entregue,41,32,3.0,4,2025-04-07
+1459,3,Forno & Massa,São Paulo,Italiana,104,2025-04-07 07:17:00,160.18,entregue,35,21,3.0,7,2025-04-07
+206,4,Burguer Lab,Guarulhos,Hambúrguer,61,2025-04-08 01:01:00,93.43,em_preparo,19,73,,1,2025-04-08
+1261,3,Forno & Massa,São Paulo,Italiana,494,2025-04-08 03:00:00,176.72,entregue,15,27,5.0,3,2025-04-08
+618,4,Burguer Lab,Guarulhos,Hambúrguer,78,2025-04-08 06:13:00,172.27,entregue,29,51,2.0,6,2025-04-08
+292,3,Forno & Massa,São Paulo,Italiana,209,2025-04-08 10:42:00,26.36,entregue,50,54,4.0,10,2025-04-08
+1429,5,Temaki House,São Paulo,Japonesa,355,2025-04-08 10:59:00,40.88,entregue,14,69,4.0,10,2025-04-08
+509,4,Burguer Lab,Guarulhos,Hambúrguer,89,2025-04-09 01:44:00,49.22,entregue,39,56,2.0,1,2025-04-09
+1011,1,Sabor da Vila,São Paulo,Brasileira,485,2025-04-09 02:22:00,90.68,entregue,26,16,4.0,2,2025-04-09
+1123,5,Temaki House,São Paulo,Japonesa,48,2025-04-09 03:19:00,33.94,em_entrega,18,51,,3,2025-04-09
+744,3,Forno & Massa,São Paulo,Italiana,22,2025-04-09 17:53:00,79.24,cancelado,49,0,,17,2025-04-09
+890,1,Sabor da Vila,São Paulo,Brasileira,375,2025-04-09 19:50:00,27.61,entregue,45,68,2.0,19,2025-04-09
+779,5,Temaki House,São Paulo,Japonesa,68,2025-04-09 21:40:00,110.42,entregue,25,23,1.0,21,2025-04-09
+216,3,Forno & Massa,São Paulo,Italiana,379,2025-04-10 08:50:00,120.03,entregue,30,54,3.0,8,2025-04-10
+505,5,Temaki House,São Paulo,Japonesa,393,2025-04-11 00:54:00,113.82,entregue,41,40,5.0,0,2025-04-11
+1322,2,Verde no Pote,Guarulhos,Saudável,383,2025-04-11 07:28:00,33.37,entregue,38,27,2.0,7,2025-04-11
+1491,3,Forno & Massa,São Paulo,Italiana,252,2025-04-11 07:34:00,166.45,entregue,12,21,1.0,7,2025-04-11
+281,3,Forno & Massa,São Paulo,Italiana,85,2025-04-11 16:25:00,44.11,entregue,44,15,3.0,16,2025-04-11
+143,2,Verde no Pote,Guarulhos,Saudável,484,2025-04-11 22:33:00,158.62,entregue,49,47,3.0,22,2025-04-11
+39,2,Verde no Pote,Guarulhos,Saudável,411,2025-04-12 00:24:00,30.81,cancelado,44,0,,0,2025-04-12
+111,3,Forno & Massa,São Paulo,Italiana,224,2025-04-12 03:35:00,105.98,entregue,13,67,1.0,3,2025-04-12
+1192,3,Forno & Massa,São Paulo,Italiana,199,2025-04-12 11:28:00,147.9,entregue,34,75,5.0,11,2025-04-12
+950,1,Sabor da Vila,São Paulo,Brasileira,279,2025-04-12 11:56:00,149.82,entregue,16,48,2.0,11,2025-04-12
+413,2,Verde no Pote,Guarulhos,Saudável,73,2025-04-12 22:38:00,41.72,cancelado,11,0,,22,2025-04-12
+399,2,Verde no Pote,Guarulhos,Saudável,496,2025-04-13 09:15:00,57.11,entregue,41,49,5.0,9,2025-04-13
+1028,5,Temaki House,São Paulo,Japonesa,80,2025-04-13 10:09:00,79.72,entregue,22,74,5.0,10,2025-04-13
+314,4,Burguer Lab,Guarulhos,Hambúrguer,220,2025-04-13 15:36:00,52.64,entregue,32,19,5.0,15,2025-04-13
+152,3,Forno & Massa,São Paulo,Italiana,24,2025-04-13 16:55:00,92.95,entregue,50,70,3.0,16,2025-04-13
+573,2,Verde no Pote,Guarulhos,Saudável,312,2025-04-14 00:45:00,54.86,entregue,17,16,4.0,0,2025-04-14
+1410,1,Sabor da Vila,São Paulo,Brasileira,230,2025-04-14 09:14:00,70.98,entregue,31,18,3.0,9,2025-04-14
+814,3,Forno & Massa,São Paulo,Italiana,123,2025-04-14 15:02:00,18.88,em_preparo,26,46,,15,2025-04-14
+1382,5,Temaki House,São Paulo,Japonesa,274,2025-04-14 20:34:00,21.63,entregue,50,17,1.0,20,2025-04-14
+299,1,Sabor da Vila,São Paulo,Brasileira,345,2025-04-14 20:44:00,122.24,em_preparo,26,33,,20,2025-04-14
+534,4,Burguer Lab,Guarulhos,Hambúrguer,332,2025-04-14 22:08:00,43.3,entregue,15,26,2.0,22,2025-04-14
+1209,5,Temaki House,São Paulo,Japonesa,175,2025-04-14 22:14:00,123.86,cancelado,31,0,,22,2025-04-14
+450,2,Verde no Pote,Guarulhos,Saudável,344,2025-04-15 13:16:00,24.62,entregue,25,23,1.0,13,2025-04-15
+855,5,Temaki House,São Paulo,Japonesa,16,2025-04-16 01:07:00,155.06,entregue,42,68,3.0,1,2025-04-16
+481,4,Burguer Lab,Guarulhos,Hambúrguer,343,2025-04-16 02:16:00,35.93,entregue,46,55,5.0,2,2025-04-16
+660,2,Verde no Pote,Guarulhos,Saudável,176,2025-04-16 04:14:00,84.43,entregue,47,28,3.0,4,2025-04-16
+1230,1,Sabor da Vila,São Paulo,Brasileira,183,2025-04-16 04:52:00,165.28,entregue,27,51,4.0,4,2025-04-16
+96,1,Sabor da Vila,São Paulo,Brasileira,236,2025-04-16 05:45:00,57.62,em_preparo,11,54,,5,2025-04-16
+841,1,Sabor da Vila,São Paulo,Brasileira,19,2025-04-16 10:50:00,103.51,entregue,22,32,5.0,10,2025-04-16
+495,4,Burguer Lab,Guarulhos,Hambúrguer,207,2025-04-16 19:08:00,138.83,entregue,36,32,5.0,19,2025-04-16
+1483,3,Forno & Massa,São Paulo,Italiana,477,2025-04-16 20:20:00,18.56,entregue,48,43,5.0,20,2025-04-16
+342,3,Forno & Massa,São Paulo,Italiana,2,2025-04-17 04:26:00,127.17,entregue,15,75,2.0,4,2025-04-17
+1114,2,Verde no Pote,Guarulhos,Saudável,18,2025-04-17 14:26:00,62.57,entregue,23,45,3.0,14,2025-04-17
+154,1,Sabor da Vila,São Paulo,Brasileira,205,2025-04-18 03:52:00,114.34,entregue,18,35,2.0,3,2025-04-18
+1451,5,Temaki House,São Paulo,Japonesa,269,2025-04-18 04:22:00,59.27,entregue,26,62,1.0,4,2025-04-18
+271,1,Sabor da Vila,São Paulo,Brasileira,121,2025-04-18 14:02:00,42.42,em_preparo,22,45,,14,2025-04-18
+796,4,Burguer Lab,Guarulhos,Hambúrguer,34,2025-04-18 19:20:00,36.87,entregue,42,21,4.0,19,2025-04-18
+1338,5,Temaki House,São Paulo,Japonesa,180,2025-04-19 04:07:00,18.93,entregue,11,38,1.0,4,2025-04-19
+419,2,Verde no Pote,Guarulhos,Saudável,348,2025-04-19 05:38:00,125.87,cancelado,44,0,,5,2025-04-19
+638,2,Verde no Pote,Guarulhos,Saudável,112,2025-04-19 08:38:00,24.08,entregue,36,20,5.0,8,2025-04-19
+1239,4,Burguer Lab,Guarulhos,Hambúrguer,411,2025-04-19 16:31:00,49.87,em_entrega,19,32,,16,2025-04-19
+971,4,Burguer Lab,Guarulhos,Hambúrguer,248,2025-04-20 00:21:00,165.56,entregue,34,27,3.0,0,2025-04-20
+353,2,Verde no Pote,Guarulhos,Saudável,86,2025-04-20 01:28:00,21.19,cancelado,14,0,,1,2025-04-20
+1316,5,Temaki House,São Paulo,Japonesa,226,2025-04-20 02:44:00,125.83,em_entrega,12,40,,2,2025-04-20
+1400,4,Burguer Lab,Guarulhos,Hambúrguer,454,2025-04-20 06:35:00,122.18,entregue,45,41,1.0,6,2025-04-20
+1403,2,Verde no Pote,Guarulhos,Saudável,266,2025-04-20 09:20:00,91.3,entregue,13,20,3.0,9,2025-04-20
+263,2,Verde no Pote,Guarulhos,Saudável,318,2025-04-20 11:56:00,116.69,entregue,14,29,3.0,11,2025-04-20
+442,5,Temaki House,São Paulo,Japonesa,392,2025-04-20 20:18:00,48.61,entregue,28,31,5.0,20,2025-04-20
+928,4,Burguer Lab,Guarulhos,Hambúrguer,137,2025-04-20 23:45:00,98.98,entregue,15,32,1.0,23,2025-04-20
+190,2,Verde no Pote,Guarulhos,Saudável,194,2025-04-21 01:14:00,76.88,entregue,39,43,5.0,1,2025-04-21
+1367,4,Burguer Lab,Guarulhos,Hambúrguer,99,2025-04-21 03:52:00,78.56,entregue,39,59,1.0,3,2025-04-21
+802,3,Forno & Massa,São Paulo,Italiana,423,2025-04-21 04:53:00,153.3,entregue,50,19,2.0,4,2025-04-21
+1476,3,Forno & Massa,São Paulo,Italiana,120,2025-04-21 06:08:00,68.89,entregue,32,59,1.0,6,2025-04-21
+307,4,Burguer Lab,Guarulhos,Hambúrguer,377,2025-04-21 07:05:00,169.64,em_preparo,29,64,,7,2025-04-21
+136,1,Sabor da Vila,São Paulo,Brasileira,323,2025-04-21 22:36:00,82.37,entregue,41,26,2.0,22,2025-04-21
+952,1,Sabor da Vila,São Paulo,Brasileira,2,2025-04-22 05:12:00,102.99,em_entrega,40,41,,5,2025-04-22
+1155,4,Burguer Lab,Guarulhos,Hambúrguer,213,2025-04-22 07:37:00,145.67,entregue,20,40,1.0,7,2025-04-22
+226,3,Forno & Massa,São Paulo,Italiana,114,2025-04-22 16:10:00,138.17,entregue,29,58,4.0,16,2025-04-22
+1391,1,Sabor da Vila,São Paulo,Brasileira,360,2025-04-22 16:38:00,31.91,em_preparo,40,75,,16,2025-04-22
+1105,3,Forno & Massa,São Paulo,Italiana,303,2025-04-22 19:34:00,43.49,cancelado,34,0,,19,2025-04-22
+1186,3,Forno & Massa,São Paulo,Italiana,341,2025-04-23 06:00:00,109.9,entregue,27,64,3.0,6,2025-04-23
+239,1,Sabor da Vila,São Paulo,Brasileira,233,2025-04-23 15:55:00,51.74,entregue,24,75,4.0,15,2025-04-23
+333,4,Burguer Lab,Guarulhos,Hambúrguer,325,2025-04-24 03:12:00,136.83,em_preparo,25,29,,3,2025-04-24
+400,2,Verde no Pote,Guarulhos,Saudável,132,2025-04-24 06:26:00,32.99,em_preparo,33,71,,6,2025-04-24
+526,5,Temaki House,São Paulo,Japonesa,144,2025-04-24 06:31:00,28.42,entregue,14,19,5.0,6,2025-04-24
+1060,5,Temaki House,São Paulo,Japonesa,123,2025-04-24 12:01:00,61.25,entregue,15,44,4.0,12,2025-04-24
+88,1,Sabor da Vila,São Paulo,Brasileira,331,2025-04-25 00:19:00,41.05,em_entrega,22,42,,0,2025-04-25
+1462,1,Sabor da Vila,São Paulo,Brasileira,142,2025-04-25 02:06:00,98.42,entregue,35,72,3.0,2,2025-04-25
+749,4,Burguer Lab,Guarulhos,Hambúrguer,291,2025-04-25 06:01:00,150.18,entregue,46,37,3.0,6,2025-04-25
+447,5,Temaki House,São Paulo,Japonesa,490,2025-04-25 12:20:00,93.12,entregue,25,32,4.0,12,2025-04-25
+1034,4,Burguer Lab,Guarulhos,Hambúrguer,288,2025-04-25 13:42:00,99.28,entregue,28,52,3.0,13,2025-04-25
+748,5,Temaki House,São Paulo,Japonesa,286,2025-04-25 18:29:00,78.96,entregue,48,24,2.0,18,2025-04-25
+1014,1,Sabor da Vila,São Paulo,Brasileira,152,2025-04-25 18:35:00,22.28,entregue,45,45,1.0,18,2025-04-25
+799,3,Forno & Massa,São Paulo,Italiana,33,2025-04-26 02:48:00,105.08,entregue,16,44,1.0,2,2025-04-26
+309,1,Sabor da Vila,São Paulo,Brasileira,301,2025-04-26 05:27:00,142.21,entregue,25,39,1.0,5,2025-04-26
+368,4,Burguer Lab,Guarulhos,Hambúrguer,357,2025-04-26 07:32:00,119.56,cancelado,23,0,,7,2025-04-26
+988,3,Forno & Massa,São Paulo,Italiana,58,2025-04-26 10:02:00,25.36,entregue,41,52,3.0,10,2025-04-26
+1177,3,Forno & Massa,São Paulo,Italiana,355,2025-04-26 12:15:00,84.06,entregue,31,60,4.0,12,2025-04-26
+968,3,Forno & Massa,São Paulo,Italiana,300,2025-04-26 17:16:00,80.94,entregue,23,49,4.0,17,2025-04-26
+338,4,Burguer Lab,Guarulhos,Hambúrguer,88,2025-04-26 18:08:00,25.86,entregue,12,19,4.0,18,2025-04-26
+554,1,Sabor da Vila,São Paulo,Brasileira,29,2025-04-27 01:36:00,114.87,entregue,47,44,4.0,1,2025-04-27
+525,4,Burguer Lab,Guarulhos,Hambúrguer,336,2025-04-27 08:01:00,91.68,entregue,45,33,1.0,8,2025-04-27
+1439,1,Sabor da Vila,São Paulo,Brasileira,40,2025-04-27 09:59:00,173.07,entregue,50,50,5.0,9,2025-04-27
+1435,3,Forno & Massa,São Paulo,Italiana,457,2025-04-27 14:22:00,167.92,entregue,44,40,2.0,14,2025-04-27
+403,1,Sabor da Vila,São Paulo,Brasileira,7,2025-04-27 22:51:00,120.42,entregue,35,33,2.0,22,2025-04-27
+321,4,Burguer Lab,Guarulhos,Hambúrguer,311,2025-04-28 01:09:00,109.2,em_preparo,32,62,,1,2025-04-28
+595,5,Temaki House,São Paulo,Japonesa,385,2025-04-28 01:17:00,162.51,em_entrega,28,73,,1,2025-04-28
+167,1,Sabor da Vila,São Paulo,Brasileira,342,2025-04-28 05:50:00,137.9,entregue,22,33,3.0,5,2025-04-28
+1404,1,Sabor da Vila,São Paulo,Brasileira,37,2025-04-28 17:01:00,145.51,cancelado,41,0,,17,2025-04-28
+607,2,Verde no Pote,Guarulhos,Saudável,492,2025-04-28 22:12:00,129.14,entregue,41,68,3.0,22,2025-04-28
+1249,5,Temaki House,São Paulo,Japonesa,368,2025-04-29 17:16:00,81.4,cancelado,47,0,,17,2025-04-29
+1388,5,Temaki House,São Paulo,Japonesa,355,2025-04-29 18:00:00,140.61,entregue,16,48,5.0,18,2025-04-29
+66,2,Verde no Pote,Guarulhos,Saudável,137,2025-04-29 22:13:00,90.45,em_preparo,23,30,,22,2025-04-29
+632,2,Verde no Pote,Guarulhos,Saudável,373,2025-04-30 12:51:00,168.96,entregue,26,18,4.0,12,2025-04-30
+646,4,Burguer Lab,Guarulhos,Hambúrguer,410,2025-04-30 20:26:00,129.89,entregue,40,58,3.0,20,2025-04-30
+1095,2,Verde no Pote,Guarulhos,Saudável,279,2025-04-30 22:28:00,95.03,entregue,44,74,1.0,22,2025-04-30
+254,4,Burguer Lab,Guarulhos,Hambúrguer,388,2025-05-01 09:35:00,123.43,entregue,45,48,1.0,9,2025-05-01
+77,3,Forno & Massa,São Paulo,Italiana,64,2025-05-01 12:31:00,38.16,entregue,13,33,5.0,12,2025-05-01
+1145,4,Burguer Lab,Guarulhos,Hambúrguer,380,2025-05-01 20:29:00,155.09,entregue,34,29,1.0,20,2025-05-01
+294,3,Forno & Massa,São Paulo,Italiana,392,2025-05-02 00:32:00,85.44,entregue,20,59,2.0,0,2025-05-02
+1494,2,Verde no Pote,Guarulhos,Saudável,133,2025-05-02 13:54:00,21.17,entregue,36,30,3.0,13,2025-05-02
+1069,3,Forno & Massa,São Paulo,Italiana,62,2025-05-02 18:35:00,131.8,entregue,22,53,1.0,18,2025-05-02
+738,1,Sabor da Vila,São Paulo,Brasileira,485,2025-05-02 18:40:00,53.81,entregue,43,23,2.0,18,2025-05-02
+1030,3,Forno & Massa,São Paulo,Italiana,438,2025-05-02 22:58:00,55.22,entregue,12,71,4.0,22,2025-05-02
+487,4,Burguer Lab,Guarulhos,Hambúrguer,473,2025-05-02 23:58:00,51.65,entregue,49,62,5.0,23,2025-05-02
+169,5,Temaki House,São Paulo,Japonesa,37,2025-05-03 00:23:00,19.74,entregue,40,64,2.0,0,2025-05-03
+371,2,Verde no Pote,Guarulhos,Saudável,70,2025-05-03 11:42:00,65.51,entregue,17,75,1.0,11,2025-05-03
+627,2,Verde no Pote,Guarulhos,Saudável,380,2025-05-04 10:57:00,139.97,entregue,20,62,3.0,10,2025-05-04
+1142,3,Forno & Massa,São Paulo,Italiana,309,2025-05-04 12:52:00,27.86,entregue,21,61,5.0,12,2025-05-04
+1176,2,Verde no Pote,Guarulhos,Saudável,498,2025-05-04 16:22:00,78.09,entregue,21,44,1.0,16,2025-05-04
+199,1,Sabor da Vila,São Paulo,Brasileira,111,2025-05-04 17:08:00,100.03,em_preparo,22,24,,17,2025-05-04
+1160,1,Sabor da Vila,São Paulo,Brasileira,62,2025-05-05 07:34:00,174.99,em_preparo,40,19,,7,2025-05-05
+1330,3,Forno & Massa,São Paulo,Italiana,97,2025-05-05 19:16:00,44.8,entregue,28,29,2.0,19,2025-05-05
+197,3,Forno & Massa,São Paulo,Italiana,222,2025-05-06 01:05:00,61.53,entregue,13,52,3.0,1,2025-05-06
+991,4,Burguer Lab,Guarulhos,Hambúrguer,379,2025-05-06 02:04:00,93.37,entregue,29,49,3.0,2,2025-05-06
+1372,3,Forno & Massa,São Paulo,Italiana,352,2025-05-06 07:14:00,150.85,entregue,29,20,3.0,7,2025-05-06
+1357,5,Temaki House,São Paulo,Japonesa,330,2025-05-06 14:01:00,115.43,entregue,29,33,1.0,14,2025-05-06
+1236,4,Burguer Lab,Guarulhos,Hambúrguer,387,2025-05-07 11:16:00,76.57,em_preparo,32,24,,11,2025-05-07
+1383,4,Burguer Lab,Guarulhos,Hambúrguer,282,2025-05-07 13:09:00,26.84,em_entrega,44,29,,13,2025-05-07
+268,2,Verde no Pote,Guarulhos,Saudável,308,2025-05-07 14:34:00,50.1,cancelado,10,0,,14,2025-05-07
+1407,1,Sabor da Vila,São Paulo,Brasileira,202,2025-05-07 15:51:00,118.12,entregue,29,75,5.0,15,2025-05-07
+139,3,Forno & Massa,São Paulo,Italiana,216,2025-05-07 20:05:00,31.27,entregue,35,19,5.0,20,2025-05-07
+1312,2,Verde no Pote,Guarulhos,Saudável,478,2025-05-08 00:45:00,158.69,entregue,36,20,3.0,0,2025-05-08
+1363,3,Forno & Massa,São Paulo,Italiana,330,2025-05-09 01:36:00,35.02,entregue,33,15,5.0,1,2025-05-09
+979,4,Burguer Lab,Guarulhos,Hambúrguer,237,2025-05-09 01:36:00,135.26,entregue,13,52,4.0,1,2025-05-09
+44,1,Sabor da Vila,São Paulo,Brasileira,253,2025-05-10 09:38:00,165.86,entregue,35,60,5.0,9,2025-05-10
+521,1,Sabor da Vila,São Paulo,Brasileira,481,2025-05-11 14:51:00,107.04,em_entrega,46,15,,14,2025-05-11
+998,2,Verde no Pote,Guarulhos,Saudável,424,2025-05-12 15:21:00,19.98,entregue,30,38,1.0,15,2025-05-12
+765,3,Forno & Massa,São Paulo,Italiana,462,2025-05-12 16:27:00,46.16,em_preparo,44,44,,16,2025-05-12
+194,5,Temaki House,São Paulo,Japonesa,55,2025-05-13 01:28:00,130.6,entregue,45,20,4.0,1,2025-05-13
+301,2,Verde no Pote,Guarulhos,Saudável,282,2025-05-13 17:49:00,65.72,entregue,35,35,3.0,17,2025-05-13
+53,2,Verde no Pote,Guarulhos,Saudável,350,2025-05-13 19:49:00,70.14,em_preparo,14,38,,19,2025-05-13
+746,4,Burguer Lab,Guarulhos,Hambúrguer,55,2025-05-13 22:19:00,129.43,entregue,19,67,5.0,22,2025-05-13
+1052,5,Temaki House,São Paulo,Japonesa,136,2025-05-14 04:41:00,43.9,entregue,24,41,1.0,4,2025-05-14
+1360,5,Temaki House,São Paulo,Japonesa,138,2025-05-14 08:42:00,49.7,entregue,38,18,1.0,8,2025-05-14
+201,4,Burguer Lab,Guarulhos,Hambúrguer,250,2025-05-14 16:28:00,64.74,entregue,46,72,3.0,16,2025-05-14
+630,3,Forno & Massa,São Paulo,Italiana,120,2025-05-14 17:35:00,26.61,entregue,34,32,1.0,17,2025-05-14
+1138,1,Sabor da Vila,São Paulo,Brasileira,259,2025-05-14 19:29:00,80.4,entregue,27,66,5.0,19,2025-05-14
+63,3,Forno & Massa,São Paulo,Italiana,55,2025-05-14 19:47:00,118.9,em_entrega,10,38,,19,2025-05-14
+393,5,Temaki House,São Paulo,Japonesa,100,2025-05-15 00:45:00,36.19,cancelado,12,0,,0,2025-05-15
+628,1,Sabor da Vila,São Paulo,Brasileira,43,2025-05-15 03:24:00,116.74,em_preparo,31,52,,3,2025-05-15
+1271,1,Sabor da Vila,São Paulo,Brasileira,331,2025-05-15 16:14:00,49.98,entregue,23,33,3.0,16,2025-05-15
+1151,3,Forno & Massa,São Paulo,Italiana,204,2025-05-16 00:02:00,125.57,entregue,48,51,5.0,0,2025-05-16
+68,4,Burguer Lab,Guarulhos,Hambúrguer,325,2025-05-16 05:13:00,26.59,entregue,38,29,2.0,5,2025-05-16
+22,3,Forno & Massa,São Paulo,Italiana,495,2025-05-16 08:11:00,97.94,entregue,38,32,5.0,8,2025-05-16
+332,3,Forno & Massa,São Paulo,Italiana,63,2025-05-16 09:16:00,85.25,em_preparo,14,57,,9,2025-05-16
+909,1,Sabor da Vila,São Paulo,Brasileira,266,2025-05-16 11:19:00,132.45,entregue,32,24,1.0,11,2025-05-16
+1044,3,Forno & Massa,São Paulo,Italiana,2,2025-05-16 21:00:00,174.61,entregue,42,67,3.0,21,2025-05-16
+1268,3,Forno & Massa,São Paulo,Italiana,84,2025-05-17 00:52:00,119.4,entregue,23,40,3.0,0,2025-05-17
+576,5,Temaki House,São Paulo,Japonesa,442,2025-05-17 08:51:00,90.07,em_preparo,25,40,,8,2025-05-17
+374,1,Sabor da Vila,São Paulo,Brasileira,255,2025-05-17 09:14:00,50.64,entregue,34,59,2.0,9,2025-05-17
+498,3,Forno & Massa,São Paulo,Italiana,431,2025-05-17 13:51:00,58.58,entregue,43,68,2.0,13,2025-05-17
+770,4,Burguer Lab,Guarulhos,Hambúrguer,111,2025-05-18 08:54:00,86.99,entregue,31,27,3.0,8,2025-05-18
+913,4,Burguer Lab,Guarulhos,Hambúrguer,299,2025-05-18 09:03:00,47.85,cancelado,30,0,,9,2025-05-18
+634,5,Temaki House,São Paulo,Japonesa,180,2025-05-19 12:06:00,117.84,em_entrega,11,59,,12,2025-05-19
+379,5,Temaki House,São Paulo,Japonesa,302,2025-05-19 16:43:00,86.51,entregue,37,50,4.0,16,2025-05-19
+188,4,Burguer Lab,Guarulhos,Hambúrguer,260,2025-05-20 01:44:00,107.82,entregue,21,73,4.0,1,2025-05-20
+1285,2,Verde no Pote,Guarulhos,Saudável,214,2025-05-20 08:43:00,132.66,entregue,33,21,2.0,8,2025-05-20
+758,3,Forno & Massa,São Paulo,Italiana,61,2025-05-20 21:52:00,27.5,entregue,21,42,4.0,21,2025-05-20
+1017,2,Verde no Pote,Guarulhos,Saudável,353,2025-05-21 03:11:00,26.21,em_entrega,31,52,,3,2025-05-21
+1159,4,Burguer Lab,Guarulhos,Hambúrguer,318,2025-05-21 05:44:00,48.79,cancelado,31,0,,5,2025-05-21
+1468,5,Temaki House,São Paulo,Japonesa,5,2025-05-21 08:15:00,88.33,em_preparo,34,50,,8,2025-05-21
+614,4,Burguer Lab,Guarulhos,Hambúrguer,326,2025-05-21 13:23:00,70.25,entregue,11,18,2.0,13,2025-05-21
+1385,2,Verde no Pote,Guarulhos,Saudável,457,2025-05-22 00:10:00,75.96,entregue,15,53,1.0,0,2025-05-22
+94,1,Sabor da Vila,São Paulo,Brasileira,143,2025-05-22 10:18:00,91.4,entregue,39,43,4.0,10,2025-05-22
+1066,4,Burguer Lab,Guarulhos,Hambúrguer,339,2025-05-22 13:29:00,27.8,entregue,36,43,4.0,13,2025-05-22
+809,3,Forno & Massa,São Paulo,Italiana,194,2025-05-23 16:30:00,39.35,entregue,12,18,4.0,16,2025-05-23
+1173,2,Verde no Pote,Guarulhos,Saudável,301,2025-05-23 21:34:00,30.92,entregue,49,75,2.0,21,2025-05-23
+1352,5,Temaki House,São Paulo,Japonesa,3,2025-05-24 05:09:00,177.12,entregue,34,68,2.0,5,2025-05-24
+1094,1,Sabor da Vila,São Paulo,Brasileira,472,2025-05-24 06:56:00,161.53,em_entrega,35,44,,6,2025-05-24
+1283,2,Verde no Pote,Guarulhos,Saudável,189,2025-05-24 14:30:00,149.25,entregue,46,58,1.0,14,2025-05-24
+552,2,Verde no Pote,Guarulhos,Saudável,449,2025-05-24 16:12:00,165.49,entregue,16,65,5.0,16,2025-05-24
+1478,4,Burguer Lab,Guarulhos,Hambúrguer,478,2025-05-24 20:32:00,105.23,entregue,16,63,2.0,20,2025-05-24
+1320,2,Verde no Pote,Guarulhos,Saudável,356,2025-05-25 21:11:00,43.31,entregue,33,18,1.0,21,2025-05-25
+440,1,Sabor da Vila,São Paulo,Brasileira,109,2025-05-26 02:47:00,152.3,entregue,23,35,1.0,2,2025-05-26
+1168,2,Verde no Pote,Guarulhos,Saudável,201,2025-05-26 11:19:00,44.3,entregue,43,59,3.0,11,2025-05-26
+957,3,Forno & Massa,São Paulo,Italiana,218,2025-05-27 06:52:00,171.38,entregue,16,25,5.0,6,2025-05-27
+1302,5,Temaki House,São Paulo,Japonesa,286,2025-05-27 11:52:00,28.09,entregue,25,33,4.0,11,2025-05-27
+27,2,Verde no Pote,Guarulhos,Saudável,1,2025-05-27 21:08:00,127.47,entregue,10,42,2.0,21,2025-05-27
+942,2,Verde no Pote,Guarulhos,Saudável,330,2025-05-28 11:20:00,140.0,em_preparo,31,41,,11,2025-05-28
+585,2,Verde no Pote,Guarulhos,Saudável,329,2025-05-28 11:51:00,152.83,em_entrega,31,59,,11,2025-05-28
+164,5,Temaki House,São Paulo,Japonesa,90,2025-05-29 07:56:00,85.07,em_entrega,25,21,,7,2025-05-29
+687,3,Forno & Massa,São Paulo,Italiana,60,2025-05-29 10:50:00,43.1,entregue,45,26,3.0,10,2025-05-29
+1131,5,Temaki House,São Paulo,Japonesa,22,2025-05-29 11:37:00,113.76,entregue,29,34,3.0,11,2025-05-29
+1340,5,Temaki House,São Paulo,Japonesa,462,2025-05-29 21:34:00,70.67,entregue,39,50,3.0,21,2025-05-29
+144,1,Sabor da Vila,São Paulo,Brasileira,160,2025-05-30 02:42:00,139.43,entregue,12,73,4.0,2,2025-05-30
+962,4,Burguer Lab,Guarulhos,Hambúrguer,335,2025-05-30 04:56:00,144.82,entregue,10,41,5.0,4,2025-05-30
+163,5,Temaki House,São Paulo,Japonesa,206,2025-05-30 08:28:00,83.15,em_preparo,16,28,,8,2025-05-30
+1495,3,Forno & Massa,São Paulo,Italiana,81,2025-05-30 16:46:00,21.51,entregue,15,67,1.0,16,2025-05-30
+373,5,Temaki House,São Paulo,Japonesa,231,2025-05-30 17:31:00,123.8,cancelado,12,0,,17,2025-05-30
+65,3,Forno & Massa,São Paulo,Italiana,98,2025-05-30 23:02:00,60.93,entregue,46,37,2.0,23,2025-05-30
+907,1,Sabor da Vila,São Paulo,Brasileira,477,2025-05-31 05:17:00,42.74,entregue,39,16,1.0,5,2025-05-31
+1252,3,Forno & Massa,São Paulo,Italiana,300,2025-05-31 05:24:00,103.63,entregue,18,49,1.0,5,2025-05-31
+960,1,Sabor da Vila,São Paulo,Brasileira,440,2025-05-31 07:27:00,129.93,entregue,46,49,2.0,7,2025-05-31
+496,3,Forno & Massa,São Paulo,Italiana,157,2025-05-31 14:07:00,125.44,entregue,18,63,3.0,14,2025-05-31
+1485,5,Temaki House,São Paulo,Japonesa,391,2025-06-01 09:27:00,114.89,entregue,15,16,2.0,9,2025-06-01
+1309,3,Forno & Massa,São Paulo,Italiana,192,2025-06-01 11:24:00,129.78,entregue,29,61,4.0,11,2025-06-01
+1043,2,Verde no Pote,Guarulhos,Saudável,240,2025-06-01 13:14:00,59.68,entregue,22,52,3.0,13,2025-06-01
+1191,5,Temaki House,São Paulo,Japonesa,32,2025-06-01 15:58:00,123.65,entregue,25,44,2.0,15,2025-06-01
+248,4,Burguer Lab,Guarulhos,Hambúrguer,298,2025-06-01 18:28:00,54.21,entregue,20,42,1.0,18,2025-06-01
+572,4,Burguer Lab,Guarulhos,Hambúrguer,392,2025-06-01 22:27:00,78.84,entregue,34,53,2.0,22,2025-06-01
+1480,5,Temaki House,São Paulo,Japonesa,57,2025-06-02 01:30:00,123.81,entregue,35,41,3.0,1,2025-06-02
+1225,5,Temaki House,São Paulo,Japonesa,358,2025-06-02 03:33:00,162.24,entregue,18,46,5.0,3,2025-06-02
+624,1,Sabor da Vila,São Paulo,Brasileira,92,2025-06-02 03:57:00,172.54,cancelado,37,0,,3,2025-06-02
+425,1,Sabor da Vila,São Paulo,Brasileira,334,2025-06-02 05:14:00,51.01,entregue,23,74,1.0,5,2025-06-02
+1079,1,Sabor da Vila,São Paulo,Brasileira,300,2025-06-02 11:31:00,173.32,em_preparo,28,29,,11,2025-06-02
+165,5,Temaki House,São Paulo,Japonesa,394,2025-06-02 13:19:00,165.25,em_entrega,22,30,,13,2025-06-02
+275,5,Temaki House,São Paulo,Japonesa,80,2025-06-02 15:02:00,176.8,entregue,21,49,1.0,15,2025-06-02
+929,2,Verde no Pote,Guarulhos,Saudável,165,2025-06-02 16:54:00,170.73,em_preparo,11,59,,16,2025-06-02
+972,4,Burguer Lab,Guarulhos,Hambúrguer,419,2025-06-02 17:11:00,149.67,entregue,28,60,1.0,17,2025-06-02
+732,5,Temaki House,São Paulo,Japonesa,249,2025-06-02 19:00:00,68.29,entregue,30,35,2.0,19,2025-06-02
+464,5,Temaki House,São Paulo,Japonesa,476,2025-06-02 23:26:00,150.42,entregue,19,21,3.0,23,2025-06-02
+1185,3,Forno & Massa,São Paulo,Italiana,325,2025-06-03 09:32:00,109.28,entregue,32,29,4.0,9,2025-06-03
+1374,1,Sabor da Vila,São Paulo,Brasileira,440,2025-06-03 10:32:00,49.91,entregue,23,36,5.0,10,2025-06-03
+777,1,Sabor da Vila,São Paulo,Brasileira,425,2025-06-04 16:31:00,54.49,entregue,20,46,4.0,16,2025-06-04
+1059,2,Verde no Pote,Guarulhos,Saudável,206,2025-06-04 22:21:00,155.97,entregue,31,74,3.0,22,2025-06-04
+1333,1,Sabor da Vila,São Paulo,Brasileira,466,2025-06-05 02:01:00,85.62,entregue,43,35,5.0,2,2025-06-05
+500,2,Verde no Pote,Guarulhos,Saudável,12,2025-06-05 10:43:00,59.29,em_preparo,30,43,,10,2025-06-05
+1437,5,Temaki House,São Paulo,Japonesa,269,2025-06-05 21:48:00,151.29,cancelado,16,0,,21,2025-06-05
+954,4,Burguer Lab,Guarulhos,Hambúrguer,482,2025-06-06 04:25:00,51.82,entregue,42,65,4.0,4,2025-06-06
+547,2,Verde no Pote,Guarulhos,Saudável,293,2025-06-06 16:18:00,19.53,entregue,41,57,3.0,16,2025-06-06
+1153,1,Sabor da Vila,São Paulo,Brasileira,443,2025-06-07 06:22:00,143.2,cancelado,12,0,,6,2025-06-07
+795,5,Temaki House,São Paulo,Japonesa,175,2025-06-07 10:12:00,136.14,entregue,47,59,1.0,10,2025-06-07
+1496,1,Sabor da Vila,São Paulo,Brasileira,474,2025-06-07 10:25:00,180.0,entregue,18,68,3.0,10,2025-06-07
+994,5,Temaki House,São Paulo,Japonesa,128,2025-06-07 11:13:00,124.77,em_entrega,18,58,,11,2025-06-07
+473,2,Verde no Pote,Guarulhos,Saudável,481,2025-06-07 17:01:00,61.83,em_preparo,44,42,,17,2025-06-07
+238,5,Temaki House,São Paulo,Japonesa,292,2025-06-07 17:08:00,84.74,entregue,25,31,4.0,17,2025-06-07
+1444,3,Forno & Massa,São Paulo,Italiana,275,2025-06-08 00:50:00,38.82,entregue,36,46,2.0,0,2025-06-08
+5,2,Verde no Pote,Guarulhos,Saudável,379,2025-06-08 01:12:00,70.07,entregue,10,43,4.0,1,2025-06-08
+621,2,Verde no Pote,Guarulhos,Saudável,360,2025-06-08 06:29:00,121.74,entregue,43,22,3.0,6,2025-06-08
+407,5,Temaki House,São Paulo,Japonesa,174,2025-06-08 07:12:00,121.39,entregue,21,60,4.0,7,2025-06-08
+1100,3,Forno & Massa,São Paulo,Italiana,361,2025-06-08 07:54:00,108.18,entregue,41,66,4.0,7,2025-06-08
+435,1,Sabor da Vila,São Paulo,Brasileira,415,2025-06-08 08:24:00,69.14,entregue,25,52,4.0,8,2025-06-08
+633,5,Temaki House,São Paulo,Japonesa,235,2025-06-08 08:56:00,84.95,entregue,29,26,4.0,8,2025-06-08
+155,3,Forno & Massa,São Paulo,Italiana,219,2025-06-08 12:36:00,111.8,em_entrega,15,15,,12,2025-06-08
+354,5,Temaki House,São Paulo,Japonesa,27,2025-06-08 19:27:00,168.64,cancelado,12,0,,19,2025-06-08
+91,4,Burguer Lab,Guarulhos,Hambúrguer,473,2025-06-08 20:29:00,25.54,entregue,38,27,1.0,20,2025-06-08
+1039,1,Sabor da Vila,São Paulo,Brasileira,222,2025-06-09 09:15:00,140.73,cancelado,43,0,,9,2025-06-09
+140,4,Burguer Lab,Guarulhos,Hambúrguer,138,2025-06-09 09:38:00,124.19,entregue,47,42,5.0,9,2025-06-09
+82,3,Forno & Massa,São Paulo,Italiana,228,2025-06-09 13:27:00,31.46,entregue,49,38,2.0,13,2025-06-09
+756,2,Verde no Pote,Guarulhos,Saudável,381,2025-06-09 20:02:00,131.92,entregue,24,70,3.0,20,2025-06-09
+1418,3,Forno & Massa,São Paulo,Italiana,195,2025-06-10 00:15:00,164.08,entregue,20,41,1.0,0,2025-06-10
+4,4,Burguer Lab,Guarulhos,Hambúrguer,206,2025-06-10 04:34:00,48.41,entregue,41,51,3.0,4,2025-06-10
+298,1,Sabor da Vila,São Paulo,Brasileira,498,2025-06-10 04:51:00,108.01,entregue,15,67,1.0,4,2025-06-10
+121,3,Forno & Massa,São Paulo,Italiana,105,2025-06-10 11:00:00,54.55,entregue,35,29,5.0,11,2025-06-10
+1220,4,Burguer Lab,Guarulhos,Hambúrguer,34,2025-06-10 15:10:00,61.87,entregue,28,28,4.0,15,2025-06-10
+285,2,Verde no Pote,Guarulhos,Saudável,139,2025-06-11 00:37:00,99.51,entregue,44,43,3.0,0,2025-06-11
+800,1,Sabor da Vila,São Paulo,Brasileira,320,2025-06-11 10:40:00,40.62,entregue,44,54,3.0,10,2025-06-11
+935,2,Verde no Pote,Guarulhos,Saudável,277,2025-06-11 13:51:00,131.73,entregue,31,38,2.0,13,2025-06-11
+30,2,Verde no Pote,Guarulhos,Saudável,13,2025-06-11 20:18:00,132.01,cancelado,33,0,,20,2025-06-11
+1293,5,Temaki House,São Paulo,Japonesa,317,2025-06-11 23:15:00,140.59,entregue,26,31,4.0,23,2025-06-11
+1263,3,Forno & Massa,São Paulo,Italiana,51,2025-06-12 05:35:00,102.59,entregue,17,60,4.0,5,2025-06-12
+689,3,Forno & Massa,São Paulo,Italiana,304,2025-06-12 11:49:00,46.58,em_entrega,43,57,,11,2025-06-12
+47,5,Temaki House,São Paulo,Japonesa,365,2025-06-12 16:13:00,50.84,entregue,34,21,4.0,16,2025-06-12
+186,2,Verde no Pote,Guarulhos,Saudável,217,2025-06-12 20:19:00,57.61,entregue,39,66,4.0,20,2025-06-12
+923,3,Forno & Massa,São Paulo,Italiana,143,2025-06-12 23:41:00,121.34,entregue,13,43,2.0,23,2025-06-12
+869,4,Burguer Lab,Guarulhos,Hambúrguer,211,2025-06-12 23:46:00,126.33,em_entrega,37,60,,23,2025-06-12
+219,4,Burguer Lab,Guarulhos,Hambúrguer,182,2025-06-13 03:55:00,135.35,entregue,26,16,3.0,3,2025-06-13
+267,1,Sabor da Vila,São Paulo,Brasileira,24,2025-06-13 04:03:00,103.02,entregue,33,57,5.0,4,2025-06-13
+1184,2,Verde no Pote,Guarulhos,Saudável,259,2025-06-13 14:17:00,25.03,cancelado,27,0,,14,2025-06-13
+1092,3,Forno & Massa,São Paulo,Italiana,297,2025-06-13 14:37:00,151.57,entregue,33,43,3.0,14,2025-06-13
+883,4,Burguer Lab,Guarulhos,Hambúrguer,227,2025-06-13 19:19:00,153.82,entregue,25,61,3.0,19,2025-06-13
+1319,3,Forno & Massa,São Paulo,Italiana,68,2025-06-13 20:59:00,55.7,entregue,26,47,4.0,20,2025-06-13
+1473,4,Burguer Lab,Guarulhos,Hambúrguer,25,2025-06-13 23:40:00,123.93,entregue,30,28,2.0,23,2025-06-13
+214,5,Temaki House,São Paulo,Japonesa,109,2025-06-14 00:24:00,96.56,entregue,30,35,5.0,0,2025-06-14
+1057,3,Forno & Massa,São Paulo,Italiana,255,2025-06-14 02:18:00,36.08,entregue,14,38,5.0,2,2025-06-14
+1373,1,Sabor da Vila,São Paulo,Brasileira,233,2025-06-14 03:27:00,177.93,entregue,40,51,5.0,3,2025-06-14
+1331,5,Temaki House,São Paulo,Japonesa,294,2025-06-14 04:40:00,90.79,entregue,23,30,5.0,4,2025-06-14
+20,4,Burguer Lab,Guarulhos,Hambúrguer,71,2025-06-14 09:22:00,77.31,entregue,27,60,1.0,9,2025-06-14
+31,4,Burguer Lab,Guarulhos,Hambúrguer,496,2025-06-14 10:01:00,57.31,entregue,11,68,3.0,10,2025-06-14
+1368,4,Burguer Lab,Guarulhos,Hambúrguer,303,2025-06-15 10:43:00,144.68,entregue,46,44,2.0,10,2025-06-15
+833,2,Verde no Pote,Guarulhos,Saudável,446,2025-06-15 10:50:00,123.69,entregue,26,41,4.0,10,2025-06-15
+506,3,Forno & Massa,São Paulo,Italiana,51,2025-06-15 16:08:00,105.02,cancelado,48,0,,16,2025-06-15
+792,1,Sabor da Vila,São Paulo,Brasileira,287,2025-06-15 19:49:00,31.49,entregue,46,71,2.0,19,2025-06-15
+1458,4,Burguer Lab,Guarulhos,Hambúrguer,330,2025-06-16 02:49:00,153.36,entregue,39,58,5.0,2,2025-06-16
+537,4,Burguer Lab,Guarulhos,Hambúrguer,251,2025-06-16 07:33:00,157.76,entregue,47,36,5.0,7,2025-06-16
+222,2,Verde no Pote,Guarulhos,Saudável,298,2025-06-16 08:36:00,177.38,entregue,44,33,3.0,8,2025-06-16
+871,5,Temaki House,São Paulo,Japonesa,321,2025-06-16 12:15:00,46.72,entregue,42,24,5.0,12,2025-06-16
+205,2,Verde no Pote,Guarulhos,Saudável,342,2025-06-16 22:58:00,53.11,em_entrega,40,18,,22,2025-06-16
+798,1,Sabor da Vila,São Paulo,Brasileira,487,2025-06-17 08:52:00,78.68,entregue,37,57,3.0,8,2025-06-17
+916,3,Forno & Massa,São Paulo,Italiana,219,2025-06-17 08:59:00,173.13,cancelado,19,0,,8,2025-06-17
+114,4,Burguer Lab,Guarulhos,Hambúrguer,403,2025-06-17 12:06:00,60.0,entregue,31,52,4.0,12,2025-06-17
+905,1,Sabor da Vila,São Paulo,Brasileira,175,2025-06-17 12:13:00,132.93,em_entrega,11,54,,12,2025-06-17
+335,2,Verde no Pote,Guarulhos,Saudável,63,2025-06-17 21:53:00,71.75,em_entrega,50,19,,21,2025-06-17
+647,2,Verde no Pote,Guarulhos,Saudável,67,2025-06-18 01:57:00,36.5,entregue,29,23,5.0,1,2025-06-18
+1213,3,Forno & Massa,São Paulo,Italiana,167,2025-06-18 04:03:00,45.38,entregue,29,45,5.0,4,2025-06-18
+939,2,Verde no Pote,Guarulhos,Saudável,149,2025-06-18 12:07:00,159.87,entregue,27,63,2.0,12,2025-06-18
+176,1,Sabor da Vila,São Paulo,Brasileira,101,2025-06-18 14:02:00,136.48,entregue,25,42,1.0,14,2025-06-18
+612,2,Verde no Pote,Guarulhos,Saudável,35,2025-06-18 22:07:00,161.99,entregue,38,17,5.0,22,2025-06-18
+73,2,Verde no Pote,Guarulhos,Saudável,137,2025-06-18 23:21:00,179.16,entregue,30,58,1.0,23,2025-06-18
+485,5,Temaki House,São Paulo,Japonesa,260,2025-06-18 23:56:00,33.65,entregue,17,58,4.0,23,2025-06-18
+231,2,Verde no Pote,Guarulhos,Saudável,80,2025-06-19 01:41:00,43.77,em_entrega,47,43,,1,2025-06-19
+1248,4,Burguer Lab,Guarulhos,Hambúrguer,399,2025-06-19 17:10:00,153.81,entregue,20,65,1.0,17,2025-06-19
+710,4,Burguer Lab,Guarulhos,Hambúrguer,435,2025-06-20 02:01:00,65.45,entregue,11,45,5.0,2,2025-06-20
+54,5,Temaki House,São Paulo,Japonesa,429,2025-06-20 08:28:00,53.28,entregue,32,31,4.0,8,2025-06-20
+1075,5,Temaki House,São Paulo,Japonesa,459,2025-06-20 08:31:00,68.44,entregue,39,58,5.0,8,2025-06-20
+277,3,Forno & Massa,São Paulo,Italiana,280,2025-06-20 11:51:00,37.49,em_entrega,23,19,,11,2025-06-20
+1499,5,Temaki House,São Paulo,Japonesa,167,2025-06-20 12:56:00,99.37,entregue,40,50,1.0,12,2025-06-20
+474,2,Verde no Pote,Guarulhos,Saudável,414,2025-06-20 14:15:00,75.03,entregue,41,73,2.0,14,2025-06-20
+1102,3,Forno & Massa,São Paulo,Italiana,490,2025-06-21 07:18:00,37.83,em_preparo,50,67,,7,2025-06-21
+367,2,Verde no Pote,Guarulhos,Saudável,203,2025-06-21 09:13:00,83.61,entregue,29,65,4.0,9,2025-06-21
+70,1,Sabor da Vila,São Paulo,Brasileira,88,2025-06-21 09:18:00,53.79,entregue,18,75,3.0,9,2025-06-21
+1431,3,Forno & Massa,São Paulo,Italiana,240,2025-06-21 15:36:00,142.75,cancelado,48,0,,15,2025-06-21
+124,3,Forno & Massa,São Paulo,Italiana,222,2025-06-21 22:48:00,117.97,entregue,13,41,1.0,22,2025-06-21
+109,5,Temaki House,São Paulo,Japonesa,173,2025-06-22 02:55:00,113.64,entregue,45,52,2.0,2,2025-06-22
+290,1,Sabor da Vila,São Paulo,Brasileira,175,2025-06-22 19:46:00,134.2,entregue,34,65,5.0,19,2025-06-22
+974,2,Verde no Pote,Guarulhos,Saudável,346,2025-06-23 01:24:00,93.92,entregue,17,56,2.0,1,2025-06-23
+944,3,Forno & Massa,São Paulo,Italiana,138,2025-06-23 01:43:00,38.8,entregue,43,42,1.0,1,2025-06-23
+519,3,Forno & Massa,São Paulo,Italiana,149,2025-06-23 12:41:00,116.28,entregue,42,26,2.0,12,2025-06-23
+76,2,Verde no Pote,Guarulhos,Saudável,423,2025-06-23 15:10:00,148.03,entregue,41,15,1.0,15,2025-06-23
+709,4,Burguer Lab,Guarulhos,Hambúrguer,399,2025-06-23 17:08:00,143.9,em_entrega,30,27,,17,2025-06-23
+1420,1,Sabor da Vila,São Paulo,Brasileira,67,2025-06-23 20:00:00,164.11,entregue,47,59,5.0,20,2025-06-23
+973,5,Temaki House,São Paulo,Japonesa,113,2025-06-24 04:55:00,42.81,entregue,42,28,3.0,4,2025-06-24
+1202,4,Burguer Lab,Guarulhos,Hambúrguer,348,2025-06-24 06:57:00,69.38,entregue,25,32,1.0,6,2025-06-24
+622,5,Temaki House,São Paulo,Japonesa,394,2025-06-24 10:12:00,163.3,em_entrega,35,71,,10,2025-06-24
+785,1,Sabor da Vila,São Paulo,Brasileira,145,2025-06-24 12:47:00,40.11,entregue,50,29,4.0,12,2025-06-24
+768,5,Temaki House,São Paulo,Japonesa,498,2025-06-24 23:16:00,160.02,em_entrega,35,48,,23,2025-06-24
+1101,5,Temaki House,São Paulo,Japonesa,118,2025-06-25 02:19:00,118.93,entregue,23,43,5.0,2,2025-06-25
+644,5,Temaki House,São Paulo,Japonesa,440,2025-06-25 12:46:00,149.98,entregue,32,41,4.0,12,2025-06-25
+276,5,Temaki House,São Paulo,Japonesa,113,2025-06-26 00:58:00,86.31,entregue,11,18,5.0,0,2025-06-26
+1146,2,Verde no Pote,Guarulhos,Saudável,188,2025-06-26 03:20:00,70.98,entregue,12,33,4.0,3,2025-06-26
+282,5,Temaki House,São Paulo,Japonesa,152,2025-06-27 15:07:00,41.48,entregue,34,33,1.0,15,2025-06-27
+1031,1,Sabor da Vila,São Paulo,Brasileira,227,2025-06-27 23:01:00,75.14,entregue,34,69,4.0,23,2025-06-27
+729,5,Temaki House,São Paulo,Japonesa,274,2025-06-28 04:34:00,30.2,entregue,13,22,2.0,4,2025-06-28
+444,4,Burguer Lab,Guarulhos,Hambúrguer,43,2025-06-28 07:59:00,48.9,em_entrega,45,64,,7,2025-06-28
+651,5,Temaki House,São Paulo,Japonesa,207,2025-06-28 13:51:00,116.05,entregue,16,27,5.0,13,2025-06-28
+1492,1,Sabor da Vila,São Paulo,Brasileira,276,2025-06-28 16:02:00,142.55,entregue,29,58,2.0,16,2025-06-28
+1244,1,Sabor da Vila,São Paulo,Brasileira,299,2025-06-28 17:46:00,26.84,entregue,28,31,1.0,17,2025-06-28
+1116,4,Burguer Lab,Guarulhos,Hambúrguer,404,2025-06-28 22:07:00,105.92,cancelado,39,0,,22,2025-06-28
+1477,2,Verde no Pote,Guarulhos,Saudável,210,2025-06-29 00:53:00,115.72,entregue,48,73,4.0,0,2025-06-29
+284,5,Temaki House,São Paulo,Japonesa,312,2025-06-29 02:35:00,75.91,em_preparo,40,25,,2,2025-06-29
+718,1,Sabor da Vila,São Paulo,Brasileira,134,2025-06-29 15:15:00,107.53,entregue,37,56,5.0,15,2025-06-29
+235,3,Forno & Massa,São Paulo,Italiana,16,2025-06-29 20:35:00,118.64,entregue,43,61,1.0,20,2025-06-29
+563,5,Temaki House,São Paulo,Japonesa,6,2025-06-29 23:24:00,116.45,entregue,35,43,1.0,23,2025-06-29
+1120,2,Verde no Pote,Guarulhos,Saudável,397,2025-06-30 01:13:00,71.77,cancelado,16,0,,1,2025-06-30
+252,2,Verde no Pote,Guarulhos,Saudável,384,2025-06-30 07:21:00,45.0,entregue,16,26,3.0,7,2025-06-30
+1018,3,Forno & Massa,São Paulo,Italiana,225,2025-06-30 08:40:00,45.81,entregue,37,56,5.0,8,2025-06-30
+203,1,Sabor da Vila,São Paulo,Brasileira,356,2025-06-30 16:46:00,110.69,entregue,32,28,3.0,16,2025-06-30
+185,2,Verde no Pote,Guarulhos,Saudável,222,2025-06-30 21:40:00,120.92,entregue,31,25,3.0,21,2025-06-30
+1353,5,Temaki House,São Paulo,Japonesa,304,2025-06-30 23:13:00,83.18,cancelado,20,0,,23,2025-06-30
+1356,3,Forno & Massa,São Paulo,Italiana,258,2025-07-01 08:59:00,145.51,entregue,34,49,1.0,8,2025-07-01
+183,5,Temaki House,São Paulo,Japonesa,332,2025-07-01 12:36:00,36.67,entregue,38,25,5.0,12,2025-07-01
+55,4,Burguer Lab,Guarulhos,Hambúrguer,54,2025-07-01 16:39:00,175.67,entregue,39,66,4.0,16,2025-07-01
+1162,2,Verde no Pote,Guarulhos,Saudável,245,2025-07-02 01:38:00,23.41,entregue,19,61,1.0,1,2025-07-02
+453,1,Sabor da Vila,São Paulo,Brasileira,277,2025-07-02 04:41:00,136.15,cancelado,42,0,,4,2025-07-02
+405,5,Temaki House,São Paulo,Japonesa,92,2025-07-02 05:55:00,63.65,entregue,17,64,4.0,5,2025-07-02
+21,5,Temaki House,São Paulo,Japonesa,25,2025-07-02 15:04:00,22.8,entregue,50,30,1.0,15,2025-07-02
+406,2,Verde no Pote,Guarulhos,Saudável,213,2025-07-02 18:29:00,58.65,entregue,36,70,5.0,18,2025-07-02
+180,4,Burguer Lab,Guarulhos,Hambúrguer,12,2025-07-02 21:09:00,63.15,entregue,12,71,2.0,21,2025-07-02
+1053,5,Temaki House,São Paulo,Japonesa,367,2025-07-03 03:16:00,35.11,entregue,36,56,3.0,3,2025-07-03
+1091,3,Forno & Massa,São Paulo,Italiana,331,2025-07-03 13:25:00,161.81,entregue,13,54,3.0,13,2025-07-03
+1379,2,Verde no Pote,Guarulhos,Saudável,225,2025-07-03 15:15:00,165.1,entregue,36,36,2.0,15,2025-07-03
+667,5,Temaki House,São Paulo,Japonesa,167,2025-07-03 16:57:00,123.85,entregue,39,19,1.0,16,2025-07-03
+1008,2,Verde no Pote,Guarulhos,Saudável,75,2025-07-03 19:49:00,94.05,em_entrega,13,54,,19,2025-07-03
+556,4,Burguer Lab,Guarulhos,Hambúrguer,24,2025-07-04 03:38:00,133.16,em_preparo,47,47,,3,2025-07-04
+876,1,Sabor da Vila,São Paulo,Brasileira,417,2025-07-04 03:41:00,51.16,entregue,37,34,1.0,3,2025-07-04
+1152,2,Verde no Pote,Guarulhos,Saudável,247,2025-07-04 05:58:00,79.49,entregue,40,38,3.0,5,2025-07-04
+159,2,Verde no Pote,Guarulhos,Saudável,119,2025-07-04 07:56:00,99.1,entregue,27,62,4.0,7,2025-07-04
+629,2,Verde no Pote,Guarulhos,Saudável,72,2025-07-04 08:16:00,97.9,entregue,37,41,2.0,8,2025-07-04
+115,1,Sabor da Vila,São Paulo,Brasileira,303,2025-07-04 13:06:00,84.42,entregue,32,27,4.0,13,2025-07-04
+420,2,Verde no Pote,Guarulhos,Saudável,415,2025-07-04 19:27:00,62.9,entregue,31,20,2.0,19,2025-07-04
+1217,5,Temaki House,São Paulo,Japonesa,287,2025-07-05 02:20:00,130.89,entregue,18,52,4.0,2,2025-07-05
+1490,2,Verde no Pote,Guarulhos,Saudável,213,2025-07-05 11:32:00,165.15,entregue,33,20,2.0,11,2025-07-05
+1241,4,Burguer Lab,Guarulhos,Hambúrguer,485,2025-07-05 11:39:00,174.42,entregue,40,45,1.0,11,2025-07-05
+1051,3,Forno & Massa,São Paulo,Italiana,9,2025-07-05 12:47:00,36.53,entregue,34,75,5.0,12,2025-07-05
+940,2,Verde no Pote,Guarulhos,Saudável,146,2025-07-05 13:10:00,92.98,entregue,32,73,4.0,13,2025-07-05
+445,3,Forno & Massa,São Paulo,Italiana,228,2025-07-05 13:20:00,168.69,em_preparo,11,17,,13,2025-07-05
+897,5,Temaki House,São Paulo,Japonesa,454,2025-07-05 21:35:00,178.55,entregue,48,31,4.0,21,2025-07-05
+1442,4,Burguer Lab,Guarulhos,Hambúrguer,473,2025-07-07 03:31:00,28.16,entregue,29,53,5.0,3,2025-07-07
+1000,1,Sabor da Vila,São Paulo,Brasileira,188,2025-07-07 03:35:00,112.99,entregue,11,67,5.0,3,2025-07-07
+17,4,Burguer Lab,Guarulhos,Hambúrguer,327,2025-07-07 07:51:00,96.0,entregue,24,35,1.0,7,2025-07-07
+608,4,Burguer Lab,Guarulhos,Hambúrguer,53,2025-07-07 16:35:00,50.12,entregue,48,75,3.0,16,2025-07-07
+1296,2,Verde no Pote,Guarulhos,Saudável,240,2025-07-07 20:09:00,110.95,entregue,18,38,4.0,20,2025-07-07
+344,2,Verde no Pote,Guarulhos,Saudável,12,2025-07-07 23:54:00,103.94,entregue,18,55,5.0,23,2025-07-07
+1207,3,Forno & Massa,São Paulo,Italiana,334,2025-07-08 00:05:00,137.86,entregue,26,75,3.0,0,2025-07-08
+803,4,Burguer Lab,Guarulhos,Hambúrguer,215,2025-07-08 04:15:00,174.61,entregue,17,47,3.0,4,2025-07-08
+549,4,Burguer Lab,Guarulhos,Hambúrguer,458,2025-07-08 08:07:00,85.02,entregue,21,49,4.0,8,2025-07-08
+1460,4,Burguer Lab,Guarulhos,Hambúrguer,231,2025-07-08 08:55:00,33.64,entregue,45,61,5.0,8,2025-07-08
+1165,4,Burguer Lab,Guarulhos,Hambúrguer,310,2025-07-08 16:52:00,138.64,entregue,32,53,2.0,16,2025-07-08
+717,5,Temaki House,São Paulo,Japonesa,155,2025-07-08 23:06:00,58.39,entregue,42,49,3.0,23,2025-07-08
+366,5,Temaki House,São Paulo,Japonesa,401,2025-07-09 09:11:00,166.3,entregue,34,44,3.0,9,2025-07-09
+1015,1,Sabor da Vila,São Paulo,Brasileira,257,2025-07-09 12:59:00,31.54,entregue,30,41,3.0,12,2025-07-09
+1010,4,Burguer Lab,Guarulhos,Hambúrguer,106,2025-07-09 21:36:00,67.24,em_preparo,46,58,,21,2025-07-09
+701,2,Verde no Pote,Guarulhos,Saudável,417,2025-07-09 23:59:00,22.42,cancelado,27,0,,23,2025-07-09
+296,5,Temaki House,São Paulo,Japonesa,207,2025-07-10 01:05:00,140.94,entregue,17,58,3.0,1,2025-07-10
+449,2,Verde no Pote,Guarulhos,Saudável,157,2025-07-10 04:09:00,70.76,entregue,20,26,3.0,4,2025-07-10
+893,5,Temaki House,São Paulo,Japonesa,420,2025-07-10 17:33:00,108.84,entregue,42,16,5.0,17,2025-07-10
+712,1,Sabor da Vila,São Paulo,Brasileira,374,2025-07-10 18:15:00,66.98,entregue,15,36,1.0,18,2025-07-10
+679,5,Temaki House,São Paulo,Japonesa,291,2025-07-10 23:28:00,101.22,entregue,13,70,4.0,23,2025-07-10
+578,2,Verde no Pote,Guarulhos,Saudável,145,2025-07-11 04:04:00,50.87,entregue,10,20,2.0,4,2025-07-11
+1311,4,Burguer Lab,Guarulhos,Hambúrguer,200,2025-07-11 07:55:00,19.1,em_entrega,37,68,,7,2025-07-11
+1074,1,Sabor da Vila,São Paulo,Brasileira,36,2025-07-11 15:46:00,22.16,entregue,38,28,5.0,15,2025-07-11
+1195,4,Burguer Lab,Guarulhos,Hambúrguer,305,2025-07-11 22:14:00,119.77,cancelado,34,0,,22,2025-07-11
+997,2,Verde no Pote,Guarulhos,Saudável,425,2025-07-12 03:03:00,44.0,entregue,41,35,5.0,3,2025-07-12
+11,4,Burguer Lab,Guarulhos,Hambúrguer,43,2025-07-12 03:57:00,85.04,entregue,22,39,2.0,3,2025-07-12
+1392,4,Burguer Lab,Guarulhos,Hambúrguer,80,2025-07-13 06:47:00,39.5,entregue,27,40,3.0,6,2025-07-13
+995,3,Forno & Massa,São Paulo,Italiana,11,2025-07-13 07:51:00,178.56,entregue,41,60,2.0,7,2025-07-13
+1299,4,Burguer Lab,Guarulhos,Hambúrguer,240,2025-07-13 16:08:00,72.34,entregue,33,41,5.0,16,2025-07-13
+488,5,Temaki House,São Paulo,Japonesa,342,2025-07-13 17:32:00,38.78,entregue,47,33,2.0,17,2025-07-13
+507,1,Sabor da Vila,São Paulo,Brasileira,235,2025-07-13 19:42:00,70.99,entregue,30,72,3.0,19,2025-07-13
+1147,1,Sabor da Vila,São Paulo,Brasileira,358,2025-07-13 22:36:00,112.25,entregue,46,69,4.0,22,2025-07-13
+1164,4,Burguer Lab,Guarulhos,Hambúrguer,8,2025-07-13 23:09:00,157.52,entregue,28,63,5.0,23,2025-07-13
+747,4,Burguer Lab,Guarulhos,Hambúrguer,482,2025-07-14 06:02:00,165.09,cancelado,33,0,,6,2025-07-14
+656,5,Temaki House,São Paulo,Japonesa,257,2025-07-14 10:38:00,30.1,entregue,45,66,3.0,10,2025-07-14
+351,5,Temaki House,São Paulo,Japonesa,129,2025-07-14 14:27:00,45.89,entregue,48,35,2.0,14,2025-07-14
+1335,3,Forno & Massa,São Paulo,Italiana,268,2025-07-14 18:10:00,21.53,entregue,20,35,5.0,18,2025-07-14
+1341,3,Forno & Massa,São Paulo,Italiana,130,2025-07-14 23:18:00,88.7,entregue,41,68,2.0,23,2025-07-14
+648,5,Temaki House,São Paulo,Japonesa,386,2025-07-15 10:24:00,119.33,em_preparo,43,63,,10,2025-07-15
+606,3,Forno & Massa,São Paulo,Italiana,387,2025-07-15 15:57:00,107.18,entregue,36,30,3.0,15,2025-07-15
+561,4,Burguer Lab,Guarulhos,Hambúrguer,222,2025-07-15 19:51:00,68.51,entregue,32,53,2.0,19,2025-07-15
+931,3,Forno & Massa,São Paulo,Italiana,175,2025-07-16 04:54:00,121.58,entregue,49,20,1.0,4,2025-07-16
+1140,2,Verde no Pote,Guarulhos,Saudável,178,2025-07-16 22:15:00,135.11,entregue,47,33,2.0,22,2025-07-16
+877,3,Forno & Massa,São Paulo,Italiana,215,2025-07-17 00:59:00,75.84,entregue,17,41,1.0,0,2025-07-17
+539,1,Sabor da Vila,São Paulo,Brasileira,492,2025-07-17 04:53:00,127.63,entregue,50,34,2.0,4,2025-07-17
+1259,3,Forno & Massa,São Paulo,Italiana,191,2025-07-17 06:00:00,22.42,entregue,32,23,2.0,6,2025-07-17
+1380,5,Temaki House,São Paulo,Japonesa,356,2025-07-17 09:54:00,26.25,entregue,10,38,2.0,9,2025-07-17
+927,1,Sabor da Vila,São Paulo,Brasileira,382,2025-07-17 13:26:00,88.18,entregue,43,38,2.0,13,2025-07-17
+289,2,Verde no Pote,Guarulhos,Saudável,244,2025-07-17 22:03:00,42.22,entregue,22,31,5.0,22,2025-07-17
+305,3,Forno & Massa,São Paulo,Italiana,255,2025-07-18 03:09:00,153.54,entregue,38,33,4.0,3,2025-07-18
+917,2,Verde no Pote,Guarulhos,Saudável,255,2025-07-18 04:47:00,94.06,cancelado,24,0,,4,2025-07-18
+789,4,Burguer Lab,Guarulhos,Hambúrguer,313,2025-07-18 17:54:00,75.95,cancelado,20,0,,17,2025-07-18
+807,3,Forno & Massa,São Paulo,Italiana,131,2025-07-18 21:20:00,172.23,em_entrega,26,45,,21,2025-07-18
+295,4,Burguer Lab,Guarulhos,Hambúrguer,469,2025-07-18 22:14:00,65.06,entregue,26,19,1.0,22,2025-07-18
+29,5,Temaki House,São Paulo,Japonesa,385,2025-07-19 01:57:00,135.31,entregue,28,47,5.0,1,2025-07-19
+57,1,Sabor da Vila,São Paulo,Brasileira,338,2025-07-19 11:56:00,93.66,entregue,16,15,5.0,11,2025-07-19
+331,5,Temaki House,São Paulo,Japonesa,496,2025-07-19 13:59:00,170.2,entregue,24,18,1.0,13,2025-07-19
+229,3,Forno & Massa,São Paulo,Italiana,430,2025-07-19 14:54:00,57.36,entregue,14,15,2.0,14,2025-07-19
+983,1,Sabor da Vila,São Paulo,Brasileira,278,2025-07-19 16:01:00,156.56,entregue,22,75,5.0,16,2025-07-19
+879,5,Temaki House,São Paulo,Japonesa,326,2025-07-20 02:49:00,35.94,entregue,29,51,5.0,2,2025-07-20
+992,5,Temaki House,São Paulo,Japonesa,435,2025-07-20 10:30:00,137.06,entregue,42,64,2.0,10,2025-07-20
+1323,4,Burguer Lab,Guarulhos,Hambúrguer,426,2025-07-20 15:04:00,135.28,entregue,45,70,4.0,15,2025-07-20
+1497,2,Verde no Pote,Guarulhos,Saudável,382,2025-07-21 04:08:00,35.52,entregue,45,61,2.0,4,2025-07-21
+762,4,Burguer Lab,Guarulhos,Hambúrguer,67,2025-07-21 20:13:00,160.3,entregue,13,32,4.0,20,2025-07-21
+655,2,Verde no Pote,Guarulhos,Saudável,32,2025-07-21 20:36:00,140.3,entregue,42,20,3.0,20,2025-07-21
+1222,3,Forno & Massa,São Paulo,Italiana,275,2025-07-21 21:11:00,114.65,em_entrega,26,55,,21,2025-07-21
+132,3,Forno & Massa,São Paulo,Italiana,461,2025-07-22 01:21:00,100.19,entregue,21,42,2.0,1,2025-07-22
+308,1,Sabor da Vila,São Paulo,Brasileira,59,2025-07-22 05:21:00,168.08,entregue,46,22,3.0,5,2025-07-22
+34,5,Temaki House,São Paulo,Japonesa,378,2025-07-22 10:09:00,24.02,entregue,40,72,3.0,10,2025-07-22
+1365,5,Temaki House,São Paulo,Japonesa,96,2025-07-22 12:07:00,178.16,entregue,47,75,5.0,12,2025-07-22
+330,2,Verde no Pote,Guarulhos,Saudável,228,2025-07-22 12:30:00,66.89,entregue,29,51,2.0,12,2025-07-22
+755,2,Verde no Pote,Guarulhos,Saudável,392,2025-07-22 13:54:00,156.87,cancelado,24,0,,13,2025-07-22
+456,5,Temaki House,São Paulo,Japonesa,134,2025-07-22 15:32:00,143.5,entregue,17,26,1.0,15,2025-07-22
+1258,4,Burguer Lab,Guarulhos,Hambúrguer,122,2025-07-22 17:50:00,174.74,entregue,31,54,5.0,17,2025-07-22
+113,4,Burguer Lab,Guarulhos,Hambúrguer,36,2025-07-22 19:28:00,72.53,cancelado,42,0,,19,2025-07-22
+1084,4,Burguer Lab,Guarulhos,Hambúrguer,404,2025-07-22 22:17:00,95.27,entregue,13,48,1.0,22,2025-07-22
+1129,2,Verde no Pote,Guarulhos,Saudável,400,2025-07-23 00:04:00,161.4,entregue,28,32,2.0,0,2025-07-23
+158,4,Burguer Lab,Guarulhos,Hambúrguer,215,2025-07-23 07:36:00,20.58,entregue,33,52,5.0,7,2025-07-23
+1003,5,Temaki House,São Paulo,Japonesa,387,2025-07-23 18:51:00,24.6,em_preparo,11,74,,18,2025-07-23
+134,3,Forno & Massa,São Paulo,Italiana,330,2025-07-24 02:39:00,110.28,entregue,17,39,3.0,2,2025-07-24
+1387,2,Verde no Pote,Guarulhos,Saudável,11,2025-07-24 13:42:00,56.79,entregue,50,63,4.0,13,2025-07-24
+1412,3,Forno & Massa,São Paulo,Italiana,197,2025-07-24 22:38:00,168.7,entregue,23,24,2.0,22,2025-07-24
+1434,5,Temaki House,São Paulo,Japonesa,85,2025-07-25 04:36:00,144.93,entregue,23,59,1.0,4,2025-07-25
+79,3,Forno & Massa,São Paulo,Italiana,442,2025-07-26 01:01:00,35.39,em_preparo,21,50,,1,2025-07-26
+706,4,Burguer Lab,Guarulhos,Hambúrguer,481,2025-07-26 04:58:00,34.98,entregue,28,17,3.0,4,2025-07-26
+126,5,Temaki House,São Paulo,Japonesa,99,2025-07-26 07:28:00,103.83,em_preparo,25,29,,7,2025-07-26
+1029,3,Forno & Massa,São Paulo,Italiana,428,2025-07-26 07:59:00,41.42,entregue,11,42,5.0,7,2025-07-26
+131,2,Verde no Pote,Guarulhos,Saudável,251,2025-07-26 08:40:00,99.61,entregue,16,19,2.0,8,2025-07-26
+980,5,Temaki House,São Paulo,Japonesa,256,2025-07-26 12:09:00,133.49,entregue,33,45,4.0,12,2025-07-26
+1189,5,Temaki House,São Paulo,Japonesa,14,2025-07-26 18:45:00,71.18,entregue,41,30,3.0,18,2025-07-26
+437,5,Temaki House,São Paulo,Japonesa,16,2025-07-27 01:23:00,114.77,entregue,49,64,1.0,1,2025-07-27
+116,1,Sabor da Vila,São Paulo,Brasileira,159,2025-07-27 14:10:00,166.41,em_preparo,27,24,,14,2025-07-27
+570,3,Forno & Massa,São Paulo,Italiana,25,2025-07-28 11:59:00,109.16,cancelado,49,0,,11,2025-07-28
+288,3,Forno & Massa,São Paulo,Italiana,493,2025-07-28 16:20:00,54.18,entregue,10,18,3.0,16,2025-07-28
+1455,5,Temaki House,São Paulo,Japonesa,295,2025-07-28 19:57:00,52.26,entregue,37,52,5.0,19,2025-07-28
+922,1,Sabor da Vila,São Paulo,Brasileira,441,2025-07-28 22:20:00,91.19,entregue,49,42,4.0,22,2025-07-28
+708,4,Burguer Lab,Guarulhos,Hambúrguer,133,2025-07-28 22:29:00,114.32,entregue,40,35,2.0,22,2025-07-28
+978,2,Verde no Pote,Guarulhos,Saudável,334,2025-07-28 22:43:00,138.97,em_preparo,38,27,,22,2025-07-28
+129,3,Forno & Massa,São Paulo,Italiana,208,2025-07-29 17:30:00,178.29,entregue,41,34,4.0,17,2025-07-29
+1344,5,Temaki House,São Paulo,Japonesa,131,2025-07-29 19:52:00,70.64,entregue,10,52,1.0,19,2025-07-29
+535,4,Burguer Lab,Guarulhos,Hambúrguer,98,2025-07-30 18:09:00,160.44,em_preparo,10,74,,18,2025-07-30
+930,1,Sabor da Vila,São Paulo,Brasileira,254,2025-07-30 23:25:00,94.47,entregue,45,60,3.0,23,2025-07-30
+228,4,Burguer Lab,Guarulhos,Hambúrguer,114,2025-07-31 09:57:00,56.34,entregue,46,55,2.0,9,2025-07-31
+597,2,Verde no Pote,Guarulhos,Saudável,268,2025-07-31 11:14:00,156.61,entregue,35,67,2.0,11,2025-07-31
+677,1,Sabor da Vila,São Paulo,Brasileira,12,2025-07-31 23:43:00,58.7,entregue,18,64,1.0,23,2025-07-31
+266,1,Sabor da Vila,São Paulo,Brasileira,4,2025-08-01 02:05:00,155.97,entregue,16,20,4.0,2,2025-08-01
+424,4,Burguer Lab,Guarulhos,Hambúrguer,362,2025-08-01 02:34:00,139.3,entregue,37,57,1.0,2,2025-08-01
+1161,2,Verde no Pote,Guarulhos,Saudável,330,2025-08-01 18:21:00,169.71,entregue,15,17,5.0,18,2025-08-01
+242,4,Burguer Lab,Guarulhos,Hambúrguer,156,2025-08-02 04:41:00,44.02,entregue,28,24,2.0,4,2025-08-02
+1415,1,Sabor da Vila,São Paulo,Brasileira,139,2025-08-02 12:44:00,87.07,em_preparo,31,29,,12,2025-08-02
+1118,3,Forno & Massa,São Paulo,Italiana,50,2025-08-03 01:15:00,176.28,entregue,17,52,5.0,1,2025-08-03
+1156,4,Burguer Lab,Guarulhos,Hambúrguer,84,2025-08-03 07:12:00,64.3,entregue,19,30,4.0,7,2025-08-03
+985,4,Burguer Lab,Guarulhos,Hambúrguer,477,2025-08-03 07:26:00,158.33,em_preparo,31,73,,7,2025-08-03
+260,3,Forno & Massa,São Paulo,Italiana,301,2025-08-03 11:45:00,88.87,entregue,38,72,3.0,11,2025-08-03
+786,2,Verde no Pote,Guarulhos,Saudável,460,2025-08-03 17:08:00,26.16,entregue,33,74,1.0,17,2025-08-03
+966,5,Temaki House,São Paulo,Japonesa,206,2025-08-03 17:33:00,89.54,entregue,32,66,4.0,17,2025-08-03
+1423,2,Verde no Pote,Guarulhos,Saudável,158,2025-08-03 23:49:00,104.97,entregue,36,26,4.0,23,2025-08-03
+981,5,Temaki House,São Paulo,Japonesa,113,2025-08-04 05:53:00,137.69,em_entrega,50,32,,5,2025-08-04
+698,3,Forno & Massa,São Paulo,Italiana,14,2025-08-04 09:03:00,143.9,entregue,48,62,4.0,9,2025-08-04
+1318,1,Sabor da Vila,São Paulo,Brasileira,155,2025-08-04 11:12:00,127.64,em_entrega,47,68,,11,2025-08-04
+1396,1,Sabor da Vila,São Paulo,Brasileira,185,2025-08-04 14:55:00,61.27,em_preparo,42,17,,14,2025-08-04
+270,3,Forno & Massa,São Paulo,Italiana,443,2025-08-04 16:25:00,141.6,entregue,11,59,5.0,16,2025-08-04
+548,5,Temaki House,São Paulo,Japonesa,285,2025-08-04 18:25:00,120.64,entregue,35,58,5.0,18,2025-08-04
+915,2,Verde no Pote,Guarulhos,Saudável,202,2025-08-05 01:35:00,58.47,em_preparo,22,27,,1,2025-08-05
+688,1,Sabor da Vila,São Paulo,Brasileira,83,2025-08-05 16:39:00,95.4,entregue,15,21,1.0,16,2025-08-05
+520,3,Forno & Massa,São Paulo,Italiana,185,2025-08-05 23:14:00,18.17,entregue,36,17,4.0,23,2025-08-05
+1350,2,Verde no Pote,Guarulhos,Saudável,353,2025-08-06 06:03:00,130.19,entregue,12,63,3.0,6,2025-08-06
+468,2,Verde no Pote,Guarulhos,Saudável,366,2025-08-06 13:19:00,32.88,entregue,23,21,2.0,13,2025-08-06
+455,4,Burguer Lab,Guarulhos,Hambúrguer,114,2025-08-06 21:09:00,150.53,entregue,25,43,4.0,21,2025-08-06
+665,2,Verde no Pote,Guarulhos,Saudável,263,2025-08-07 01:37:00,146.28,entregue,24,57,2.0,1,2025-08-07
+1188,1,Sabor da Vila,São Paulo,Brasileira,114,2025-08-07 10:39:00,99.01,entregue,20,20,2.0,10,2025-08-07
+531,2,Verde no Pote,Guarulhos,Saudável,465,2025-08-07 11:22:00,76.94,entregue,23,18,2.0,11,2025-08-07
+394,1,Sabor da Vila,São Paulo,Brasileira,393,2025-08-07 18:35:00,107.88,cancelado,12,0,,18,2025-08-07
+720,4,Burguer Lab,Guarulhos,Hambúrguer,328,2025-08-07 20:26:00,153.44,entregue,24,55,3.0,20,2025-08-07
+1048,5,Temaki House,São Paulo,Japonesa,500,2025-08-08 07:21:00,74.55,entregue,12,38,5.0,7,2025-08-08
+967,2,Verde no Pote,Guarulhos,Saudável,55,2025-08-08 13:46:00,166.5,entregue,11,70,2.0,13,2025-08-08
+137,4,Burguer Lab,Guarulhos,Hambúrguer,3,2025-08-09 00:51:00,90.35,entregue,43,23,1.0,0,2025-08-09
+494,4,Burguer Lab,Guarulhos,Hambúrguer,441,2025-08-09 03:13:00,41.19,entregue,32,36,1.0,3,2025-08-09
+625,3,Forno & Massa,São Paulo,Italiana,485,2025-08-09 12:35:00,174.72,em_entrega,14,47,,12,2025-08-09
+850,5,Temaki House,São Paulo,Japonesa,230,2025-08-10 03:54:00,178.34,entregue,33,24,4.0,3,2025-08-10
+490,3,Forno & Massa,São Paulo,Italiana,287,2025-08-10 04:41:00,179.82,entregue,46,22,2.0,4,2025-08-10
+193,4,Burguer Lab,Guarulhos,Hambúrguer,430,2025-08-10 15:02:00,154.96,entregue,50,31,2.0,15,2025-08-10
+1181,2,Verde no Pote,Guarulhos,Saudável,109,2025-08-10 21:43:00,164.73,entregue,17,42,5.0,21,2025-08-10
+1305,1,Sabor da Vila,São Paulo,Brasileira,169,2025-08-11 20:58:00,41.87,entregue,22,70,3.0,20,2025-08-11
+956,3,Forno & Massa,São Paulo,Italiana,10,2025-08-12 00:15:00,140.89,em_entrega,15,70,,0,2025-08-12
+896,3,Forno & Massa,São Paulo,Italiana,360,2025-08-12 05:07:00,168.42,entregue,11,61,5.0,5,2025-08-12
+269,2,Verde no Pote,Guarulhos,Saudável,448,2025-08-12 13:04:00,48.8,entregue,14,31,2.0,13,2025-08-12
+767,2,Verde no Pote,Guarulhos,Saudável,63,2025-08-12 15:02:00,21.34,entregue,32,55,1.0,15,2025-08-12
+1135,3,Forno & Massa,São Paulo,Italiana,410,2025-08-13 01:09:00,81.49,entregue,41,15,5.0,1,2025-08-13
+672,4,Burguer Lab,Guarulhos,Hambúrguer,136,2025-08-13 05:57:00,109.92,entregue,28,36,5.0,5,2025-08-13
+323,2,Verde no Pote,Guarulhos,Saudável,166,2025-08-13 08:16:00,153.26,entregue,47,22,1.0,8,2025-08-13
+953,1,Sabor da Vila,São Paulo,Brasileira,98,2025-08-13 08:45:00,135.33,entregue,44,64,4.0,8,2025-08-13
+702,4,Burguer Lab,Guarulhos,Hambúrguer,70,2025-08-13 21:36:00,147.25,entregue,26,17,2.0,21,2025-08-13
+601,2,Verde no Pote,Guarulhos,Saudável,412,2025-08-13 22:38:00,33.75,cancelado,32,0,,22,2025-08-13
+900,4,Burguer Lab,Guarulhos,Hambúrguer,140,2025-08-13 22:51:00,174.35,cancelado,45,0,,22,2025-08-13
+987,4,Burguer Lab,Guarulhos,Hambúrguer,496,2025-08-14 01:48:00,110.09,em_preparo,18,47,,1,2025-08-14
+1397,1,Sabor da Vila,São Paulo,Brasileira,415,2025-08-15 06:14:00,41.4,entregue,10,44,2.0,6,2025-08-15
+1200,5,Temaki House,São Paulo,Japonesa,301,2025-08-15 10:20:00,171.49,em_preparo,25,41,,10,2025-08-15
+343,2,Verde no Pote,Guarulhos,Saudável,28,2025-08-15 23:29:00,158.32,entregue,14,55,5.0,23,2025-08-15
+675,4,Burguer Lab,Guarulhos,Hambúrguer,51,2025-08-15 23:35:00,145.22,entregue,18,49,1.0,23,2025-08-15
+1290,2,Verde no Pote,Guarulhos,Saudável,58,2025-08-15 23:49:00,172.85,entregue,50,18,2.0,23,2025-08-15
+825,4,Burguer Lab,Guarulhos,Hambúrguer,460,2025-08-16 12:14:00,136.78,entregue,47,47,3.0,12,2025-08-16
+1211,4,Burguer Lab,Guarulhos,Hambúrguer,376,2025-08-16 12:41:00,146.14,entregue,21,62,2.0,12,2025-08-16
+996,2,Verde no Pote,Guarulhos,Saudável,131,2025-08-17 11:52:00,125.7,entregue,17,61,1.0,11,2025-08-17
+240,4,Burguer Lab,Guarulhos,Hambúrguer,406,2025-08-17 23:13:00,166.07,cancelado,31,0,,23,2025-08-17
+599,1,Sabor da Vila,São Paulo,Brasileira,62,2025-08-18 03:41:00,163.91,entregue,48,23,1.0,3,2025-08-18
+245,2,Verde no Pote,Guarulhos,Saudável,460,2025-08-18 11:48:00,34.7,em_preparo,38,63,,11,2025-08-18
+1171,4,Burguer Lab,Guarulhos,Hambúrguer,352,2025-08-18 13:51:00,178.48,entregue,24,69,4.0,13,2025-08-18
+85,2,Verde no Pote,Guarulhos,Saudável,438,2025-08-18 20:44:00,62.34,entregue,34,56,1.0,20,2025-08-18
+880,5,Temaki House,São Paulo,Japonesa,242,2025-08-18 22:54:00,57.74,entregue,30,51,3.0,22,2025-08-18
+192,4,Burguer Lab,Guarulhos,Hambúrguer,302,2025-08-19 01:16:00,73.13,cancelado,12,0,,1,2025-08-19
+1172,1,Sabor da Vila,São Paulo,Brasileira,362,2025-08-19 06:05:00,72.96,entregue,36,63,1.0,6,2025-08-19
+40,5,Temaki House,São Paulo,Japonesa,245,2025-08-19 13:22:00,30.2,entregue,45,29,4.0,13,2025-08-19
+1111,5,Temaki House,São Paulo,Japonesa,197,2025-08-19 17:07:00,79.4,entregue,21,17,2.0,17,2025-08-19
+658,3,Forno & Massa,São Paulo,Italiana,262,2025-08-20 00:21:00,146.6,entregue,15,45,1.0,0,2025-08-20
+1196,2,Verde no Pote,Guarulhos,Saudável,312,2025-08-20 07:49:00,70.13,em_preparo,12,68,,7,2025-08-20
+458,4,Burguer Lab,Guarulhos,Hambúrguer,364,2025-08-20 09:37:00,93.9,entregue,25,54,3.0,9,2025-08-20
+475,4,Burguer Lab,Guarulhos,Hambúrguer,269,2025-08-20 12:28:00,90.19,entregue,42,29,1.0,12,2025-08-20
+743,4,Burguer Lab,Guarulhos,Hambúrguer,334,2025-08-20 14:11:00,77.32,entregue,47,47,3.0,14,2025-08-20
+1370,5,Temaki House,São Paulo,Japonesa,242,2025-08-20 14:34:00,155.13,entregue,37,26,3.0,14,2025-08-20
+958,3,Forno & Massa,São Paulo,Italiana,268,2025-08-20 15:21:00,43.51,entregue,26,71,3.0,15,2025-08-20
+130,3,Forno & Massa,São Paulo,Italiana,33,2025-08-20 16:07:00,169.0,entregue,24,37,3.0,16,2025-08-20
+341,3,Forno & Massa,São Paulo,Italiana,329,2025-08-20 17:07:00,80.36,entregue,41,33,3.0,17,2025-08-20
+1417,3,Forno & Massa,São Paulo,Italiana,181,2025-08-20 17:47:00,124.59,em_preparo,23,64,,17,2025-08-20
+1467,4,Burguer Lab,Guarulhos,Hambúrguer,358,2025-08-20 23:32:00,39.74,entregue,39,55,4.0,23,2025-08-20
+673,1,Sabor da Vila,São Paulo,Brasileira,232,2025-08-21 05:16:00,162.05,entregue,45,35,2.0,5,2025-08-21
+920,3,Forno & Massa,São Paulo,Italiana,76,2025-08-21 06:56:00,133.64,em_preparo,36,63,,6,2025-08-21
+99,3,Forno & Massa,São Paulo,Italiana,201,2025-08-21 10:02:00,95.52,entregue,49,63,1.0,10,2025-08-21
+1235,3,Forno & Massa,São Paulo,Italiana,299,2025-08-21 12:11:00,109.91,entregue,36,36,4.0,12,2025-08-21
+782,2,Verde no Pote,Guarulhos,Saudável,78,2025-08-21 12:46:00,83.03,entregue,39,23,2.0,12,2025-08-21
+1128,3,Forno & Massa,São Paulo,Italiana,220,2025-08-21 17:16:00,31.2,entregue,11,26,5.0,17,2025-08-21
+1337,1,Sabor da Vila,São Paulo,Brasileira,368,2025-08-21 22:59:00,123.22,entregue,45,74,2.0,22,2025-08-21
+616,1,Sabor da Vila,São Paulo,Brasileira,138,2025-08-22 10:34:00,161.6,entregue,20,16,5.0,10,2025-08-22
+1068,2,Verde no Pote,Guarulhos,Saudável,397,2025-08-22 22:11:00,60.59,entregue,24,25,1.0,22,2025-08-22
+600,4,Burguer Lab,Guarulhos,Hambúrguer,428,2025-08-23 12:09:00,26.7,entregue,22,16,4.0,12,2025-08-23
+569,3,Forno & Massa,São Paulo,Italiana,132,2025-08-23 12:52:00,133.25,entregue,11,24,5.0,12,2025-08-23
+26,2,Verde no Pote,Guarulhos,Saudável,36,2025-08-24 00:15:00,128.69,cancelado,28,0,,0,2025-08-24
+984,2,Verde no Pote,Guarulhos,Saudável,125,2025-08-25 12:01:00,137.23,entregue,44,15,5.0,12,2025-08-25
+1130,2,Verde no Pote,Guarulhos,Saudável,207,2025-08-25 22:32:00,57.42,entregue,11,74,1.0,22,2025-08-25
+934,4,Burguer Lab,Guarulhos,Hambúrguer,217,2025-08-25 23:16:00,51.32,entregue,30,52,4.0,23,2025-08-25
+1221,2,Verde no Pote,Guarulhos,Saudável,355,2025-08-26 03:08:00,98.04,entregue,50,36,4.0,3,2025-08-26
+1255,2,Verde no Pote,Guarulhos,Saudável,1,2025-08-26 04:34:00,103.58,entregue,15,27,4.0,4,2025-08-26
+244,4,Burguer Lab,Guarulhos,Hambúrguer,317,2025-08-26 04:39:00,48.72,entregue,23,35,2.0,4,2025-08-26
+824,2,Verde no Pote,Guarulhos,Saudável,387,2025-08-26 07:05:00,70.87,cancelado,26,0,,7,2025-08-26
+1205,5,Temaki House,São Paulo,Japonesa,494,2025-08-26 13:44:00,77.99,em_preparo,22,15,,13,2025-08-26
+1089,2,Verde no Pote,Guarulhos,Saudável,218,2025-08-26 14:18:00,162.46,entregue,43,23,3.0,14,2025-08-26
+771,3,Forno & Massa,São Paulo,Italiana,227,2025-08-26 22:48:00,18.91,entregue,17,49,2.0,22,2025-08-26
+502,4,Burguer Lab,Guarulhos,Hambúrguer,57,2025-08-26 22:54:00,119.42,entregue,11,74,4.0,22,2025-08-26
+986,4,Burguer Lab,Guarulhos,Hambúrguer,201,2025-08-27 03:18:00,116.37,entregue,17,67,3.0,3,2025-08-27
+652,4,Burguer Lab,Guarulhos,Hambúrguer,381,2025-08-27 04:39:00,109.43,entregue,35,66,3.0,4,2025-08-27
+1438,2,Verde no Pote,Guarulhos,Saudável,275,2025-08-27 07:35:00,41.63,entregue,33,72,5.0,7,2025-08-27
+1398,3,Forno & Massa,São Paulo,Italiana,324,2025-08-27 12:07:00,177.39,em_entrega,49,16,,12,2025-08-27
+1224,5,Temaki House,São Paulo,Japonesa,362,2025-08-27 17:56:00,133.72,entregue,31,34,3.0,17,2025-08-27
+123,3,Forno & Massa,São Paulo,Italiana,36,2025-08-27 20:47:00,23.9,em_entrega,43,63,,20,2025-08-27
+3,1,Sabor da Vila,São Paulo,Brasileira,66,2025-08-27 22:02:00,82.39,entregue,50,54,4.0,22,2025-08-27
+842,2,Verde no Pote,Guarulhos,Saudável,406,2025-08-28 12:55:00,125.01,entregue,35,67,5.0,12,2025-08-28
+1277,3,Forno & Massa,São Paulo,Italiana,185,2025-08-28 19:33:00,87.56,cancelado,26,0,,19,2025-08-28
+730,3,Forno & Massa,São Paulo,Italiana,335,2025-08-29 02:52:00,68.04,entregue,21,34,4.0,2,2025-08-29
+316,1,Sabor da Vila,São Paulo,Brasileira,150,2025-08-29 16:32:00,46.38,em_entrega,22,18,,16,2025-08-29
+255,5,Temaki House,São Paulo,Japonesa,351,2025-08-30 02:50:00,83.26,entregue,18,30,1.0,2,2025-08-30
+372,1,Sabor da Vila,São Paulo,Brasileira,153,2025-08-30 12:09:00,60.33,entregue,49,19,2.0,12,2025-08-30
+156,1,Sabor da Vila,São Paulo,Brasileira,259,2025-08-30 14:23:00,128.32,entregue,18,52,2.0,14,2025-08-30
+446,2,Verde no Pote,Guarulhos,Saudável,281,2025-08-30 22:41:00,80.8,entregue,39,61,3.0,22,2025-08-30
+237,1,Sabor da Vila,São Paulo,Brasileira,159,2025-08-31 02:29:00,159.39,entregue,12,64,1.0,2,2025-08-31
+479,1,Sabor da Vila,São Paulo,Brasileira,90,2025-08-31 04:47:00,122.64,em_entrega,47,58,,4,2025-08-31
+162,3,Forno & Massa,São Paulo,Italiana,333,2025-08-31 11:23:00,132.05,em_preparo,33,28,,11,2025-08-31
+108,3,Forno & Massa,São Paulo,Italiana,284,2025-08-31 16:05:00,49.39,em_preparo,29,62,,16,2025-08-31
+822,4,Burguer Lab,Guarulhos,Hambúrguer,48,2025-08-31 23:23:00,121.71,entregue,44,55,3.0,23,2025-08-31
+819,2,Verde no Pote,Guarulhos,Saudável,479,2025-08-31 23:57:00,48.86,entregue,41,59,2.0,23,2025-08-31
+311,4,Burguer Lab,Guarulhos,Hambúrguer,312,2025-09-01 02:03:00,67.71,em_entrega,18,44,,2,2025-09-01
+122,3,Forno & Massa,São Paulo,Italiana,390,2025-09-01 23:12:00,64.32,entregue,50,51,3.0,23,2025-09-01
+1049,4,Burguer Lab,Guarulhos,Hambúrguer,123,2025-09-01 23:39:00,61.32,entregue,18,63,1.0,23,2025-09-01
+859,4,Burguer Lab,Guarulhos,Hambúrguer,267,2025-09-02 05:34:00,130.69,entregue,12,41,4.0,5,2025-09-02
+80,5,Temaki House,São Paulo,Japonesa,288,2025-09-02 11:34:00,43.22,entregue,21,53,4.0,11,2025-09-02
+1132,3,Forno & Massa,São Paulo,Italiana,455,2025-09-02 14:58:00,127.82,entregue,32,64,4.0,14,2025-09-02
+641,2,Verde no Pote,Guarulhos,Saudável,498,2025-09-02 20:35:00,179.08,em_entrega,25,34,,20,2025-09-02
+283,2,Verde no Pote,Guarulhos,Saudável,461,2025-09-02 23:02:00,101.1,entregue,24,51,5.0,23,2025-09-02
+736,2,Verde no Pote,Guarulhos,Saudável,193,2025-09-02 23:59:00,25.58,entregue,45,54,5.0,23,2025-09-02
+1427,3,Forno & Massa,São Paulo,Italiana,477,2025-09-03 03:08:00,111.22,entregue,40,50,2.0,3,2025-09-03
+1306,5,Temaki House,São Paulo,Japonesa,479,2025-09-03 03:19:00,112.67,entregue,16,33,1.0,3,2025-09-03
+312,1,Sabor da Vila,São Paulo,Brasileira,216,2025-09-03 08:49:00,107.8,entregue,20,35,4.0,8,2025-09-03
+1424,1,Sabor da Vila,São Paulo,Brasileira,170,2025-09-04 05:28:00,95.23,entregue,49,61,3.0,5,2025-09-04
+1071,4,Burguer Lab,Guarulhos,Hambúrguer,12,2025-09-04 08:39:00,150.56,em_preparo,41,33,,8,2025-09-04
+1329,2,Verde no Pote,Guarulhos,Saudável,428,2025-09-04 09:06:00,172.63,entregue,14,38,4.0,9,2025-09-04
+1274,1,Sabor da Vila,São Paulo,Brasileira,191,2025-09-04 11:40:00,70.78,entregue,10,65,2.0,11,2025-09-04
+1298,5,Temaki House,São Paulo,Japonesa,339,2025-09-05 05:02:00,60.69,entregue,35,30,1.0,5,2025-09-05
+416,3,Forno & Massa,São Paulo,Italiana,383,2025-09-05 08:17:00,138.3,em_preparo,14,18,,8,2025-09-05
+257,1,Sabor da Vila,São Paulo,Brasileira,103,2025-09-05 08:40:00,135.65,em_preparo,33,53,,8,2025-09-05
+49,5,Temaki House,São Paulo,Japonesa,218,2025-09-05 10:34:00,47.45,entregue,31,25,3.0,10,2025-09-05
+711,3,Forno & Massa,São Paulo,Italiana,233,2025-09-05 22:27:00,19.51,entregue,14,33,4.0,22,2025-09-05
+1327,1,Sabor da Vila,São Paulo,Brasileira,500,2025-09-05 22:52:00,111.73,em_entrega,16,30,,22,2025-09-05
+550,1,Sabor da Vila,São Paulo,Brasileira,288,2025-09-06 11:03:00,94.95,entregue,47,57,4.0,11,2025-09-06
+827,1,Sabor da Vila,São Paulo,Brasileira,180,2025-09-06 11:10:00,63.85,cancelado,33,0,,11,2025-09-06
+98,3,Forno & Massa,São Paulo,Italiana,200,2025-09-07 02:39:00,126.31,entregue,10,71,3.0,2,2025-09-07
+60,3,Forno & Massa,São Paulo,Italiana,224,2025-09-07 07:30:00,100.97,em_entrega,36,38,,7,2025-09-07
+191,3,Forno & Massa,São Paulo,Italiana,75,2025-09-07 13:13:00,114.69,entregue,10,70,5.0,13,2025-09-07
+813,5,Temaki House,São Paulo,Japonesa,34,2025-09-07 20:10:00,69.49,em_preparo,18,40,,20,2025-09-07
+636,5,Temaki House,São Paulo,Japonesa,401,2025-09-08 07:06:00,159.89,entregue,14,21,4.0,7,2025-09-08
+788,1,Sabor da Vila,São Paulo,Brasileira,406,2025-09-08 10:12:00,102.8,entregue,45,16,2.0,10,2025-09-08
+615,3,Forno & Massa,São Paulo,Italiana,454,2025-09-08 10:48:00,66.39,entregue,19,27,2.0,10,2025-09-08
+75,4,Burguer Lab,Guarulhos,Hambúrguer,156,2025-09-08 13:32:00,93.12,cancelado,39,0,,13,2025-09-08
+1062,2,Verde no Pote,Guarulhos,Saudável,2,2025-09-08 23:56:00,87.32,entregue,14,17,1.0,23,2025-09-08
+1149,3,Forno & Massa,São Paulo,Italiana,387,2025-09-09 13:01:00,48.79,entregue,49,32,5.0,13,2025-09-09
+587,4,Burguer Lab,Guarulhos,Hambúrguer,181,2025-09-09 14:59:00,106.96,entregue,44,48,4.0,14,2025-09-09
+1183,3,Forno & Massa,São Paulo,Italiana,265,2025-09-10 03:24:00,75.43,entregue,25,18,1.0,3,2025-09-10
+941,3,Forno & Massa,São Paulo,Italiana,353,2025-09-10 04:04:00,159.26,cancelado,31,0,,4,2025-09-10
+422,4,Burguer Lab,Guarulhos,Hambúrguer,435,2025-09-11 09:44:00,112.35,entregue,45,36,2.0,9,2025-09-11
+666,2,Verde no Pote,Guarulhos,Saudável,336,2025-09-11 14:25:00,66.34,cancelado,13,0,,14,2025-09-11
+184,3,Forno & Massa,São Paulo,Italiana,147,2025-09-12 03:45:00,56.53,entregue,12,70,4.0,3,2025-09-12
+175,3,Forno & Massa,São Paulo,Italiana,69,2025-09-12 07:42:00,143.62,entregue,44,43,5.0,7,2025-09-12
+8,3,Forno & Massa,São Paulo,Italiana,58,2025-09-12 12:56:00,66.65,em_entrega,34,60,,12,2025-09-12
+875,2,Verde no Pote,Guarulhos,Saudável,309,2025-09-12 12:59:00,79.34,entregue,40,42,5.0,12,2025-09-12
+866,3,Forno & Massa,São Paulo,Italiana,454,2025-09-12 19:32:00,97.37,entregue,16,75,4.0,19,2025-09-12
+1472,5,Temaki House,São Paulo,Japonesa,357,2025-09-12 20:08:00,42.96,entregue,19,74,2.0,20,2025-09-12
+204,2,Verde no Pote,Guarulhos,Saudável,440,2025-09-13 09:26:00,37.71,entregue,44,26,2.0,9,2025-09-13
+932,5,Temaki House,São Paulo,Japonesa,261,2025-09-13 10:02:00,38.91,cancelado,19,0,,10,2025-09-13
+1303,4,Burguer Lab,Guarulhos,Hambúrguer,136,2025-09-13 10:24:00,25.25,entregue,27,72,4.0,10,2025-09-13
+86,4,Burguer Lab,Guarulhos,Hambúrguer,79,2025-09-13 14:19:00,67.65,entregue,35,61,1.0,14,2025-09-13
+43,4,Burguer Lab,Guarulhos,Hambúrguer,337,2025-09-13 16:34:00,142.59,entregue,47,36,2.0,16,2025-09-13
+1348,2,Verde no Pote,Guarulhos,Saudável,398,2025-09-13 19:43:00,172.87,entregue,37,36,2.0,19,2025-09-13
+982,2,Verde no Pote,Guarulhos,Saudável,358,2025-09-14 05:32:00,61.19,entregue,13,50,4.0,5,2025-09-14
+1194,5,Temaki House,São Paulo,Japonesa,213,2025-09-14 14:34:00,60.82,entregue,19,68,4.0,14,2025-09-14
+223,5,Temaki House,São Paulo,Japonesa,266,2025-09-14 23:19:00,147.71,entregue,48,56,5.0,23,2025-09-14
+110,1,Sabor da Vila,São Paulo,Brasileira,254,2025-09-15 09:14:00,42.08,entregue,27,52,1.0,9,2025-09-15
+1064,5,Temaki House,São Paulo,Japonesa,321,2025-09-15 11:21:00,112.45,entregue,14,16,2.0,11,2025-09-15
+1041,2,Verde no Pote,Guarulhos,Saudável,411,2025-09-15 18:00:00,115.48,entregue,21,47,3.0,18,2025-09-15
+541,3,Forno & Massa,São Paulo,Italiana,350,2025-09-16 19:09:00,80.3,entregue,24,72,5.0,19,2025-09-16
+1045,5,Temaki House,São Paulo,Japonesa,432,2025-09-16 20:22:00,101.22,em_preparo,18,66,,20,2025-09-16
+906,5,Temaki House,São Paulo,Japonesa,79,2025-09-16 23:54:00,155.04,entregue,25,15,1.0,23,2025-09-16
+1317,5,Temaki House,São Paulo,Japonesa,66,2025-09-17 00:26:00,86.42,entregue,26,56,2.0,0,2025-09-17
+892,4,Burguer Lab,Guarulhos,Hambúrguer,195,2025-09-17 02:45:00,32.04,entregue,16,35,3.0,2,2025-09-17
+1077,4,Burguer Lab,Guarulhos,Hambúrguer,335,2025-09-17 16:47:00,103.07,entregue,33,64,3.0,16,2025-09-17
+1276,5,Temaki House,São Paulo,Japonesa,490,2025-09-18 08:08:00,53.84,entregue,48,28,1.0,8,2025-09-18
+1197,5,Temaki House,São Paulo,Japonesa,32,2025-09-18 10:05:00,52.02,entregue,13,33,4.0,10,2025-09-18
+430,4,Burguer Lab,Guarulhos,Hambúrguer,182,2025-09-19 02:57:00,150.69,entregue,19,23,2.0,2,2025-09-19
+212,4,Burguer Lab,Guarulhos,Hambúrguer,138,2025-09-19 15:57:00,160.52,entregue,42,56,2.0,15,2025-09-19
+177,1,Sabor da Vila,São Paulo,Brasileira,403,2025-09-19 17:25:00,38.3,entregue,32,60,4.0,17,2025-09-19
+15,5,Temaki House,São Paulo,Japonesa,118,2025-09-19 21:06:00,107.22,em_preparo,47,47,,21,2025-09-19
+1332,1,Sabor da Vila,São Paulo,Brasileira,286,2025-09-19 22:31:00,147.28,entregue,16,40,4.0,22,2025-09-19
+774,5,Temaki House,São Paulo,Japonesa,197,2025-09-19 23:34:00,33.56,entregue,29,48,3.0,23,2025-09-19
+236,3,Forno & Massa,São Paulo,Italiana,314,2025-09-20 14:29:00,29.47,em_preparo,27,56,,14,2025-09-20
+395,5,Temaki House,São Paulo,Japonesa,154,2025-09-20 18:33:00,116.57,entregue,29,50,4.0,18,2025-09-20
+1208,1,Sabor da Vila,São Paulo,Brasileira,375,2025-09-21 01:17:00,161.49,entregue,23,28,1.0,1,2025-09-21
+727,3,Forno & Massa,São Paulo,Italiana,229,2025-09-21 05:55:00,25.38,entregue,22,67,4.0,5,2025-09-21
+225,5,Temaki House,São Paulo,Japonesa,328,2025-09-21 09:21:00,129.96,entregue,21,37,5.0,9,2025-09-21
+697,2,Verde no Pote,Guarulhos,Saudável,259,2025-09-21 11:27:00,155.27,em_preparo,48,68,,11,2025-09-21
+174,3,Forno & Massa,São Paulo,Italiana,69,2025-09-21 15:52:00,124.26,entregue,45,27,4.0,15,2025-09-21
+793,5,Temaki House,São Paulo,Japonesa,48,2025-09-21 17:50:00,147.66,entregue,23,66,1.0,17,2025-09-21
+1119,1,Sabor da Vila,São Paulo,Brasileira,8,2025-09-21 23:36:00,114.69,entregue,47,41,1.0,23,2025-09-21
+461,5,Temaki House,São Paulo,Japonesa,193,2025-09-22 00:18:00,97.29,entregue,25,25,2.0,0,2025-09-22
+681,3,Forno & Massa,São Paulo,Italiana,301,2025-09-22 01:07:00,22.97,em_entrega,45,26,,1,2025-09-22
+1137,5,Temaki House,São Paulo,Japonesa,233,2025-09-22 14:33:00,176.29,entregue,20,49,1.0,14,2025-09-22
+676,4,Burguer Lab,Guarulhos,Hambúrguer,498,2025-09-22 21:16:00,157.9,entregue,16,68,4.0,21,2025-09-22
+318,2,Verde no Pote,Guarulhos,Saudável,438,2025-09-23 08:28:00,99.01,entregue,23,70,3.0,8,2025-09-23
+713,2,Verde no Pote,Guarulhos,Saudável,281,2025-09-23 15:04:00,45.43,entregue,28,49,5.0,15,2025-09-23
+731,5,Temaki House,São Paulo,Japonesa,8,2025-09-24 00:22:00,43.21,entregue,15,57,2.0,0,2025-09-24
+760,3,Forno & Massa,São Paulo,Italiana,372,2025-09-24 08:02:00,171.7,entregue,19,73,5.0,8,2025-09-24
+317,4,Burguer Lab,Guarulhos,Hambúrguer,110,2025-09-24 13:23:00,95.4,entregue,45,62,3.0,13,2025-09-24
+737,4,Burguer Lab,Guarulhos,Hambúrguer,268,2025-09-24 15:28:00,179.26,em_entrega,32,39,,15,2025-09-24
+1033,3,Forno & Massa,São Paulo,Italiana,220,2025-09-24 17:36:00,129.83,entregue,30,70,2.0,17,2025-09-24
+1218,4,Burguer Lab,Guarulhos,Hambúrguer,322,2025-09-25 07:56:00,132.49,cancelado,40,0,,7,2025-09-25
+1009,4,Burguer Lab,Guarulhos,Hambúrguer,366,2025-09-25 16:30:00,123.5,em_preparo,33,74,,16,2025-09-25
+1232,4,Burguer Lab,Guarulhos,Hambúrguer,289,2025-09-25 19:40:00,82.15,entregue,15,57,1.0,19,2025-09-25
+886,5,Temaki House,São Paulo,Japonesa,231,2025-09-26 03:16:00,53.85,entregue,45,17,3.0,3,2025-09-26
+1349,4,Burguer Lab,Guarulhos,Hambúrguer,66,2025-09-26 03:57:00,161.19,entregue,34,71,2.0,3,2025-09-26
+662,3,Forno & Massa,São Paulo,Italiana,361,2025-09-26 05:39:00,46.19,em_entrega,11,72,,5,2025-09-26
+13,3,Forno & Massa,São Paulo,Italiana,367,2025-09-26 13:11:00,108.38,entregue,15,55,3.0,13,2025-09-26
+557,4,Burguer Lab,Guarulhos,Hambúrguer,144,2025-09-26 15:28:00,123.58,entregue,48,23,4.0,15,2025-09-26
+377,2,Verde no Pote,Guarulhos,Saudável,130,2025-09-26 20:46:00,148.25,entregue,26,23,3.0,20,2025-09-26
+1002,2,Verde no Pote,Guarulhos,Saudável,290,2025-09-26 21:32:00,160.15,entregue,19,40,2.0,21,2025-09-26
+215,2,Verde no Pote,Guarulhos,Saudável,359,2025-09-26 23:24:00,64.44,em_entrega,11,58,,23,2025-09-26
+631,4,Burguer Lab,Guarulhos,Hambúrguer,41,2025-09-26 23:38:00,165.56,entregue,23,44,1.0,23,2025-09-26
+757,5,Temaki House,São Paulo,Japonesa,6,2025-09-27 04:25:00,119.43,entregue,12,47,3.0,4,2025-09-27
+805,1,Sabor da Vila,São Paulo,Brasileira,184,2025-09-27 10:51:00,115.25,entregue,19,41,2.0,10,2025-09-27
+739,4,Burguer Lab,Guarulhos,Hambúrguer,378,2025-09-27 10:54:00,73.88,em_preparo,47,37,,10,2025-09-27
+471,1,Sabor da Vila,São Paulo,Brasileira,65,2025-09-27 11:43:00,149.52,entregue,45,15,2.0,11,2025-09-27
+432,5,Temaki House,São Paulo,Japonesa,72,2025-09-27 17:29:00,163.83,entregue,40,60,1.0,17,2025-09-27
+603,4,Burguer Lab,Guarulhos,Hambúrguer,269,2025-09-27 18:00:00,85.16,entregue,19,43,1.0,18,2025-09-27
+1449,3,Forno & Massa,São Paulo,Italiana,195,2025-09-27 19:49:00,69.75,entregue,48,59,5.0,19,2025-09-27
+1282,1,Sabor da Vila,São Paulo,Brasileira,137,2025-09-27 21:25:00,28.02,entregue,16,31,2.0,21,2025-09-27
+1281,3,Forno & Massa,São Paulo,Italiana,86,2025-09-28 01:12:00,20.0,entregue,17,54,3.0,1,2025-09-28
+1394,2,Verde no Pote,Guarulhos,Saudável,399,2025-09-28 22:42:00,36.91,cancelado,23,0,,22,2025-09-28
+1036,2,Verde no Pote,Guarulhos,Saudável,350,2025-09-29 01:59:00,104.26,cancelado,37,0,,1,2025-09-29
+59,3,Forno & Massa,São Paulo,Italiana,69,2025-09-29 07:58:00,106.99,entregue,40,54,1.0,7,2025-09-29
+1139,5,Temaki House,São Paulo,Japonesa,198,2025-09-29 10:31:00,106.77,cancelado,14,0,,10,2025-09-29
+62,4,Burguer Lab,Guarulhos,Hambúrguer,320,2025-09-29 20:06:00,163.74,entregue,27,63,1.0,20,2025-09-29
+878,2,Verde no Pote,Guarulhos,Saudável,457,2025-09-29 23:50:00,167.0,entregue,20,15,1.0,23,2025-09-29
+512,2,Verde no Pote,Guarulhos,Saudável,215,2025-09-30 07:05:00,127.11,entregue,12,64,1.0,7,2025-09-30
+391,4,Burguer Lab,Guarulhos,Hambúrguer,479,2025-09-30 13:26:00,67.03,entregue,44,61,2.0,13,2025-09-30
+378,3,Forno & Massa,São Paulo,Italiana,376,2025-09-30 13:52:00,159.88,entregue,27,23,3.0,13,2025-09-30
+360,2,Verde no Pote,Guarulhos,Saudável,147,2025-10-01 05:48:00,37.87,entregue,41,45,5.0,5,2025-10-01
+463,5,Temaki House,São Paulo,Japonesa,467,2025-10-01 07:43:00,122.65,entregue,50,29,3.0,7,2025-10-01
+895,2,Verde no Pote,Guarulhos,Saudável,168,2025-10-01 12:57:00,162.31,entregue,32,57,1.0,12,2025-10-01
+1234,2,Verde no Pote,Guarulhos,Saudável,269,2025-10-01 17:51:00,46.06,entregue,26,37,3.0,17,2025-10-01
+1378,4,Burguer Lab,Guarulhos,Hambúrguer,269,2025-10-02 11:11:00,25.92,entregue,20,52,2.0,11,2025-10-02
+1065,2,Verde no Pote,Guarulhos,Saudável,101,2025-10-02 20:57:00,131.39,cancelado,13,0,,20,2025-10-02
+493,1,Sabor da Vila,São Paulo,Brasileira,442,2025-10-02 23:22:00,165.84,entregue,50,33,4.0,23,2025-10-02
+1098,2,Verde no Pote,Guarulhos,Saudável,229,2025-10-03 16:41:00,63.27,entregue,37,21,3.0,16,2025-10-03
+1073,4,Burguer Lab,Guarulhos,Hambúrguer,315,2025-10-04 03:10:00,34.19,entregue,19,52,5.0,3,2025-10-04
+247,2,Verde no Pote,Guarulhos,Saudável,352,2025-10-04 11:35:00,75.57,entregue,41,63,5.0,11,2025-10-04
+42,5,Temaki House,São Paulo,Japonesa,425,2025-10-04 16:50:00,176.96,entregue,35,38,5.0,16,2025-10-04
+234,1,Sabor da Vila,São Paulo,Brasileira,186,2025-10-04 20:37:00,69.56,entregue,20,24,3.0,20,2025-10-04
+1301,5,Temaki House,São Paulo,Japonesa,170,2025-10-05 06:30:00,59.49,em_entrega,15,61,,6,2025-10-05
+51,3,Forno & Massa,São Paulo,Italiana,312,2025-10-05 08:43:00,167.53,entregue,11,40,2.0,8,2025-10-05
+14,1,Sabor da Vila,São Paulo,Brasileira,363,2025-10-05 19:35:00,128.39,entregue,47,50,2.0,19,2025-10-05
+1204,2,Verde no Pote,Guarulhos,Saudável,373,2025-10-05 22:08:00,148.97,em_entrega,27,22,,22,2025-10-05
+742,2,Verde no Pote,Guarulhos,Saudável,414,2025-10-06 07:46:00,72.52,cancelado,45,0,,7,2025-10-06
+1275,3,Forno & Massa,São Paulo,Italiana,256,2025-10-06 09:10:00,65.25,entregue,30,19,3.0,9,2025-10-06
+1134,1,Sabor da Vila,São Paulo,Brasileira,417,2025-10-06 11:01:00,95.08,entregue,21,67,5.0,11,2025-10-06
+714,3,Forno & Massa,São Paulo,Italiana,410,2025-10-06 19:58:00,150.4,entregue,35,49,4.0,19,2025-10-06
+207,1,Sabor da Vila,São Paulo,Brasileira,194,2025-10-06 22:39:00,170.47,entregue,29,58,5.0,22,2025-10-06
+128,5,Temaki House,São Paulo,Japonesa,463,2025-10-07 05:23:00,106.27,entregue,17,68,1.0,5,2025-10-07
+489,5,Temaki House,São Paulo,Japonesa,105,2025-10-07 06:41:00,91.05,entregue,48,23,1.0,6,2025-10-07
+423,5,Temaki House,São Paulo,Japonesa,150,2025-10-07 15:48:00,29.25,entregue,32,25,3.0,15,2025-10-07
+657,4,Burguer Lab,Guarulhos,Hambúrguer,340,2025-10-07 16:38:00,134.08,em_entrega,48,69,,16,2025-10-07
+89,1,Sabor da Vila,São Paulo,Brasileira,56,2025-10-08 06:18:00,39.45,entregue,34,38,1.0,6,2025-10-08
+1148,1,Sabor da Vila,São Paulo,Brasileira,316,2025-10-08 13:10:00,107.99,entregue,49,42,1.0,13,2025-10-08
+320,5,Temaki House,São Paulo,Japonesa,114,2025-10-08 13:21:00,154.53,entregue,48,34,5.0,13,2025-10-08
+911,5,Temaki House,São Paulo,Japonesa,116,2025-10-09 03:25:00,79.32,entregue,10,53,5.0,3,2025-10-09
+645,4,Burguer Lab,Guarulhos,Hambúrguer,406,2025-10-09 03:44:00,93.01,cancelado,36,0,,3,2025-10-09
+1061,3,Forno & Massa,São Paulo,Italiana,405,2025-10-09 06:27:00,62.28,entregue,29,44,5.0,6,2025-10-09
+173,2,Verde no Pote,Guarulhos,Saudável,198,2025-10-09 14:47:00,66.84,entregue,18,71,4.0,14,2025-10-09
+370,4,Burguer Lab,Guarulhos,Hambúrguer,219,2025-10-09 18:49:00,109.5,em_preparo,38,18,,18,2025-10-09
+1058,1,Sabor da Vila,São Paulo,Brasileira,493,2025-10-09 19:38:00,38.31,entregue,20,66,2.0,19,2025-10-09
+864,5,Temaki House,São Paulo,Japonesa,243,2025-10-09 19:40:00,68.48,entregue,44,49,1.0,19,2025-10-09
+1278,1,Sabor da Vila,São Paulo,Brasileira,63,2025-10-10 09:47:00,80.02,entregue,14,64,4.0,9,2025-10-10
+2,4,Burguer Lab,Guarulhos,Hambúrguer,310,2025-10-10 11:51:00,92.58,entregue,31,65,1.0,11,2025-10-10
+734,1,Sabor da Vila,São Paulo,Brasileira,387,2025-10-10 15:03:00,64.41,entregue,18,57,3.0,15,2025-10-10
+1339,2,Verde no Pote,Guarulhos,Saudável,58,2025-10-10 23:31:00,175.64,entregue,21,21,4.0,23,2025-10-10
+836,4,Burguer Lab,Guarulhos,Hambúrguer,491,2025-10-11 12:29:00,86.81,em_entrega,12,62,,12,2025-10-11
+1242,3,Forno & Massa,São Paulo,Italiana,138,2025-10-11 17:31:00,142.16,entregue,35,52,2.0,17,2025-10-11
+402,4,Burguer Lab,Guarulhos,Hambúrguer,363,2025-10-11 18:03:00,72.34,em_preparo,36,61,,18,2025-10-11
+1469,5,Temaki House,São Paulo,Japonesa,45,2025-10-11 19:03:00,75.96,em_entrega,17,70,,19,2025-10-11
+815,5,Temaki House,São Paulo,Japonesa,268,2025-10-11 23:10:00,36.9,cancelado,26,0,,23,2025-10-11
+50,5,Temaki House,São Paulo,Japonesa,166,2025-10-12 02:38:00,82.37,entregue,45,34,4.0,2,2025-10-12
+210,3,Forno & Massa,São Paulo,Italiana,461,2025-10-12 05:51:00,84.08,entregue,27,54,4.0,5,2025-10-12
+602,5,Temaki House,São Paulo,Japonesa,32,2025-10-12 08:00:00,140.89,cancelado,32,0,,8,2025-10-12
+598,1,Sabor da Vila,São Paulo,Brasileira,375,2025-10-12 12:13:00,65.16,entregue,23,44,2.0,12,2025-10-12
+1441,3,Forno & Massa,São Paulo,Italiana,179,2025-10-12 12:50:00,79.39,entregue,20,25,1.0,12,2025-10-12
+1313,2,Verde no Pote,Guarulhos,Saudável,146,2025-10-12 13:23:00,179.64,entregue,22,45,3.0,13,2025-10-12
+766,3,Forno & Massa,São Paulo,Italiana,185,2025-10-12 19:26:00,91.87,entregue,46,71,3.0,19,2025-10-12
+107,2,Verde no Pote,Guarulhos,Saudável,306,2025-10-12 19:59:00,163.99,entregue,19,16,3.0,19,2025-10-12
+1498,1,Sabor da Vila,São Paulo,Brasileira,450,2025-10-12 21:53:00,138.49,entregue,50,33,5.0,21,2025-10-12
+112,4,Burguer Lab,Guarulhos,Hambúrguer,134,2025-10-12 23:11:00,117.22,entregue,23,45,1.0,23,2025-10-12
+806,4,Burguer Lab,Guarulhos,Hambúrguer,43,2025-10-13 04:08:00,79.99,entregue,43,46,3.0,4,2025-10-13
+25,1,Sabor da Vila,São Paulo,Brasileira,363,2025-10-13 06:31:00,63.97,entregue,42,44,3.0,6,2025-10-13
+1212,3,Forno & Massa,São Paulo,Italiana,211,2025-10-13 10:21:00,100.41,entregue,48,15,4.0,10,2025-10-13
+690,1,Sabor da Vila,São Paulo,Brasileira,357,2025-10-13 15:47:00,63.52,em_entrega,22,45,,15,2025-10-13
+278,3,Forno & Massa,São Paulo,Italiana,409,2025-10-13 16:45:00,62.5,entregue,40,62,5.0,16,2025-10-13
+1416,3,Forno & Massa,São Paulo,Italiana,106,2025-10-14 02:17:00,161.47,entregue,10,55,3.0,2,2025-10-14
+160,5,Temaki House,São Paulo,Japonesa,271,2025-10-14 02:56:00,107.49,entregue,30,31,4.0,2,2025-10-14
+918,5,Temaki House,São Paulo,Japonesa,374,2025-10-14 04:32:00,79.41,entregue,16,16,3.0,4,2025-10-14
+613,5,Temaki House,São Paulo,Japonesa,401,2025-10-14 05:02:00,160.81,entregue,50,71,1.0,5,2025-10-14
+476,1,Sabor da Vila,São Paulo,Brasileira,3,2025-10-14 10:31:00,111.06,em_preparo,42,32,,10,2025-10-14
+955,3,Forno & Massa,São Paulo,Italiana,325,2025-10-14 17:41:00,52.32,entregue,22,41,5.0,17,2025-10-14
+725,3,Forno & Massa,São Paulo,Italiana,185,2025-10-14 20:58:00,123.63,entregue,31,31,5.0,20,2025-10-14
+16,4,Burguer Lab,Guarulhos,Hambúrguer,386,2025-10-14 21:55:00,69.37,entregue,42,21,2.0,21,2025-10-14
+249,5,Temaki House,São Paulo,Japonesa,85,2025-10-15 05:07:00,94.33,em_entrega,45,18,,5,2025-10-15
+106,3,Forno & Massa,São Paulo,Italiana,397,2025-10-15 05:27:00,57.84,entregue,29,54,2.0,5,2025-10-15
+990,3,Forno & Massa,São Paulo,Italiana,124,2025-10-15 09:54:00,74.32,entregue,24,22,4.0,9,2025-10-15
+1430,1,Sabor da Vila,São Paulo,Brasileira,139,2025-10-15 11:17:00,124.26,em_entrega,20,66,,11,2025-10-15
+213,4,Burguer Lab,Guarulhos,Hambúrguer,238,2025-10-15 23:41:00,73.3,entregue,46,50,2.0,23,2025-10-15
+1461,1,Sabor da Vila,São Paulo,Brasileira,53,2025-10-16 09:45:00,50.04,em_entrega,17,48,,9,2025-10-16
+1414,1,Sabor da Vila,São Paulo,Brasileira,485,2025-10-17 01:41:00,87.46,entregue,16,35,1.0,1,2025-10-17
+559,1,Sabor da Vila,São Paulo,Brasileira,221,2025-10-17 07:37:00,153.37,entregue,20,73,4.0,7,2025-10-17
+639,4,Burguer Lab,Guarulhos,Hambúrguer,354,2025-10-17 08:30:00,106.93,em_preparo,13,63,,8,2025-10-17
+261,3,Forno & Massa,São Paulo,Italiana,460,2025-10-17 14:54:00,154.07,entregue,49,22,2.0,14,2025-10-17
+1254,5,Temaki House,São Paulo,Japonesa,406,2025-10-17 16:39:00,26.72,entregue,21,68,4.0,16,2025-10-17
+1133,4,Burguer Lab,Guarulhos,Hambúrguer,159,2025-10-17 23:19:00,122.15,entregue,31,62,3.0,23,2025-10-17
+135,4,Burguer Lab,Guarulhos,Hambúrguer,108,2025-10-18 03:26:00,132.92,entregue,14,54,1.0,3,2025-10-18
+692,3,Forno & Massa,São Paulo,Italiana,393,2025-10-18 05:12:00,173.49,entregue,47,55,2.0,5,2025-10-18
+745,3,Forno & Massa,São Paulo,Italiana,476,2025-10-18 06:09:00,96.29,entregue,24,67,3.0,6,2025-10-18
+71,3,Forno & Massa,São Paulo,Italiana,101,2025-10-18 10:09:00,18.15,entregue,38,22,4.0,10,2025-10-18
+484,1,Sabor da Vila,São Paulo,Brasileira,399,2025-10-18 20:07:00,40.91,entregue,26,49,3.0,20,2025-10-18
+105,3,Forno & Massa,São Paulo,Italiana,84,2025-10-18 20:20:00,74.12,entregue,18,65,1.0,20,2025-10-18
+716,1,Sabor da Vila,São Paulo,Brasileira,497,2025-10-19 17:23:00,58.14,entregue,19,44,4.0,17,2025-10-19
+1012,2,Verde no Pote,Guarulhos,Saudável,23,2025-10-19 22:51:00,53.57,entregue,42,49,1.0,22,2025-10-19
+591,5,Temaki House,São Paulo,Japonesa,434,2025-10-20 06:06:00,78.43,entregue,46,15,3.0,6,2025-10-20
+1284,5,Temaki House,São Paulo,Japonesa,360,2025-10-20 07:38:00,171.48,entregue,50,16,4.0,7,2025-10-20
+686,4,Burguer Lab,Guarulhos,Hambúrguer,319,2025-10-20 07:44:00,64.89,em_entrega,36,24,,7,2025-10-20
+860,2,Verde no Pote,Guarulhos,Saudável,98,2025-10-20 08:26:00,88.69,entregue,23,65,5.0,8,2025-10-20
+852,2,Verde no Pote,Guarulhos,Saudável,280,2025-10-20 12:58:00,48.13,entregue,30,47,3.0,12,2025-10-20
+1087,4,Burguer Lab,Guarulhos,Hambúrguer,256,2025-10-20 14:17:00,88.48,entregue,19,42,4.0,14,2025-10-20
+596,2,Verde no Pote,Guarulhos,Saudável,273,2025-10-20 17:44:00,35.1,entregue,17,45,2.0,17,2025-10-20
+1260,3,Forno & Massa,São Paulo,Italiana,14,2025-10-20 18:02:00,107.65,entregue,10,26,1.0,18,2025-10-20
+1199,5,Temaki House,São Paulo,Japonesa,464,2025-10-21 00:12:00,20.24,entregue,39,29,3.0,0,2025-10-21
+551,5,Temaki House,São Paulo,Japonesa,266,2025-10-21 03:10:00,28.9,entregue,27,48,2.0,3,2025-10-21
+428,4,Burguer Lab,Guarulhos,Hambúrguer,453,2025-10-21 12:07:00,168.39,entregue,34,51,2.0,12,2025-10-21
+472,1,Sabor da Vila,São Paulo,Brasileira,410,2025-10-21 14:12:00,137.68,entregue,25,23,1.0,14,2025-10-21
+654,5,Temaki House,São Paulo,Japonesa,353,2025-10-21 14:28:00,152.52,entregue,38,39,4.0,14,2025-10-21
+92,2,Verde no Pote,Guarulhos,Saudável,381,2025-10-21 17:44:00,137.42,cancelado,11,0,,17,2025-10-21
+103,2,Verde no Pote,Guarulhos,Saudável,67,2025-10-21 18:54:00,66.1,cancelado,22,0,,18,2025-10-21
+1334,2,Verde no Pote,Guarulhos,Saudável,359,2025-10-22 17:06:00,49.88,entregue,20,27,3.0,17,2025-10-22
+291,5,Temaki House,São Paulo,Japonesa,88,2025-10-22 18:33:00,112.18,entregue,18,39,5.0,18,2025-10-22
+336,4,Burguer Lab,Guarulhos,Hambúrguer,359,2025-10-23 00:16:00,119.36,entregue,31,26,3.0,0,2025-10-23
+1001,4,Burguer Lab,Guarulhos,Hambúrguer,458,2025-10-23 00:42:00,70.97,entregue,48,69,2.0,0,2025-10-23
+837,3,Forno & Massa,São Paulo,Italiana,197,2025-10-23 01:08:00,87.35,entregue,40,58,2.0,1,2025-10-23
+227,4,Burguer Lab,Guarulhos,Hambúrguer,119,2025-10-23 03:52:00,176.86,entregue,14,51,1.0,3,2025-10-23
+1219,1,Sabor da Vila,São Paulo,Brasileira,453,2025-10-23 08:45:00,109.28,entregue,10,30,4.0,8,2025-10-23
+885,3,Forno & Massa,São Paulo,Italiana,19,2025-10-24 20:45:00,22.55,em_entrega,12,17,,20,2025-10-24
+166,1,Sabor da Vila,São Paulo,Brasileira,297,2025-10-25 02:49:00,66.5,em_entrega,43,55,,2,2025-10-25
+1426,1,Sabor da Vila,São Paulo,Brasileira,19,2025-10-25 08:13:00,43.54,entregue,14,75,2.0,8,2025-10-25
+514,5,Temaki House,São Paulo,Japonesa,154,2025-10-26 01:08:00,50.11,em_entrega,48,21,,1,2025-10-26
+741,5,Temaki House,São Paulo,Japonesa,251,2025-10-26 05:55:00,105.36,entregue,24,15,4.0,5,2025-10-26
+867,5,Temaki House,São Paulo,Japonesa,410,2025-10-27 05:26:00,54.56,entregue,13,42,2.0,5,2025-10-27
+849,3,Forno & Massa,São Paulo,Italiana,395,2025-10-27 07:01:00,42.09,cancelado,22,0,,7,2025-10-27
+1231,2,Verde no Pote,Guarulhos,Saudável,179,2025-10-27 20:04:00,46.46,cancelado,44,0,,20,2025-10-27
+149,5,Temaki House,São Paulo,Japonesa,94,2025-10-27 21:52:00,95.63,entregue,22,20,3.0,21,2025-10-27
+1025,1,Sabor da Vila,São Paulo,Brasileira,361,2025-10-27 23:43:00,63.36,entregue,35,22,3.0,23,2025-10-27
+1264,2,Verde no Pote,Guarulhos,Saudável,300,2025-10-28 05:49:00,58.67,entregue,13,73,2.0,5,2025-10-28
+28,2,Verde no Pote,Guarulhos,Saudável,126,2025-10-28 07:23:00,138.87,entregue,13,57,2.0,7,2025-10-28
+524,1,Sabor da Vila,São Paulo,Brasileira,486,2025-10-29 00:03:00,118.71,entregue,27,57,1.0,0,2025-10-29
+794,3,Forno & Massa,São Paulo,Italiana,246,2025-10-29 06:29:00,57.12,entregue,39,19,1.0,6,2025-10-29
+433,3,Forno & Massa,São Paulo,Italiana,443,2025-10-29 11:21:00,172.2,entregue,46,30,3.0,11,2025-10-29
+605,4,Burguer Lab,Guarulhos,Hambúrguer,29,2025-10-29 12:14:00,117.81,em_preparo,14,42,,12,2025-10-29
+302,4,Burguer Lab,Guarulhos,Hambúrguer,12,2025-10-29 14:19:00,117.53,entregue,34,15,1.0,14,2025-10-29
+1040,3,Forno & Massa,São Paulo,Italiana,485,2025-10-29 22:02:00,173.5,entregue,50,61,4.0,22,2025-10-29
+38,3,Forno & Massa,São Paulo,Italiana,425,2025-10-30 02:02:00,48.88,entregue,39,34,4.0,2,2025-10-30
+553,3,Forno & Massa,São Paulo,Italiana,275,2025-10-30 07:11:00,108.16,entregue,49,25,3.0,7,2025-10-30
+482,1,Sabor da Vila,São Paulo,Brasileira,54,2025-10-30 17:47:00,137.87,entregue,49,69,5.0,17,2025-10-30
+334,3,Forno & Massa,São Paulo,Italiana,184,2025-10-30 20:57:00,138.9,cancelado,19,0,,20,2025-10-30
+545,3,Forno & Massa,São Paulo,Italiana,245,2025-10-31 07:30:00,117.42,entregue,43,25,3.0,7,2025-10-31
+388,3,Forno & Massa,São Paulo,Italiana,191,2025-10-31 08:32:00,140.55,entregue,32,57,4.0,8,2025-10-31
+90,4,Burguer Lab,Guarulhos,Hambúrguer,39,2025-10-31 18:35:00,159.69,entregue,22,60,3.0,18,2025-10-31
+84,4,Burguer Lab,Guarulhos,Hambúrguer,406,2025-10-31 22:15:00,73.14,entregue,39,71,2.0,22,2025-10-31
+101,3,Forno & Massa,São Paulo,Italiana,489,2025-10-31 22:46:00,89.99,entregue,50,27,1.0,22,2025-10-31
+582,2,Verde no Pote,Guarulhos,Saudável,265,2025-11-01 05:05:00,39.07,entregue,30,36,3.0,5,2025-11-01
+611,4,Burguer Lab,Guarulhos,Hambúrguer,382,2025-11-01 07:11:00,28.43,entregue,32,35,2.0,7,2025-11-01
+1097,1,Sabor da Vila,São Paulo,Brasileira,447,2025-11-01 22:35:00,150.54,entregue,31,24,5.0,22,2025-11-01
+1080,3,Forno & Massa,São Paulo,Italiana,395,2025-11-02 06:01:00,86.72,entregue,25,33,4.0,6,2025-11-02
+816,1,Sabor da Vila,São Paulo,Brasileira,144,2025-11-02 11:12:00,121.87,entregue,33,30,1.0,11,2025-11-02
+589,3,Forno & Massa,São Paulo,Italiana,83,2025-11-02 13:16:00,111.65,em_preparo,15,29,,13,2025-11-02
+1016,2,Verde no Pote,Guarulhos,Saudável,138,2025-11-02 15:28:00,178.77,entregue,38,64,3.0,15,2025-11-02
+868,3,Forno & Massa,São Paulo,Italiana,177,2025-11-02 20:42:00,30.16,entregue,33,30,3.0,20,2025-11-02
+1086,1,Sabor da Vila,São Paulo,Brasileira,184,2025-11-03 06:15:00,69.95,entregue,40,69,1.0,6,2025-11-03
+19,1,Sabor da Vila,São Paulo,Brasileira,334,2025-11-03 12:11:00,158.24,entregue,39,61,2.0,12,2025-11-03
+963,2,Verde no Pote,Guarulhos,Saudável,41,2025-11-03 15:24:00,21.65,em_entrega,39,35,,15,2025-11-03
+1125,4,Burguer Lab,Guarulhos,Hambúrguer,228,2025-11-03 19:28:00,130.09,em_preparo,18,19,,19,2025-11-03
+459,2,Verde no Pote,Guarulhos,Saudável,16,2025-11-03 21:21:00,173.51,entregue,47,36,5.0,21,2025-11-03
+513,1,Sabor da Vila,São Paulo,Brasileira,141,2025-11-03 21:54:00,166.27,entregue,34,20,1.0,21,2025-11-03
+1500,3,Forno & Massa,São Paulo,Italiana,331,2025-11-04 00:56:00,21.9,entregue,14,27,4.0,0,2025-11-04
+93,4,Burguer Lab,Guarulhos,Hambúrguer,499,2025-11-04 05:13:00,74.36,entregue,12,25,3.0,5,2025-11-04
+1024,5,Temaki House,São Paulo,Japonesa,18,2025-11-04 07:51:00,108.64,em_preparo,47,58,,7,2025-11-04
+1093,3,Forno & Massa,São Paulo,Italiana,112,2025-11-04 16:13:00,75.16,entregue,31,40,2.0,16,2025-11-04
+590,2,Verde no Pote,Guarulhos,Saudável,378,2025-11-04 21:42:00,77.95,entregue,31,44,3.0,21,2025-11-04
+1126,1,Sabor da Vila,São Paulo,Brasileira,9,2025-11-04 21:50:00,61.9,cancelado,38,0,,21,2025-11-04
+1144,1,Sabor da Vila,São Paulo,Brasileira,227,2025-11-05 05:38:00,134.52,entregue,37,23,3.0,5,2025-11-05
+723,5,Temaki House,São Paulo,Japonesa,19,2025-11-05 10:35:00,60.8,entregue,47,25,4.0,10,2025-11-05
+361,3,Forno & Massa,São Paulo,Italiana,52,2025-11-05 15:49:00,108.86,entregue,12,53,4.0,15,2025-11-05
+865,2,Verde no Pote,Guarulhos,Saudável,227,2025-11-05 20:04:00,88.27,cancelado,21,0,,20,2025-11-05
+775,2,Verde no Pote,Guarulhos,Saudável,134,2025-11-05 21:54:00,99.35,entregue,35,72,1.0,21,2025-11-05
+477,3,Forno & Massa,São Paulo,Italiana,374,2025-11-06 03:32:00,46.28,entregue,33,29,1.0,3,2025-11-06
+1163,4,Burguer Lab,Guarulhos,Hambúrguer,288,2025-11-06 12:16:00,108.45,em_preparo,45,53,,12,2025-11-06
+650,3,Forno & Massa,São Paulo,Italiana,330,2025-11-06 17:23:00,82.18,entregue,32,51,1.0,17,2025-11-06
+856,3,Forno & Massa,São Paulo,Italiana,17,2025-11-07 00:49:00,139.5,entregue,43,68,5.0,0,2025-11-07
+297,5,Temaki House,São Paulo,Japonesa,172,2025-11-07 04:03:00,77.03,entregue,30,24,5.0,4,2025-11-07
+1007,4,Burguer Lab,Guarulhos,Hambúrguer,90,2025-11-07 07:58:00,139.84,entregue,14,52,3.0,7,2025-11-07
+1158,4,Burguer Lab,Guarulhos,Hambúrguer,251,2025-11-07 08:24:00,49.15,entregue,43,60,5.0,8,2025-11-07
+780,2,Verde no Pote,Guarulhos,Saudável,405,2025-11-07 10:40:00,161.66,entregue,18,31,4.0,10,2025-11-07
+560,5,Temaki House,São Paulo,Japonesa,303,2025-11-07 15:54:00,29.14,em_entrega,35,21,,15,2025-11-07
+882,4,Burguer Lab,Guarulhos,Hambúrguer,28,2025-11-07 15:54:00,132.12,em_preparo,48,31,,15,2025-11-07
+1465,2,Verde no Pote,Guarulhos,Saudável,300,2025-11-07 23:23:00,168.49,em_preparo,40,42,,23,2025-11-07
+1150,1,Sabor da Vila,São Paulo,Brasileira,278,2025-11-07 23:39:00,43.61,entregue,50,34,2.0,23,2025-11-07
+1310,5,Temaki House,São Paulo,Japonesa,115,2025-11-08 06:21:00,123.6,entregue,25,34,3.0,6,2025-11-08
+1314,5,Temaki House,São Paulo,Japonesa,159,2025-11-08 11:17:00,92.33,entregue,49,24,5.0,11,2025-11-08
+146,3,Forno & Massa,São Paulo,Italiana,246,2025-11-08 11:48:00,20.73,em_preparo,26,64,,11,2025-11-08
+1127,1,Sabor da Vila,São Paulo,Brasileira,389,2025-11-08 18:06:00,165.42,entregue,27,69,4.0,18,2025-11-08
+643,3,Forno & Massa,São Paulo,Italiana,122,2025-11-08 18:42:00,137.49,entregue,37,74,3.0,18,2025-11-08
+835,5,Temaki House,São Paulo,Japonesa,173,2025-11-08 20:04:00,131.16,entregue,34,18,5.0,20,2025-11-08
+1401,2,Verde no Pote,Guarulhos,Saudável,229,2025-11-08 22:25:00,124.87,entregue,48,60,1.0,22,2025-11-08
+125,2,Verde no Pote,Guarulhos,Saudável,435,2025-11-09 02:30:00,35.95,entregue,26,23,5.0,2,2025-11-09
+151,3,Forno & Massa,São Paulo,Italiana,219,2025-11-09 07:40:00,51.81,entregue,26,15,2.0,7,2025-11-09
+1347,4,Burguer Lab,Guarulhos,Hambúrguer,277,2025-11-09 07:42:00,97.82,entregue,14,17,2.0,7,2025-11-09
+1042,4,Burguer Lab,Guarulhos,Hambúrguer,375,2025-11-09 15:21:00,46.84,entregue,16,46,5.0,15,2025-11-09
+232,1,Sabor da Vila,São Paulo,Brasileira,244,2025-11-09 15:56:00,57.48,cancelado,38,0,,15,2025-11-09
+610,1,Sabor da Vila,São Paulo,Brasileira,50,2025-11-10 00:19:00,34.25,entregue,21,58,5.0,0,2025-11-10
+1292,2,Verde no Pote,Guarulhos,Saudável,398,2025-11-10 05:10:00,51.72,cancelado,13,0,,5,2025-11-10
+37,5,Temaki House,São Paulo,Japonesa,82,2025-11-10 06:37:00,77.0,cancelado,13,0,,6,2025-11-10
+6,4,Burguer Lab,Guarulhos,Hambúrguer,295,2025-11-10 09:19:00,101.55,entregue,25,29,3.0,9,2025-11-10
+1247,4,Burguer Lab,Guarulhos,Hambúrguer,454,2025-11-10 20:05:00,102.02,entregue,27,24,1.0,20,2025-11-10
+668,4,Burguer Lab,Guarulhos,Hambúrguer,275,2025-11-11 03:53:00,33.62,entregue,17,29,2.0,3,2025-11-11
+1419,1,Sabor da Vila,São Paulo,Brasileira,322,2025-11-11 06:04:00,97.1,entregue,37,68,4.0,6,2025-11-11
+1486,2,Verde no Pote,Guarulhos,Saudável,89,2025-11-11 21:49:00,149.86,em_preparo,22,67,,21,2025-11-11
+829,3,Forno & Massa,São Paulo,Italiana,226,2025-11-12 03:45:00,24.99,em_entrega,17,43,,3,2025-11-12
+427,3,Forno & Massa,São Paulo,Italiana,329,2025-11-12 11:23:00,123.45,entregue,26,74,5.0,11,2025-11-12
+1280,5,Temaki House,São Paulo,Japonesa,293,2025-11-12 21:23:00,83.88,entregue,15,47,3.0,21,2025-11-12
+1325,2,Verde no Pote,Guarulhos,Saudável,365,2025-11-13 05:09:00,115.34,entregue,31,44,4.0,5,2025-11-13
+1214,2,Verde no Pote,Guarulhos,Saudável,131,2025-11-13 09:10:00,165.77,entregue,37,23,5.0,9,2025-11-13
+504,1,Sabor da Vila,São Paulo,Brasileira,85,2025-11-13 15:13:00,82.8,entregue,38,48,2.0,15,2025-11-13
+492,2,Verde no Pote,Guarulhos,Saudável,176,2025-11-13 17:23:00,77.32,entregue,31,48,1.0,17,2025-11-13
+1023,4,Burguer Lab,Guarulhos,Hambúrguer,130,2025-11-14 00:14:00,155.02,entregue,40,51,4.0,0,2025-11-14
+921,3,Forno & Massa,São Paulo,Italiana,437,2025-11-15 12:46:00,164.71,entregue,42,30,4.0,12,2025-11-15
+1408,2,Verde no Pote,Guarulhos,Saudável,156,2025-11-16 02:59:00,45.95,entregue,47,56,4.0,2,2025-11-16
+396,4,Burguer Lab,Guarulhos,Hambúrguer,167,2025-11-16 05:09:00,90.63,entregue,26,20,1.0,5,2025-11-16
+558,3,Forno & Massa,São Paulo,Italiana,314,2025-11-16 09:02:00,54.75,entregue,43,34,3.0,9,2025-11-16
+1245,1,Sabor da Vila,São Paulo,Brasileira,3,2025-11-16 09:02:00,27.36,entregue,10,59,3.0,9,2025-11-16
+781,4,Burguer Lab,Guarulhos,Hambúrguer,318,2025-11-17 10:42:00,83.31,entregue,39,68,4.0,10,2025-11-17
+1201,3,Forno & Massa,São Paulo,Italiana,181,2025-11-17 20:13:00,103.39,em_entrega,35,56,,20,2025-11-17
+812,1,Sabor da Vila,São Paulo,Brasileira,344,2025-11-17 21:47:00,73.36,entregue,48,64,1.0,21,2025-11-17
+1371,5,Temaki House,São Paulo,Japonesa,285,2025-11-18 11:06:00,64.96,entregue,42,61,1.0,11,2025-11-18
+1141,2,Verde no Pote,Guarulhos,Saudável,191,2025-11-18 15:11:00,80.23,entregue,40,25,3.0,15,2025-11-18
+517,5,Temaki House,São Paulo,Japonesa,260,2025-11-18 19:06:00,74.17,entregue,12,31,3.0,19,2025-11-18
+904,1,Sabor da Vila,São Paulo,Brasileira,347,2025-11-19 17:06:00,155.48,entregue,31,49,5.0,17,2025-11-19
+375,3,Forno & Massa,São Paulo,Italiana,52,2025-11-20 11:57:00,151.14,entregue,17,23,2.0,11,2025-11-20
+1004,5,Temaki House,São Paulo,Japonesa,472,2025-11-20 12:53:00,25.56,cancelado,39,0,,12,2025-11-20
+1324,1,Sabor da Vila,São Paulo,Brasileira,170,2025-11-20 14:14:00,141.74,cancelado,16,0,,14,2025-11-20
+1375,5,Temaki House,São Paulo,Japonesa,394,2025-11-20 21:34:00,115.35,entregue,39,37,2.0,21,2025-11-20
+35,4,Burguer Lab,Guarulhos,Hambúrguer,277,2025-11-21 01:54:00,111.29,em_entrega,11,30,,1,2025-11-21
+565,1,Sabor da Vila,São Paulo,Brasileira,30,2025-11-21 12:39:00,67.19,entregue,31,17,4.0,12,2025-11-21
+362,5,Temaki House,São Paulo,Japonesa,50,2025-11-22 03:20:00,34.67,entregue,43,72,3.0,3,2025-11-22
+1389,1,Sabor da Vila,São Paulo,Brasileira,197,2025-11-22 04:03:00,124.39,entregue,37,29,3.0,4,2025-11-22
+358,2,Verde no Pote,Guarulhos,Saudável,203,2025-11-22 11:05:00,90.69,entregue,35,15,1.0,11,2025-11-22
+389,5,Temaki House,São Paulo,Japonesa,289,2025-11-22 13:08:00,134.59,entregue,23,28,5.0,13,2025-11-22
+48,3,Forno & Massa,São Paulo,Italiana,106,2025-11-22 23:44:00,176.44,entregue,44,49,5.0,23,2025-11-22
+364,5,Temaki House,São Paulo,Japonesa,69,2025-11-23 02:35:00,18.72,em_entrega,39,30,,2,2025-11-23
+579,4,Burguer Lab,Guarulhos,Hambúrguer,456,2025-11-23 03:28:00,147.51,entregue,43,23,1.0,3,2025-11-23
+1304,5,Temaki House,São Paulo,Japonesa,321,2025-11-23 21:45:00,110.05,cancelado,48,0,,21,2025-11-23
+304,5,Temaki House,São Paulo,Japonesa,83,2025-11-24 02:22:00,64.67,entregue,42,51,5.0,2,2025-11-24
+1384,5,Temaki House,São Paulo,Japonesa,161,2025-11-24 09:41:00,119.88,em_preparo,19,51,,9,2025-11-24
+828,5,Temaki House,São Paulo,Japonesa,212,2025-11-24 10:00:00,33.72,cancelado,20,0,,10,2025-11-24
+1471,2,Verde no Pote,Guarulhos,Saudável,441,2025-11-24 16:39:00,150.67,entregue,40,59,4.0,16,2025-11-24
+95,3,Forno & Massa,São Paulo,Italiana,429,2025-11-24 19:14:00,136.03,entregue,35,34,3.0,19,2025-11-24
+740,5,Temaki House,São Paulo,Japonesa,81,2025-11-24 21:41:00,125.88,entregue,46,41,3.0,21,2025-11-24
+179,3,Forno & Massa,São Paulo,Italiana,232,2025-11-25 17:26:00,120.1,entregue,36,63,3.0,17,2025-11-25
+1315,5,Temaki House,São Paulo,Japonesa,426,2025-11-26 10:11:00,67.34,entregue,34,69,3.0,10,2025-11-26
+1428,1,Sabor da Vila,São Paulo,Brasileira,245,2025-11-26 10:22:00,80.26,cancelado,34,0,,10,2025-11-26
+220,5,Temaki House,São Paulo,Japonesa,316,2025-11-26 10:47:00,48.43,entregue,16,72,1.0,10,2025-11-26
+592,5,Temaki House,São Paulo,Japonesa,87,2025-11-26 11:14:00,112.62,cancelado,25,0,,11,2025-11-26
+1037,5,Temaki House,São Paulo,Japonesa,323,2025-11-26 12:25:00,116.24,entregue,12,19,3.0,12,2025-11-26
+1206,3,Forno & Massa,São Paulo,Italiana,374,2025-11-26 17:09:00,115.65,em_entrega,43,45,,17,2025-11-26
+345,3,Forno & Massa,São Paulo,Italiana,448,2025-11-27 12:27:00,110.74,entregue,40,25,1.0,12,2025-11-27
+67,4,Burguer Lab,Guarulhos,Hambúrguer,163,2025-11-27 12:29:00,61.95,em_preparo,38,38,,12,2025-11-27
+1108,1,Sabor da Vila,São Paulo,Brasileira,314,2025-11-28 02:13:00,153.95,entregue,34,46,2.0,2,2025-11-28
+1287,4,Burguer Lab,Guarulhos,Hambúrguer,152,2025-11-28 08:28:00,103.83,em_entrega,36,55,,8,2025-11-28
+202,5,Temaki House,São Paulo,Japonesa,90,2025-11-28 15:10:00,160.3,entregue,12,73,3.0,15,2025-11-28
+1390,3,Forno & Massa,São Paulo,Italiana,307,2025-11-28 19:24:00,137.84,cancelado,21,0,,19,2025-11-28
+843,4,Burguer Lab,Guarulhos,Hambúrguer,100,2025-11-28 22:39:00,135.94,em_entrega,33,45,,22,2025-11-28
+1154,4,Burguer Lab,Guarulhos,Hambúrguer,264,2025-11-28 23:40:00,171.91,entregue,29,65,1.0,23,2025-11-28
+840,5,Temaki House,São Paulo,Japonesa,186,2025-11-29 09:11:00,87.79,entregue,29,66,3.0,9,2025-11-29
+943,4,Burguer Lab,Guarulhos,Hambúrguer,87,2025-11-30 12:09:00,160.14,entregue,47,45,2.0,12,2025-11-30
+529,5,Temaki House,São Paulo,Japonesa,152,2025-12-01 01:44:00,71.93,em_preparo,38,66,,1,2025-12-01
+1354,4,Burguer Lab,Guarulhos,Hambúrguer,272,2025-12-01 02:01:00,24.57,em_entrega,38,34,,2,2025-12-01
+324,1,Sabor da Vila,São Paulo,Brasileira,448,2025-12-01 08:15:00,96.3,em_entrega,49,73,,8,2025-12-01
+642,1,Sabor da Vila,São Paulo,Brasileira,233,2025-12-01 11:12:00,158.3,cancelado,10,0,,11,2025-12-01
+1170,2,Verde no Pote,Guarulhos,Saudável,492,2025-12-01 19:52:00,163.12,em_entrega,38,70,,19,2025-12-01
+153,3,Forno & Massa,São Paulo,Italiana,408,2025-12-01 22:37:00,136.21,entregue,23,55,2.0,22,2025-12-01
+804,2,Verde no Pote,Guarulhos,Saudável,490,2025-12-02 05:33:00,38.94,entregue,27,65,3.0,5,2025-12-02
+1103,2,Verde no Pote,Guarulhos,Saudável,230,2025-12-02 09:50:00,98.05,entregue,10,54,2.0,9,2025-12-02
+669,5,Temaki House,São Paulo,Japonesa,437,2025-12-02 09:54:00,101.04,em_preparo,24,42,,9,2025-12-02
+715,4,Burguer Lab,Guarulhos,Hambúrguer,439,2025-12-02 20:13:00,25.44,entregue,42,72,1.0,20,2025-12-02
+1081,3,Forno & Massa,São Paulo,Italiana,167,2025-12-02 22:24:00,161.13,entregue,32,35,1.0,22,2025-12-02
+969,1,Sabor da Vila,São Paulo,Brasileira,254,2025-12-02 23:12:00,68.9,entregue,32,48,4.0,23,2025-12-02
+530,2,Verde no Pote,Guarulhos,Saudável,336,2025-12-03 03:42:00,42.18,entregue,19,35,3.0,3,2025-12-03
+1006,4,Burguer Lab,Guarulhos,Hambúrguer,394,2025-12-03 04:27:00,42.05,entregue,44,15,1.0,4,2025-12-03
+733,5,Temaki House,São Paulo,Japonesa,348,2025-12-03 09:25:00,56.99,entregue,22,50,5.0,9,2025-12-03
+61,2,Verde no Pote,Guarulhos,Saudável,108,2025-12-03 17:20:00,170.05,entregue,30,43,4.0,17,2025-12-03
+527,2,Verde no Pote,Guarulhos,Saudável,176,2025-12-04 00:38:00,46.53,entregue,20,15,3.0,0,2025-12-04
+1262,5,Temaki House,São Paulo,Japonesa,169,2025-12-04 12:23:00,96.2,entregue,16,21,3.0,12,2025-12-04
+452,4,Burguer Lab,Guarulhos,Hambúrguer,193,2025-12-04 13:19:00,41.74,entregue,12,64,2.0,13,2025-12-04
+586,5,Temaki House,São Paulo,Japonesa,308,2025-12-04 13:36:00,158.75,cancelado,23,0,,13,2025-12-04
+264,4,Burguer Lab,Guarulhos,Hambúrguer,218,2025-12-04 16:03:00,70.18,em_entrega,19,69,,16,2025-12-04
+1067,4,Burguer Lab,Guarulhos,Hambúrguer,441,2025-12-04 20:41:00,111.86,entregue,19,15,4.0,20,2025-12-04
+577,4,Burguer Lab,Guarulhos,Hambúrguer,296,2025-12-04 22:09:00,76.38,entregue,23,17,3.0,22,2025-12-04
+499,5,Temaki House,São Paulo,Japonesa,483,2025-12-05 03:53:00,67.61,em_preparo,37,33,,3,2025-12-05
+24,4,Burguer Lab,Guarulhos,Hambúrguer,491,2025-12-05 06:27:00,58.86,cancelado,50,0,,6,2025-12-05
+1182,2,Verde no Pote,Guarulhos,Saudável,43,2025-12-05 12:33:00,70.61,entregue,42,64,1.0,12,2025-12-05
+421,5,Temaki House,São Paulo,Japonesa,170,2025-12-05 12:55:00,24.86,entregue,50,53,2.0,12,2025-12-05
+438,1,Sabor da Vila,São Paulo,Brasileira,326,2025-12-05 13:26:00,128.45,em_entrega,34,32,,13,2025-12-05
+862,2,Verde no Pote,Guarulhos,Saudável,283,2025-12-05 15:29:00,41.64,entregue,42,49,4.0,15,2025-12-05
+722,4,Burguer Lab,Guarulhos,Hambúrguer,74,2025-12-06 21:37:00,150.21,entregue,46,34,2.0,21,2025-12-06
+693,2,Verde no Pote,Guarulhos,Saudável,247,2025-12-06 22:48:00,24.81,entregue,30,65,2.0,22,2025-12-06
+1143,3,Forno & Massa,São Paulo,Italiana,328,2025-12-06 23:00:00,99.81,entregue,37,75,5.0,23,2025-12-06
+1273,1,Sabor da Vila,São Paulo,Brasileira,481,2025-12-07 00:30:00,173.9,entregue,26,49,3.0,0,2025-12-07
+470,1,Sabor da Vila,São Paulo,Brasileira,472,2025-12-07 13:17:00,43.2,entregue,43,25,2.0,13,2025-12-07
+491,4,Burguer Lab,Guarulhos,Hambúrguer,13,2025-12-07 15:02:00,18.05,em_preparo,36,68,,15,2025-12-07
+409,3,Forno & Massa,São Paulo,Italiana,21,2025-12-08 01:06:00,166.71,entregue,42,47,1.0,1,2025-12-08
+1443,3,Forno & Massa,São Paulo,Italiana,60,2025-12-08 03:33:00,145.92,entregue,18,49,5.0,3,2025-12-08
+680,3,Forno & Massa,São Paulo,Italiana,278,2025-12-08 14:49:00,58.9,entregue,26,46,1.0,14,2025-12-08
+348,1,Sabor da Vila,São Paulo,Brasileira,441,2025-12-08 15:44:00,175.82,cancelado,13,0,,15,2025-12-08
+754,4,Burguer Lab,Guarulhos,Hambúrguer,328,2025-12-08 16:28:00,156.37,entregue,32,15,3.0,16,2025-12-08
+764,4,Burguer Lab,Guarulhos,Hambúrguer,76,2025-12-08 16:35:00,36.92,entregue,30,67,4.0,16,2025-12-08
+382,3,Forno & Massa,São Paulo,Italiana,78,2025-12-08 22:28:00,161.48,entregue,50,26,1.0,22,2025-12-08
+286,2,Verde no Pote,Guarulhos,Saudável,148,2025-12-09 07:21:00,73.67,entregue,24,75,3.0,7,2025-12-09
+1447,1,Sabor da Vila,São Paulo,Brasileira,109,2025-12-09 09:05:00,137.61,entregue,20,24,1.0,9,2025-12-09
+181,5,Temaki House,São Paulo,Japonesa,253,2025-12-09 09:19:00,161.57,entregue,23,38,2.0,9,2025-12-09
+319,3,Forno & Massa,São Paulo,Italiana,28,2025-12-09 15:32:00,24.46,entregue,31,43,4.0,15,2025-12-09
+81,2,Verde no Pote,Guarulhos,Saudável,344,2025-12-10 05:04:00,166.46,entregue,17,69,1.0,5,2025-12-10
+936,3,Forno & Massa,São Paulo,Italiana,441,2025-12-10 07:36:00,26.36,entregue,50,33,1.0,7,2025-12-10
+1109,4,Burguer Lab,Guarulhos,Hambúrguer,370,2025-12-10 08:43:00,154.17,entregue,34,32,4.0,8,2025-12-10
+926,5,Temaki House,São Paulo,Japonesa,387,2025-12-12 07:10:00,166.92,em_entrega,20,15,,7,2025-12-12
+694,2,Verde no Pote,Guarulhos,Saudável,131,2025-12-12 07:11:00,43.6,entregue,13,63,3.0,7,2025-12-12
+383,5,Temaki House,São Paulo,Japonesa,185,2025-12-12 22:07:00,26.06,entregue,30,52,5.0,22,2025-12-12
+949,3,Forno & Massa,São Paulo,Italiana,397,2025-12-12 23:10:00,43.19,em_entrega,27,37,,23,2025-12-12
+571,1,Sabor da Vila,São Paulo,Brasileira,196,2025-12-13 07:50:00,147.11,entregue,47,66,1.0,7,2025-12-13
+640,2,Verde no Pote,Guarulhos,Saudável,362,2025-12-13 07:59:00,32.19,entregue,50,33,1.0,7,2025-12-13
+763,1,Sabor da Vila,São Paulo,Brasileira,420,2025-12-13 09:49:00,159.12,entregue,34,23,4.0,9,2025-12-13
+965,1,Sabor da Vila,São Paulo,Brasileira,234,2025-12-13 10:29:00,40.11,entregue,18,19,3.0,10,2025-12-13
+1421,1,Sabor da Vila,São Paulo,Brasileira,274,2025-12-13 17:25:00,64.18,entregue,16,58,4.0,17,2025-12-13
+776,4,Burguer Lab,Guarulhos,Hambúrguer,216,2025-12-14 04:27:00,106.3,entregue,18,72,5.0,4,2025-12-14
+1295,1,Sabor da Vila,São Paulo,Brasileira,91,2025-12-14 09:03:00,71.16,em_entrega,26,29,,9,2025-12-14
+671,2,Verde no Pote,Guarulhos,Saudável,189,2025-12-14 15:59:00,71.92,entregue,34,26,5.0,15,2025-12-14
+340,1,Sabor da Vila,São Paulo,Brasileira,253,2025-12-14 19:23:00,103.59,entregue,48,51,3.0,19,2025-12-14
+1269,1,Sabor da Vila,São Paulo,Brasileira,52,2025-12-14 21:37:00,137.64,entregue,29,43,1.0,21,2025-12-14
+293,5,Temaki House,São Paulo,Japonesa,467,2025-12-15 03:03:00,85.0,entregue,49,17,4.0,3,2025-12-15
+1440,3,Forno & Massa,São Paulo,Italiana,213,2025-12-15 16:51:00,74.78,em_preparo,17,43,,16,2025-12-15
+448,1,Sabor da Vila,São Paulo,Brasileira,217,2025-12-15 19:15:00,84.69,entregue,31,57,1.0,19,2025-12-15
+1083,5,Temaki House,São Paulo,Japonesa,128,2025-12-16 16:11:00,133.93,entregue,39,59,2.0,16,2025-12-16
+1054,4,Burguer Lab,Guarulhos,Hambúrguer,433,2025-12-16 19:50:00,53.82,entregue,36,21,3.0,19,2025-12-16
+274,3,Forno & Massa,São Paulo,Italiana,115,2025-12-16 20:58:00,152.56,entregue,50,66,5.0,20,2025-12-16
+684,2,Verde no Pote,Guarulhos,Saudável,414,2025-12-16 23:47:00,133.92,entregue,46,65,4.0,23,2025-12-16
+515,1,Sabor da Vila,São Paulo,Brasileira,478,2025-12-17 02:05:00,149.31,entregue,37,64,4.0,2,2025-12-17
+1376,4,Burguer Lab,Guarulhos,Hambúrguer,268,2025-12-17 02:40:00,101.26,entregue,13,73,2.0,2,2025-12-17
+195,5,Temaki House,São Paulo,Japonesa,197,2025-12-17 06:54:00,179.95,entregue,39,34,4.0,6,2025-12-17
+1448,5,Temaki House,São Paulo,Japonesa,428,2025-12-17 07:37:00,163.51,entregue,48,41,1.0,7,2025-12-17
+683,5,Temaki House,São Paulo,Japonesa,337,2025-12-17 09:03:00,71.8,entregue,36,60,4.0,9,2025-12-17
+451,3,Forno & Massa,São Paulo,Italiana,341,2025-12-17 12:05:00,50.6,entregue,23,63,4.0,12,2025-12-17
+649,4,Burguer Lab,Guarulhos,Hambúrguer,260,2025-12-17 13:55:00,164.98,entregue,25,48,1.0,13,2025-12-17
+751,3,Forno & Massa,São Paulo,Italiana,228,2025-12-17 20:58:00,37.25,entregue,16,59,4.0,20,2025-12-17
+1223,5,Temaki House,São Paulo,Japonesa,192,2025-12-17 22:56:00,143.37,entregue,38,39,4.0,22,2025-12-17
+999,4,Burguer Lab,Guarulhos,Hambúrguer,221,2025-12-18 01:06:00,94.47,entregue,50,40,4.0,1,2025-12-18
+200,4,Burguer Lab,Guarulhos,Hambúrguer,445,2025-12-18 02:13:00,146.37,entregue,10,25,2.0,2,2025-12-18
+1377,2,Verde no Pote,Guarulhos,Saudável,427,2025-12-18 06:02:00,116.96,entregue,47,51,2.0,6,2025-12-18
+503,2,Verde no Pote,Guarulhos,Saudável,438,2025-12-18 08:30:00,76.73,entregue,35,46,2.0,8,2025-12-18
+1369,5,Temaki House,São Paulo,Japonesa,183,2025-12-18 13:08:00,119.41,entregue,47,20,4.0,13,2025-12-18
+853,2,Verde no Pote,Guarulhos,Saudável,74,2025-12-18 13:31:00,127.73,entregue,14,56,2.0,13,2025-12-18
+1210,1,Sabor da Vila,São Paulo,Brasileira,141,2025-12-18 13:43:00,114.32,entregue,41,72,5.0,13,2025-12-18
+337,4,Burguer Lab,Guarulhos,Hambúrguer,419,2025-12-18 13:44:00,25.59,entregue,15,47,2.0,13,2025-12-18
+1243,5,Temaki House,São Paulo,Japonesa,159,2025-12-18 14:06:00,119.93,entregue,46,29,5.0,14,2025-12-18
+466,1,Sabor da Vila,São Paulo,Brasileira,179,2025-12-19 16:11:00,89.75,entregue,14,46,3.0,16,2025-12-19
+609,3,Forno & Massa,São Paulo,Italiana,414,2025-12-19 22:46:00,179.47,entregue,23,20,4.0,22,2025-12-19
+64,2,Verde no Pote,Guarulhos,Saudável,425,2025-12-20 03:23:00,71.61,entregue,17,18,5.0,3,2025-12-20
+861,3,Forno & Massa,São Paulo,Italiana,223,2025-12-20 09:23:00,52.99,entregue,36,59,1.0,9,2025-12-20
+797,1,Sabor da Vila,São Paulo,Brasileira,309,2025-12-20 10:23:00,116.33,entregue,10,19,4.0,10,2025-12-20
+208,5,Temaki House,São Paulo,Japonesa,162,2025-12-20 17:59:00,150.01,entregue,32,61,2.0,17,2025-12-20
+417,2,Verde no Pote,Guarulhos,Saudável,124,2025-12-20 19:09:00,44.05,cancelado,14,0,,19,2025-12-20
+355,1,Sabor da Vila,São Paulo,Brasileira,37,2025-12-20 19:42:00,29.86,entregue,12,60,4.0,19,2025-12-20
+1226,5,Temaki House,São Paulo,Japonesa,298,2025-12-20 23:34:00,174.67,entregue,23,52,4.0,23,2025-12-20
+1233,4,Burguer Lab,Guarulhos,Hambúrguer,48,2025-12-21 04:18:00,109.5,cancelado,44,0,,4,2025-12-21
+46,5,Temaki House,São Paulo,Japonesa,118,2025-12-21 07:18:00,98.47,entregue,40,43,4.0,7,2025-12-21
+959,1,Sabor da Vila,São Paulo,Brasileira,225,2025-12-21 14:00:00,50.87,em_preparo,31,32,,14,2025-12-21
+404,1,Sabor da Vila,São Paulo,Brasileira,500,2025-12-21 17:11:00,65.72,entregue,39,71,5.0,17,2025-12-21
+441,2,Verde no Pote,Guarulhos,Saudável,110,2025-12-22 04:32:00,130.87,entregue,39,65,4.0,4,2025-12-22
+947,5,Temaki House,São Paulo,Japonesa,160,2025-12-22 07:02:00,39.6,entregue,37,43,3.0,7,2025-12-22
+325,3,Forno & Massa,São Paulo,Italiana,448,2025-12-22 22:21:00,62.84,cancelado,30,0,,22,2025-12-22
+12,5,Temaki House,São Paulo,Japonesa,387,2025-12-23 02:27:00,155.79,entregue,31,62,2.0,2,2025-12-23
+1475,3,Forno & Massa,São Paulo,Italiana,237,2025-12-23 15:45:00,97.24,em_preparo,49,43,,15,2025-12-23
+1250,5,Temaki House,São Paulo,Japonesa,432,2025-12-23 22:33:00,138.21,entregue,14,55,3.0,22,2025-12-23
+594,4,Burguer Lab,Guarulhos,Hambúrguer,35,2025-12-24 13:02:00,49.63,entregue,49,61,2.0,13,2025-12-24
+914,5,Temaki House,São Paulo,Japonesa,424,2025-12-24 17:02:00,111.81,entregue,46,72,1.0,17,2025-12-24
+851,1,Sabor da Vila,São Paulo,Brasileira,253,2025-12-24 17:12:00,98.73,em_preparo,19,36,,17,2025-12-24
+894,4,Burguer Lab,Guarulhos,Hambúrguer,253,2025-12-24 18:35:00,174.91,entregue,43,56,1.0,18,2025-12-24
+1381,4,Burguer Lab,Guarulhos,Hambúrguer,442,2025-12-24 21:16:00,151.92,entregue,16,56,3.0,21,2025-12-24
+1198,2,Verde no Pote,Guarulhos,Saudável,78,2025-12-25 08:37:00,38.07,em_preparo,41,73,,8,2025-12-25
+141,3,Forno & Massa,São Paulo,Italiana,155,2025-12-25 16:47:00,179.62,entregue,44,34,4.0,16,2025-12-25
+1393,1,Sabor da Vila,São Paulo,Brasileira,467,2025-12-26 03:46:00,165.99,entregue,15,32,4.0,3,2025-12-26
+555,3,Forno & Massa,São Paulo,Italiana,215,2025-12-26 07:32:00,132.87,cancelado,12,0,,7,2025-12-26
+1228,3,Forno & Massa,São Paulo,Italiana,359,2025-12-26 08:54:00,95.31,em_entrega,14,69,,8,2025-12-26
+1457,4,Burguer Lab,Guarulhos,Hambúrguer,48,2025-12-26 09:06:00,114.39,entregue,18,49,4.0,9,2025-12-26
+1203,1,Sabor da Vila,São Paulo,Brasileira,239,2025-12-26 10:33:00,150.37,entregue,21,31,5.0,10,2025-12-26
+1246,5,Temaki House,São Paulo,Japonesa,64,2025-12-26 17:19:00,59.74,entregue,10,42,3.0,17,2025-12-26
+772,4,Burguer Lab,Guarulhos,Hambúrguer,390,2025-12-27 02:53:00,179.46,entregue,27,56,1.0,2,2025-12-27
+1082,2,Verde no Pote,Guarulhos,Saudável,68,2025-12-28 00:48:00,155.63,em_entrega,44,69,,0,2025-12-28
+265,4,Burguer Lab,Guarulhos,Hambúrguer,297,2025-12-28 05:37:00,22.14,entregue,27,47,3.0,5,2025-12-28
+1088,4,Burguer Lab,Guarulhos,Hambúrguer,342,2025-12-28 11:13:00,40.23,entregue,50,28,3.0,11,2025-12-28
+347,4,Burguer Lab,Guarulhos,Hambúrguer,62,2025-12-28 20:30:00,127.34,entregue,44,49,2.0,20,2025-12-28
+356,5,Temaki House,São Paulo,Japonesa,226,2025-12-29 05:12:00,57.71,entregue,38,37,5.0,5,2025-12-29
+145,2,Verde no Pote,Guarulhos,Saudável,69,2025-12-29 07:45:00,128.9,entregue,11,19,1.0,7,2025-12-29
+511,4,Burguer Lab,Guarulhos,Hambúrguer,222,2025-12-30 00:31:00,58.43,entregue,44,31,3.0,0,2025-12-30
+1422,4,Burguer Lab,Guarulhos,Hambúrguer,439,2025-12-30 01:35:00,26.82,entregue,42,67,3.0,1,2025-12-30
+1056,3,Forno & Massa,São Paulo,Italiana,358,2025-12-30 08:16:00,59.57,entregue,31,24,5.0,8,2025-12-30
+1117,4,Burguer Lab,Guarulhos,Hambúrguer,428,2025-12-30 09:32:00,146.96,em_entrega,42,46,,9,2025-12-30
+161,2,Verde no Pote,Guarulhos,Saudável,358,2025-12-30 13:53:00,62.49,entregue,44,29,4.0,13,2025-12-30
+691,2,Verde no Pote,Guarulhos,Saudável,156,2025-12-30 18:44:00,54.21,entregue,40,42,2.0,18,2025-12-30
+810,3,Forno & Massa,São Paulo,Italiana,432,2025-12-30 22:01:00,18.07,em_preparo,28,68,,22,2025-12-30
+1346,2,Verde no Pote,Guarulhos,Saudável,264,2025-12-31 02:48:00,61.88,entregue,16,33,4.0,2,2025-12-31
+401,4,Burguer Lab,Guarulhos,Hambúrguer,278,2025-12-31 06:43:00,117.36,entregue,24,47,1.0,6,2025-12-31
+1169,2,Verde no Pote,Guarulhos,Saudável,28,2025-12-31 08:17:00,121.06,entregue,41,39,1.0,8,2025-12-31
+1336,1,Sabor da Vila,São Paulo,Brasileira,252,2025-12-31 12:59:00,106.34,entregue,45,22,1.0,12,2025-12-31
+820,5,Temaki House,São Paulo,Japonesa,92,2025-12-31 16:09:00,90.1,entregue,19,21,2.0,16,2025-12-31
